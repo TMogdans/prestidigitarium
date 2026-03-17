@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Magie Wiki',
+      title: 'Prestidigitarium',
       defaultLocale: 'de',
       locales: {
         de: { label: 'Deutsch', lang: 'de' },
