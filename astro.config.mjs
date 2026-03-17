@@ -1,26 +1,37 @@
-// @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
-			],
-		}),
-	],
+  integrations: [
+    starlight({
+      title: 'Magie Wiki',
+      defaultLocale: 'de',
+      locales: {
+        de: { label: 'Deutsch', lang: 'de' },
+      },
+      sidebar: [
+        { label: 'Startseite', link: '/' },
+        {
+          label: 'Sparten',
+          autogenerate: { directory: 'sparten' },
+        },
+        {
+          label: 'Techniken',
+          autogenerate: { directory: 'techniken' },
+        },
+        {
+          label: 'Effekte',
+          autogenerate: { directory: 'effekte' },
+        },
+        {
+          label: 'Requisiten',
+          autogenerate: { directory: 'requisiten' },
+        },
+        {
+          label: 'Ressourcen',
+          autogenerate: { directory: 'ressourcen' },
+        },
+      ],
+    }),
+  ],
 });
