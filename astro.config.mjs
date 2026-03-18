@@ -5,9 +5,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Prestidigitarium',
-      defaultLocale: 'de',
+      defaultLocale: 'root',
       locales: {
-        de: { label: 'Deutsch', lang: 'de' },
+        root: { label: 'Deutsch', lang: 'de' },
       },
       sidebar: [
         { label: 'Startseite', link: '/' },
@@ -26,6 +26,10 @@ export default defineConfig({
         {
           label: 'Requisiten',
           autogenerate: { directory: 'requisiten' },
+        },
+        {
+          label: 'Tricks',
+          autogenerate: { directory: 'tricks' },
         },
         {
           label: 'Ressourcen',
