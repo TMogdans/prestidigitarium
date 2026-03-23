@@ -26,6 +26,14 @@ Eine Sammlung empfehlenswerter Bücher über Zauberkunst.
 - **Geeignet für:** Fortgeschrittene
 - **Notizen:** Eines der einflussreichsten Bücher der Kartenmagie. Die wahre Identität des Autors „S.W. Erdnase" ist bis heute unbekannt.
 
+### Modern Coin Magic — J.B. Bobo (1952)
+
+- **Sprache:** Englisch
+- **Format:** E-Book (Amazon)
+- **Schwerpunkt:** Münzmagie — Techniken, Tricks und Routinen
+- **Geeignet für:** Anfänger bis Fortgeschrittene
+- **Notizen:** Das Standardwerk für Münzmagie. Deckt alles ab: [Classic Palm](/techniken/muenzen/classic-palm), [French Drop](/techniken/muenzen/french-drop), [Retention Vanish](/techniken/muenzen/retention-vanish), [Miser's Dream](/tricks/muenzen/misers-dream), [Matrix](/tricks/muenzen/matrix) und vieles mehr. Vergleichbar mit Erdnase's Stellenwert für Karten — wer Münzmagie lernen will, kommt an Bobo nicht vorbei.
+
 ### Royal Road to Card Magic — Jean Hugard & Frederick Braué (1949)
 
 - **Sprache:** Englisch

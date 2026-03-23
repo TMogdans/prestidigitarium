@@ -40,7 +40,7 @@ Es gibt zwei grundlegend verschiedene Ansätze:
 Kommerzielles Set: Eine Half Dollar und eine mexikanische Centavo — die Centavo passt in eine ausgehöhlte Half Dollar. Selbstarbeitend, sehr einfach, aber überzeugend.
 
 ### David Roth's Copper/Silver
-Reine Handtechnik ohne Gimmick. Nutzt [Classic Palm](/techniken/muenzen/classic-palm) und Shuttle Pass für eine komplett prüfbare Routine.
+Reine Handtechnik ohne Gimmick. Nutzt [Classic Palm](/techniken/muenzen/classic-palm) und [Shuttle Pass](/techniken/muenzen/shuttle-pass) für eine komplett prüfbare Routine.
 
 ### Coins Through Table
 Verwandter Effekt: Münzen durchdringen scheinbar die Tischplatte. Oft als Erweiterung von Copper & Silver präsentiert.

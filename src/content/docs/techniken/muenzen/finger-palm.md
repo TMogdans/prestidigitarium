@@ -49,7 +49,7 @@ Die Münze liegt in der natürlichen Krümmung von Mittel- und Ringfinger, an de
 
 - **[Retention Vanish](/techniken/muenzen/retention-vanish)** — als Endposition, wenn der Classic Palm noch nicht sitzt
 - **Münzproduktionen** — Münze aus dem Finger Palm „erscheinen" lassen
-- **Shuttle Pass** — Münze wird scheinbar übergeben, bleibt aber im Finger Palm
+- **[Shuttle Pass](/techniken/muenzen/shuttle-pass)** — Münze wird scheinbar übergeben, bleibt aber im Finger Palm
 - **Alltagsmagie** — ideal für spontane Close-up-Situationen
 
 ## Verwandte Techniken

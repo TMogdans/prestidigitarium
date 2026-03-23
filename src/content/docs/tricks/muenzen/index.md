@@ -15,6 +15,9 @@ Münztricks gehören zu den ältesten und direktesten Formen der Close-up-Magie.
 - [Coin Bite](coin-bite) — der Magier beißt ein Stück aus der Münze
 - [Hands of Midas](hands-of-midas) — Münzen erscheinen zwischen den Händen aus dem Nichts
 - [Matrix](matrix) — vier Münzen wandern unter Karten an einen Ort
+- [Three Fly](three-fly) — Münzen springen sichtbar an den Fingerspitzen von Hand zu Hand
+- [Spellbound](spellbound) — eine Münze verwandelt sich vor den Augen in eine andere
+- [Coin Through Table](coin-through-table) — Münze durchdringt die Tischplatte
 
 ## Grundlegende Techniken
 
