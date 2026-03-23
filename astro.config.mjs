@@ -32,8 +32,16 @@ export default defineConfig({
           autogenerate: { directory: 'tricks' },
         },
         {
+          label: 'Konzepte',
+          autogenerate: { directory: 'konzepte' },
+        },
+        {
           label: 'Ressourcen',
           autogenerate: { directory: 'ressourcen' },
+        },
+        {
+          label: 'Glossar',
+          link: '/glossar',
         },
       ],
     }),
