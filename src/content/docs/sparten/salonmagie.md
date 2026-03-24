@@ -23,7 +23,7 @@ Salonmagie (Parlour Magic) ist das Bindeglied zwischen Close-up und Bühnenmagie
 
 ## Wichtige Techniken
 
-- [Misdirection](/techniken/misdirection/) — Aufmerksamkeit steuern
+- [Misdirection](/konzepte/misdirection) — Aufmerksamkeit steuern
 - [Forces](/techniken/forces/) — Zuschauerwahl kontrollieren
 
 ## Quellen & Referenzen

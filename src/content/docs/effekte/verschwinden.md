@@ -21,7 +21,7 @@ Der Zuschauer sieht ein Objekt, das plötzlich nicht mehr da ist. Je nach Sparte
 ## Typische Techniken
 
 - [Palmieren](/techniken/palmieren/) — Das Objekt wird heimlich in der Hand verborgen
-- [Misdirection](/techniken/misdirection/) — Ablenkung im Moment des Verschwindens
+- [Misdirection](/konzepte/misdirection) — Ablenkung im Moment des Verschwindens
 - Gimmicks wie [Thumb Tip](/requisiten/gimmicks/thumb-tip/) — Hilfsmittel zum Verstecken
 
 ## Verwendete Requisiten

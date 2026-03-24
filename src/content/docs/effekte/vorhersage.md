@@ -22,7 +22,7 @@ Vor dem Trick wird eine Vorhersage geschrieben, versiegelt oder anderweitig gesi
 ## Typische Techniken
 
 - [Forces](/techniken/forces/) — Die „freie Wahl" wird kontrolliert
-- [Misdirection](/techniken/misdirection/) — Ablenkung von der Methode
+- [Misdirection](/konzepte/misdirection) — Ablenkung von der Methode
 - Multiple Outs — Mehrere mögliche Ergebnisse sind vorbereitet
 - Peek — Der Magier sieht heimlich die Wahl des Zuschauers
 

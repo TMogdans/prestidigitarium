@@ -23,7 +23,7 @@ Mentalmagie (auch Mentalism) erzeugt den Eindruck übernatürlicher geistiger F�
 
 ## Wichtige Techniken
 
-- [Misdirection](/techniken/misdirection/) — Psychologische Ablenkung
+- [Misdirection](/konzepte/misdirection) — Psychologische Ablenkung
 - [Forces](/techniken/forces/) — Dem Zuschauer scheinbar freie Wahl geben
 - Cold Reading — Informationen durch Beobachtung gewinnen
 - Dual Reality — Verschiedene Zuschauer erleben verschiedene Realitäten

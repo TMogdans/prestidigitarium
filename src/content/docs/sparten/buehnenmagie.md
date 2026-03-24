@@ -23,7 +23,7 @@ Bühnenmagie umfasst großformatige Illusionen, die vor einem größeren Publiku
 
 ## Wichtige Techniken
 
-- [Misdirection](/techniken/misdirection/) — Auch auf der Bühne essentiell
+- [Misdirection](/konzepte/misdirection) — Auch auf der Bühne essentiell
 
 ## Quellen & Referenzen
 

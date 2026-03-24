@@ -25,7 +25,7 @@ Close-up Magie (auch Tischmagie oder Mikromagie) wird in unmittelbarer Nähe zum
 - [Palmieren](/techniken/palmieren/) — Objekte unsichtbar in der Hand verbergen
 - [Controls](/techniken/controls/) — Eine Karte unbemerkt kontrollieren
 - [Forces](/techniken/forces/) — Dem Zuschauer eine bestimmte Karte „aufzwingen"
-- [Misdirection](/techniken/misdirection/) — Aufmerksamkeit gezielt lenken
+- [Misdirection](/konzepte/misdirection) — Aufmerksamkeit gezielt lenken
 
 ## Quellen & Referenzen
 

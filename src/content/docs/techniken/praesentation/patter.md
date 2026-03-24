@@ -40,7 +40,7 @@ Viele Magier reden zu viel. Eine kurze, treffende Geschichte ist wirkungsvoller 
 
 ## Misdirection durch Patter
 
-Sprache ist das stärkste Mittel der [Misdirection](/techniken/misdirection): Man lenkt die Aufmerksamkeit des Zuschauers durch das, worüber man spricht — nicht durch Gesten. Wenn der Magier sagt „Schau mal hier", schauen die Zuschauer dort.
+Sprache ist das stärkste Mittel der [Misdirection](/konzepte/misdirection): Man lenkt die Aufmerksamkeit des Zuschauers durch das, worüber man spricht — nicht durch Gesten. Wenn der Magier sagt „Schau mal hier", schauen die Zuschauer dort.
 
 ## Timing & Pausen
 

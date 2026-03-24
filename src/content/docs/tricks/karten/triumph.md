@@ -45,7 +45,7 @@ Den Namen und die heute bekannte Form gab dem Trick **Dai Vernon** (*The Profess
 
 - **[Falschmischen](/techniken/falschmischen)** — das scheinbar chaotische Mischen ist kontrolliert
 - **[Controls](/techniken/controls/)** — die gewählte Karte bleibt oder kommt an eine bekannte Position
-- **[Misdirection](/techniken/misdirection)** — der dramatische visuelle Effekt des gemischten Decks lenkt ab
+- **[Misdirection](/konzepte/misdirection)** — der dramatische visuelle Effekt des gemischten Decks lenkt ab
 
 ## Requisiten
 

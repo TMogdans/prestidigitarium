@@ -51,7 +51,7 @@ Die Ambitious Card basiert typischerweise auf einer Kombination aus:
 - **[Double Lift](/techniken/double-lift)** — die Karte scheint oben zu liegen, ist aber schon wieder „weg"
 - **[Controls](/techniken/controls/)** — die Karte wird unbemerkt nach oben gebracht
 - **[Falschmischen](/techniken/falschmischen)** — das Deck wird scheinbar gemischt, die Karte bleibt oben
-- **[Misdirection](/techniken/misdirection)** — die Aufmerksamkeit des Zuschauers wird gelenkt
+- **[Misdirection](/konzepte/misdirection)** — die Aufmerksamkeit des Zuschauers wird gelenkt
 
 Eine vollständige Routine besteht aus mehreren **Phasen**, die jeweils auf einer anderen Technik basieren. Das macht sie sowohl für Anfänger (einfache Version mit wenigen Phasen) als auch für Fortgeschrittene interessant.
 

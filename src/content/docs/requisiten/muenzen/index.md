@@ -34,7 +34,7 @@ Groß und gut sichtbar, beliebt für bestimmte Routinen.
 ## Wichtige Techniken mit Münzen
 
 - [Palmieren](/techniken/palmieren/) — Classic Palm, Finger Palm
-- [Misdirection](/techniken/misdirection/) — Essentiell bei Münztricks
+- [Misdirection](/konzepte/misdirection) — Essentiell bei Münztricks
 
 ## Quellen & Referenzen
 

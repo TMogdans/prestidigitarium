@@ -24,7 +24,7 @@ Straßenmagie (Street Magic) wird im öffentlichen Raum vorgeführt — spontan,
 ## Wichtige Techniken
 
 - [Palmieren](/techniken/palmieren/) — Objekte verbergen
-- [Misdirection](/techniken/misdirection/) — Lenken der Aufmerksamkeit
+- [Misdirection](/konzepte/misdirection) — Lenken der Aufmerksamkeit
 - Improvisierte Patter — Spontane Geschichten und Interaktion
 
 ## Bekannte Vertreter

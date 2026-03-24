@@ -47,7 +47,7 @@ Eine der bekanntesten modernen Versionen ist **MacDonald's Aces**, die unter Kar
 - **[Double Lift](/techniken/double-lift)** — zeigt scheinbar das Ass, während bereits eine andere Karte darunter wandert
 - **[Controls](/techniken/controls/)** — die Asse werden unbemerkt bewegt
 - **[Palmieren](/techniken/palmieren)** — Karten werden zwischen den Paketen palmt transferiert
-- **[Misdirection](/techniken/misdirection)** — jede Phase lenkt von der nächsten ab
+- **[Misdirection](/konzepte/misdirection)** — jede Phase lenkt von der nächsten ab
 
 ## Requisiten
 

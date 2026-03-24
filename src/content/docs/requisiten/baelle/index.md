@@ -33,7 +33,7 @@ Gehäkelte oder gestrickte Bälle für das klassische Cups & Balls.
 ## Wichtige Techniken
 
 - [Palmieren](/techniken/palmieren/) — Bälle verbergen
-- [Misdirection](/techniken/misdirection/) — Ablenkung beim Laden
+- [Misdirection](/konzepte/misdirection) — Ablenkung beim Laden
 
 ## Quellen & Referenzen
 

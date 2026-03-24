@@ -22,7 +22,7 @@ Ein Objekt oder eine Person schwebt frei in der Luft — ohne sichtbare Unterst�
 
 - Invisible Thread — Unsichtbarer Faden zum Schweben kleiner Objekte
 - Drahtapparate — Für Bühnenleitationen
-- [Misdirection](/techniken/misdirection/) — Ablenkung von der Methode
+- [Misdirection](/konzepte/misdirection) — Ablenkung von der Methode
 
 ## Verwendete Requisiten
 

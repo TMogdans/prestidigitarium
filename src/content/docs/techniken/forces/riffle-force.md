@@ -18,11 +18,20 @@ Der Riffle Force ist deutlich verlässlicher als der [Classic Force](/techniken/
 
 ## Ausführung
 
-1. Die Force-Karte wird in die Mitte des Decks gebracht; ein Pinky Break markiert ihre Position
+1. Die Force-Karte wird in die Mitte des Decks gebracht; ein [Pinky Break](/techniken/controls/break) markiert ihre Position
 2. Der Magier beginnt, mit dem Daumen durch die Ecke des Decks zu riffeln
 3. Der Zuschauer sagt „Stopp"
 4. Der Magier teilt das Deck an der Break-Position — unabhängig davon, wo der Zuschauer gestoppt hat
 5. Die nächste Karte, die dem Zuschauer gezeigt wird, ist die Force-Karte
+
+## Tipps
+
+- **Drehung beim Teilen:** Wenn der Magier das Deck beim Teilen leicht dreht oder kippt — z.B. die obere Hälfte zur Seite schwenkt — fällt es deutlich weniger auf, dass an einer anderen Stelle geteilt wurde als der Zuschauer erwartet hat. Die Drehbewegung lenkt das Auge ab und überdeckt die kleine Diskrepanz zwischen „Stopp"-Position und tatsächlichem Break.
+- **Tempo:** Gleichmäßig riffeln, nicht zu schnell. Der Zuschauer soll das Gefühl haben, wirklich frei stoppen zu können.
+- **Nicht sofort teilen:** Nach dem „Stopp" einen kurzen Moment innehalten — das wirkt fairer und gibt Zeit, sauber am Break zu teilen.
+- **Reaktions-Delay nutzen:** Zwischen dem „Stopp" des Zuschauers und dem tatsächlichen Anhalten vergeht immer ein kleiner Moment — der natürliche Reaktions-Delay. Wenn der Zuschauer zu früh stoppt (erstes Drittel), kann man diesen Delay nutzen und noch etwas weiter riffeln, bevor man „anhält".
+- **Zu spät? Neustart:** Sagt der Zuschauer erst im letzten Drittel Stopp, kann man einfach komplett durchriffeln und freundlich sagen: „Gerne etwas früher — probieren wir's nochmal." Das wirkt natürlich und fair, bringt den Zuschauer aber näher an die Mitte.
+- **Tempo-Steuerung:** Das Riffeln muss nicht gleichmäßig schnell sein. Effektive Strategie: das erste Drittel zügig riffeln, im mittleren Drittel (wo die Force-Karte liegt) deutlich langsamer werden, dann im letzten Drittel wieder beschleunigen. Der Zuschauer sagt unbewusst eher dort „Stopp", wo er die einzelnen Karten am besten wahrnehmen kann — also im langsamen Bereich.
 
 ## Warum es funktioniert
 

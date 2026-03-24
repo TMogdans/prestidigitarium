@@ -25,7 +25,7 @@ In stärkeren Versionen: Der Zuschauer selbst greift in seine eigene Tasche — 
 2. Karte wird ins Deck gesteckt
 3. Magier bringt die Karte per Control nach oben
 4. Karte wird aus dem Deck palmt — unsichtbar, in der Hand verborgen
-5. Durch Misdirection wird die palmierte Karte in die Tasche transferiert
+5. Durch [Misdirection](/konzepte/misdirection) wird die palmierte Karte in die Tasche transferiert
 6. Deck wird als „vollständig" präsentiert — die Karte ist weg
 7. Magier greift in die Tasche und zieht die Karte heraus
 
@@ -44,7 +44,7 @@ In stärkeren Versionen: Der Zuschauer selbst greift in seine eigene Tasche — 
 - **[Palmieren](/techniken/palmieren)** — die Karte wird aus dem Deck heraus palmt und unauffällig in die Tasche gebracht
 - **[Controls](/techniken/controls/)** — die Karte wird zunächst kontrolliert (z.B. nach oben gebracht) bevor sie gepalmiert wird
 - **Diagonal Palm Shift** (S.W. Erdnase) — eine elegante Methode, die Karte direkt aus dem gehaltenen Deck in die Palmposition zu bringen
-- **[Misdirection](/techniken/misdirection)** — der Moment des Palmierings muss vollständig abgedeckt sein
+- **[Misdirection](/konzepte/misdirection)** — der Moment des Palmierings muss vollständig abgedeckt sein
 
 ## Requisiten
 
