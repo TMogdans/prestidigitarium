@@ -52,6 +52,7 @@ Die Ambitious Card basiert typischerweise auf einer Kombination aus:
 - **[Controls](/techniken/controls/)** — die Karte wird unbemerkt nach oben gebracht
 - **[Falschmischen](/techniken/falschmischen)** — das Deck wird scheinbar gemischt, die Karte bleibt oben
 - **[Misdirection](/konzepte/misdirection)** — die Aufmerksamkeit des Zuschauers wird gelenkt
+- **[Mercury Card Fold](/techniken/mercury-card-fold)** — die Karte wird kurz gefaltet, sodass sie später im Deck ertastbar ist
 
 Eine vollständige Routine besteht aus mehreren **Phasen**, die jeweils auf einer anderen Technik basieren. Das macht sie sowohl für Anfänger (einfache Version mit wenigen Phasen) als auch für Fortgeschrittene interessant.
 
