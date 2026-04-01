@@ -46,6 +46,9 @@ Diese Technik hat eine Doppelfunktion:
 
 Gesehen bei **Matthias Berger**. Die Technik hat keinen etablierten Namen — Berger selbst nennt es nur „Schnippbewegung".
 
+### Bertram Change (TeBe Change)
+Eine der täuschendsten und visuell reinsten Color Changes überhaupt — entwickelt von Ross Bertram (1912–1992). Eine einzelne Karte verwandelt sich scheinbar ohne jede Deckung in den Fingerspitzen, ohne Deck in der Nähe. Basiert auf dem **Tenkai Palm**. Fortgeschritten, sehr winkelempfindlich, aber mit außergewöhnlicher Wirkung auf das Publikum. → [Ausführliche Seite: Bertram Change](/techniken/praesentation/bertram-change)
+
 ### Clipshift
 Eine moderne, technisch anspruchsvolle Variante von Chad Nelson. Die Karte wird scheinbar in das Deck geschoben und springt sofort als andere Karte zurück. Sehr überzeugend, aber schwierig zu erlernen.
 
