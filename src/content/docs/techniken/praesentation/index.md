@@ -30,3 +30,4 @@ Präsentationstechniken sind alle Handgriffe und Methoden, die nicht direkt dem 
 - [Popout Move](popout-move) — Karte springt aus dem Deck heraus
 - [Twirl Reveal](twirl-reveal) — Karte wird mit einer Drehbewegung enthüllt
 - [Back Palm](back-palm) — Karte hinter der offenen Hand verbergen und produzieren
+- [Sybil Cut](sybil-cut) — mehrteiliger Schnitt mit fünf Päckchen
