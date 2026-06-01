@@ -38,7 +38,7 @@ Beim ursprünglichen Stay Stack ist das Deck **um die Mitte gespiegelt**: Positi
 - **Vorhersagen** — Die Partnerkarte ist bekannt, ohne die gezogene Karte gesehen zu haben.
 - **Parallele Hälften** — Was in einer Hälfte passiert, „spiegelt" sich scheinbar magisch in der anderen.
 
-Ein ausgearbeitetes Beispiel ist der Trick [Die Partnerkarte](/tricks/karten/partnerkarte), der das parallele Setup mit einem symmetrischen Eliminierungs-Deal kombiniert.
+Ein ausgearbeitetes Beispiel ist der Trick [Partner in Crime](/tricks/karten/partner-in-crime), der das parallele Setup mit einem symmetrischen Eliminierungs-Deal kombiniert.
 
 ## Herkunft
 
