@@ -8,7 +8,7 @@ typ: technik
 schwierigkeit: mittel
 ---
 
-Der Card Spring ist einer der bekanntesten Kartenflourishes: Karten werden aus einer Hand in die andere „geschossen" und bilden dabei einen eleganten Bogen in der Luft.
+Der Card Spring (auch: *Thumb Spring*) ist einer der bekanntesten Kartenflourishes: Karten werden aus einer Hand in die andere „geschossen" und bilden dabei einen eleganten Bogen in der Luft.
 
 ## Beschreibung
 

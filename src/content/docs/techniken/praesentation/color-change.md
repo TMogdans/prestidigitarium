@@ -18,6 +18,9 @@ Color Changes sind unter Kartenmagiern als visuelle Highlights sehr beliebt und 
 
 ## Varianten
 
+### Push Drop
+Eine der einsteigerfreundlichsten Color Changes. Zwei Karten werden in [Double Lift](/techniken/double-lift)-Position gehalten — als eine. Die vordere Karte wird mit dem Daumen nach unten gedrückt (*push*) und fällt weg (*drop*), wodurch die dahinterliegende Karte sichtbar wird. Erfordert gutes Kartengefühl und ausreichend Griffigkeit der Finger — bei trockenen Händen rutschig. Gut geeignet als erster Einstieg in visuelle Color Changes.
+
 ### Snap Change
 Die klassische und am häufigsten gezeigte Variante. Die Karte wird an den Fingerspitzen gehalten, eine schnappende Bewegung täuscht die Verwandlung vor. Popularisiert durch David Blaine. Oft Ed Marlo zugeschrieben, aber wahrscheinlich noch älter.
 
