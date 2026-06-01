@@ -5,7 +5,7 @@ sidebar:
   order: 13
 tags: [karten, schnitt, flourish, cardistry]
 typ: technik
-schwierigkeit: fortgeschritten
+schwierigkeit: schwer
 ---
 
 Der Sybil Cut ist ein spektakulärer mehrteiliger Schnitt, bei dem das Deck in fünf einzelne Päckchen aufgefächert und wieder zusammengeführt wird — alles in einer fließenden, zweihändigen Bewegung. Er gilt als einer der ikonischsten Flourishes der modernen Cardistry und ist ein Meilenstein auf dem Weg vom klassischen Kartenzauberer zum visuellen Kartenartisten.
