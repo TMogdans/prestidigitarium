@@ -22,6 +22,9 @@ Kurze Definitionen zentraler Begriffe der Zauberkunst. Für ausführlichere Erkl
 
 ## C
 
+**Cardistry**
+: Die Kunstform des Kartenflourishes als eigenständige Disziplin — losgelöst von Zaubertricks. Reine visuelle Ästhetik und Fingerfertigkeit. Der Begriff ist ein Kofferwort aus *card* und *artistry*, geprägt 2006 im Forum decknique.net. → [Flourish](#f)
+
 **Clean** (auch: *sauber*)
 : Ein Zustand, in dem alles geprüft werden kann — keine versteckten Objekte, keine Gimmicks in der Hand. „Am Ende bist du clean" bedeutet, dass nach dem Trick nichts Verdächtiges zurückbleibt.
 
