@@ -26,6 +26,15 @@ Randloses Design — ideal für bestimmte Techniken, bei denen der Rand stören 
 - [Svengali Deck](/requisiten/karten/svengali-deck/) — Deck mit alternierend kurzen Karten
 - [Stripper Deck](/requisiten/karten/stripper-deck/) — Konisch geschnittene Karten
 
+## Zubehör & Hilfsmittel
+
+### Fanning Powder
+Ein weißes Pulver (meist Zinkstearat), das auf die Kartenoberfläche aufgetragen wird. Reduziert die Reibung zwischen den Karten und verbessert das Handling erheblich — besonders für Fächer, Spreads und Flourishes.
+
+**Anwendung:** Kleine Menge Pulver in eine Papiertüte geben, Deck hinzufügen, schütteln. Danach Karten durch wiederholtes Mischen gleichmäßig einarbeiten. Weniger ist mehr — zu viel Powder macht die Karten unkontrollierbar glitschig.
+
+**Nützlich bei:** Trockenen Händen, neuem Deck mit rutschigem Finish, alten abgenutzten Karten. Für ~5€ in Zaubershops erhältlich.
+
 ## Wichtige Techniken mit Karten
 
 - [Controls](/techniken/controls/) — Karten kontrollieren
