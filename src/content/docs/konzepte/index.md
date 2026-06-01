@@ -13,3 +13,5 @@ Neben konkreten Techniken und Tricks gibt es übergeordnete Konzepte, die das Fu
 - [Gimmick](gimmick) — Geheime Hilfsmittel: was sie sind, wann man sie einsetzt, wann nicht
 - [Routine](routine) — Vom einzelnen Trick zur zusammenhängenden Vorführung
 - [Stay Stack / Mirror Stack](stay-stack) — Deck-Setup mit Zwillingskarten (auch „Powerdeck" genannt)
+- [Foundations](foundations) — Die fünf Grundkategorien der Kartenmagie und ihre Lernreihenfolge
+- [Trainingsplan](trainingsplan) — 4-Wochen-Einstiegsplan für 15 Minuten täglich
