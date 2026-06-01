@@ -135,6 +135,9 @@ Kurze Definitionen zentraler Begriffe der Zauberkunst. Für ausführlichere Erkl
 **Sleight** (auch: *Sleight of Hand*, *Move*)
 : Eine unsichtbare manuelle Technik. → [Sleight of Hand](/techniken/)
 
+**Stay Stack** (auch: *Mirror Stack*)
+: Ein Deck-Setup, bei dem zu jeder Karte eine Partnerkarte mit gleichem Wert und gleicher Farbfamilie existiert. Grundlage für Zwillings- und Vorhersage-Effekte; überlebt im gespiegelten Fall sogar Faro-Shuffles. → [Stay Stack](/konzepte/stay-stack)
+
 **Steal**
 : Ein Objekt heimlich in die Hand nehmen, ohne dass der Zuschauer es bemerkt — das Gegenteil von *ditch*.
 
