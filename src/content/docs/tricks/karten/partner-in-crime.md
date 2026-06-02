@@ -84,6 +84,55 @@ Beispiel-Patter: *„Drei Uhr morgens. Wir riegeln die Stadt ab – Pik den West
    Pik Komp. Kreuz  „in der Zange"
 ```
 
+## Drehbuch
+
+Eine durchgespielte Beispiel-Vorführung. Beispielkarte: der Zuschauer zieht **Herz 7** → „Rote-Siebener-Bande", Komplize **Karo 7**. *Kursiv = Regie/Handlung, eingerückt = gesprochener Text.* Das Leitprinzip jeder Such-Runde: **Setting ansagen → durchsuchen → ausschließen** (weggelegter Stapel = „sauber", behaltener = „heiße Spur"). So zoomt die Erzählung Schritt für Schritt enger: Stadt → Viertel → Straße → Haus → Tür.
+
+**⓪ Einstieg – die Welt aufmachen** · *Deck noch in der Hand, bevor irgendetwas passiert. Der Satz „immer zu zweit" ist die Saat, die im Finale aufgeht.*
+> „Großstadt, kurz nach Mitternacht. Da draußen treibt sich eine Bande herum – und das Tückische an Banden ist: Sie arbeiten nie allein, immer zu zweit. Fassen Sie einen, führt er Sie zum anderen." *(Deck hinlegen)* „Diese Stadt hier stellen wir heute Nacht auf den Kopf."
+
+**① Die Kommissare vorstellen** · *Deck ausbreiten, die zwei schwarzen Buben herausziehen und offen hinlegen.*
+> „Darf ich vorstellen – meine zwei besten Männer. Kommissar Pik, der Ruhige, der erst denkt. Und Kommissar Kreuz – der tritt erst die Tür ein und fragt später. Ein eingespieltes Team. Gehören zusammen wie … na, das sehen wir gleich."
+
+**② Der Fang** · *Auffächern, Zuschauer zieht eine Karte und legt sie offen vor sich.*
+> „Und Sie sind ab jetzt Hilfspolizist. Greifen Sie sich einen Verdächtigen aus der Menge. … Herz Sieben? Glückwunsch, Kollege – Ihr erster Täter! Behalten Sie ihn gut im Auge."
+>
+> „Eine rote Sieben, aha. Der ist von der **Roten-Siebener-Bande** – denen sind wir schon ewig auf den Fersen."
+
+**③ Der Zugriff am Tatort** · *Während er auf seine Karte schaut, das Deck an der Lücke beiläufig wieder zusammensetzen – oben/unten vertauscht. Kein Wort darüber.*
+
+**④ Die Ermittler gehen rein – das Setting setzen** · *Buben per 3er-Schub an Position 10 oben und unten, face up.*
+> „Wir schicken unsere Jungs in die Stadt, um den Komplizen zu finden. Dieses ganze Deck – das ist die Stadt. Pik nimmt sich den Norden vor, Kreuz den Süden. Und jetzt: jede Gasse, jeder Hinterhof."
+
+**⑤ Durchgang 1 – die ganze Stadt (51 Karten)** · *Zügig in Schüben links/rechts austeilen.*
+> *(beim Austeilen)* „Drei Uhr morgens, die Stadt schläft. Block für Block, Haus für Haus …"
+>
+> *(Stapel ohne Buben weglegen)* „Die halbe Stadt – sauber, da ist er nicht. Die Spur führt in den Osten. Auf dieses Viertel konzentrieren wir uns."
+
+**⑥ Durchgang 2 – das Viertel (25)** · *Austeilen.*
+> „Gut, das Ostviertel. Straße für Straße. – Kreuz will gleich alle Türen eintreten, Pik sagt: ‚Ruhig, einer nach dem anderen.'"
+>
+> *(weglegen)* „Halbes Viertel abgehakt. Er sitzt in dieser einen Straße."
+
+**⑦ Durchgang 3 – die Straße (13)** · *Schneller, knapper.*
+> „Eine Straße. Ein Dutzend Häuser."
+>
+> *(weglegen)* „Diese Häuserzeile – leer. Bleibt das letzte Haus."
+
+**⑧ Durchgang 4 – das Haus (7)** · *Atemlos.*
+> „Ein Haus. Sieben Türen. Er ist hier drin – ich riech's."
+>
+> *(weglegen)* „Erdgeschoss sauber. Oben, hinter einer dieser Türen."
+
+**⑨ Finale – die Tür (3 Karten)** · *Die zwei Buben liegen links und rechts der letzten verdeckten Karte.*
+> „Pik von links, Kreuz von rechts. Keine Bewegung! In die Zange genommen – kein Entkommen."
+>
+> „Erinnern Sie sich: meine zwei Jungs gehören zusammen, gleicher Rang, gleiche Farbe. So eine Bande erkennt man genauso. Ihr Täter war eine rote Sieben – und dahinter steckt sein Komplize."
+>
+> *(den Zuschauer einbinden)* „Sie haben den ersten Täter gefasst, Kollege – der Zugriff gehört Ihnen. Machen Sie die Tür auf."
+>
+> *(Zuschauer dreht die mittlere Karte selbst um: Karo 7.)* „Karo Sieben. Auch eine rote Sieben, dieselbe Bande. Sagen Sie's, Kollege – haben wir sie?"
+
 ## Warum es funktioniert
 
 Zwei Prinzipien greifen ineinander:
