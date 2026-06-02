@@ -51,6 +51,14 @@ Warum das funktioniert: Drei kurze 3er-Schübe liest das Auge als beiläufiges S
 Erst **nacheinander** üben (oben drei Schübe + Bube, dann unten). Die elegantere beidhändig-parallele Version (Daumen oben, Mittelfinger unten gleichzeitig) ist Fingerkoordination, die mit Übung kommt.
 :::
 
+### Convincer: Abheben lassen
+
+Das Setup übersteht **vollständiges Abheben** (complete cuts) unbeschadet – ein kompletter Cut ist nur eine zyklische Rotation, die die Partner-Struktur erhält. Das nutzt du als Überzeugungsmoment: Lass den Zuschauer **vor** der Buben-Entnahme das volle Deck ein paarmal abheben. Er „durchmischt" scheinbar die Stadt und glaubt danach an reines Chaos – die Mechanik bleibt intakt. (Wer mag, hebt selbst ab; mit dem Zuschauer wirkt es stärker.)
+
+:::caution[Nur komplette Cuts]
+Sicher ist ausschließlich das **komplette Abheben** (Deck teilen, unteres Paket nach oben). **Nicht** erlaubt: in Päckchen abblättern (*Running Cut* – kehrt die Paketreihenfolge um und zerstört das Setup) oder echtes Mischen. Also: „Heben Sie ab" ✓, „Mischen Sie" ✗. Per Simulation bestätigt: complete cuts halten alle Ziehpositionen, Running Cuts brechen den Trick.
+:::
+
 ## Präsentation: Die zwei Kommissare
 
 Das lange Austeilen (insgesamt rund 96 einzeln ausgeteilte Karten über vier Durchgänge) braucht eine Geschichte – sonst entsteht Leerlauf. Die Kriminalhandlung verwandelt die Wartezeit in Spannung.
@@ -88,8 +96,8 @@ Beispiel-Patter: *„Drei Uhr morgens. Wir riegeln die Stadt ab – Pik den West
 
 Eine durchgespielte Beispiel-Vorführung. Beispielkarte: der Zuschauer zieht **Herz 7** → „Rote-Siebener-Bande", Komplize **Karo 7**. *Kursiv = Regie/Handlung, eingerückt = gesprochener Text.* Das Leitprinzip jeder Such-Runde: **Setting ansagen → durchsuchen → ausschließen** (weggelegter Stapel = „sauber", behaltener = „heiße Spur"). So zoomt die Erzählung Schritt für Schritt enger: Stadt → Viertel → Straße → Haus → Tür.
 
-**⓪ Einstieg – die Welt aufmachen** · *Deck noch in der Hand, bevor irgendetwas passiert. Der Satz „immer zu zweit" ist die Saat, die im Finale aufgeht.*
-> „Großstadt, kurz nach Mitternacht. Da draußen treibt sich eine Bande herum – und das Tückische an Banden ist: Sie arbeiten nie allein, immer zu zweit. Fassen Sie einen, führt er Sie zum anderen." *(Deck hinlegen)* „Diese Stadt hier stellen wir heute Nacht auf den Kopf."
+**⓪ Einstieg & Convincer – die Welt aufmachen** · *Deck noch komplett (52 Karten), bevor die Buben heraus sind. Der Satz „immer zu zweit" ist die Saat, die im Finale aufgeht. Der Zuschauer hebt ab – ausschließlich complete cuts, mehrfach erlaubt (siehe [Convincer](#convincer-abheben-lassen)).*
+> „Großstadt, kurz nach Mitternacht. Da draußen treibt sich eine Bande herum – und das Tückische an Banden ist: Sie arbeiten nie allein, immer zu zweit. Fassen Sie einen, führt er Sie zum anderen." *(Deck hinlegen)* „Heben Sie ruhig ein paarmal ab, Kollege – die Stadt schläft nie, jede Nacht sind die Gauner woanders." *(Zuschauer hebt mehrfach komplett ab.)* „Kreuz und quer. Genau so finden wir sie vor."
 
 **① Die Kommissare vorstellen** · *Deck ausbreiten, die zwei schwarzen Buben herausziehen und offen hinlegen.*
 > „Darf ich vorstellen – meine zwei besten Männer. Kommissar Pik, der Ruhige, der erst denkt. Und Kommissar Kreuz – der tritt erst die Tür ein und fragt später. Ein eingespieltes Team. Gehören zusammen wie … na, das sehen wir gleich."
