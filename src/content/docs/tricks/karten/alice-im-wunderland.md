@@ -68,7 +68,7 @@ Force des Herz-Buben → Zuschauer legt ihn verdeckt beiseite. Carroll-Aufhänge
 
 Alice auf den Tisch (Misdirection: „Alice betritt den Garten"). Deck face-up aufspreizen und die drei **Gärtner** (♠2/5/7) heraussuchen, einzeln hinlegen. **Im selben Spread:**
 - die Herzkönigin (jetzt Bodenkarte) per **Cull + Palm** stehlen (richtig orientiert für späteren face-up-Reveal – **mit Karten zu testen**),
-- das **Kaninchen kontrolliert platzieren** (für seinen Zeugen-Auftritt in Akt III),
+- das **Kaninchen an die Pop-out-Position** (Deckmitte) kontrollieren – für seinen Herold-Auftritt in Akt III,
 - die schwarze Rose als Bodenkarte belassen.
 
 ## Akt II – Painting the Roses Red *(Verwandlung)*
@@ -80,16 +80,22 @@ Alice auf den Tisch (Misdirection: „Alice betritt den Garten"). Deck face-up a
 
 ## Akt III – Wer stahl die Törtchen? *(Schicksal)*
 
-**Effekt:** Die Herzkönigin hält Gericht. Wer stahl ihre Törtchen? Der Zeuge (Kaninchen) führt hin – und das von Anfang an versiegelte Urteil wird enthüllt: der **Herz-Bube**, ihr eigener Soldat. Er lag die ganze Zeit verdeckt in der Hand des Zuschauers.
+**Effekt:** Die Herzkönigin hält Gericht. Wer stahl ihre Törtchen? Das weiße Kaninchen springt als Herold hervor und verliest die Anklage – und das von Anfang an versiegelte Urteil wird enthüllt: der **Herz-Bube**, ihr eigener Soldat. Er lag die ganze Zeit verdeckt in der Hand des Zuschauers.
+
+**Ablauf:**
+
+1. **Der Herold tritt auf:** Das Kaninchen wird per [Pop-out Move](/techniken/praesentation/popout-move) aus dem Deck produziert – hektisch wie immer, *„zu spät, zu spät!"*. Rückbezug auf Akt I: dieselbe Karte, die dort ständig hochsprang, springt jetzt als Herold hervor.
+2. **Die Anklage:** Das Kaninchen „verliest" Carrolls Gerichtsvers – der den Dieb selbst benennt:
+   > „The Queen of Hearts, she made some tarts … *The Knave of Hearts, he stole those tarts*, and took them quite away!"
+3. **Das Urteil:** Die Herzkönigin (aus Akt II) wird auf die verdeckte beiseite-Karte gelegt; beide umgedreht → **♥ Dame + ♥ Bube**: „Die Königin und ihr Verräter – beide vom Herzen."
 
 > „Der Dieb war nie unter den Verdächtigen. Er hat sich gleich zu Beginn abgesetzt – und Sie haben ihn bewacht, ohne es zu wissen."
 
-- Die Herzkönigin (aus Akt II) wird auf die beiseite-Karte gelegt; beide umgedreht → **♥ Dame + ♥ Bube**: „Die Königin und ihr Verräter – beide vom Herzen."
-- **Steigerung:** unmöglichster Moment der Routine – der Täter war blind in der Hand des Zuschauers (Force vom Anfang zahlt sich aus).
+- **Steigerung:** unmöglichster Moment der Routine – der Täter war blind in der Hand des Zuschauers (die Force vom Anfang zahlt sich aus).
+- **Werktreue:** Im Buch ist das weiße Kaninchen tatsächlich der Gerichtsherold, der genau diesen Vers verliest (Kap. 11).
 
 ## Offene Punkte
 
-- **Kaninchen als Zeuge** – wie genau sagt es in Akt III aus / führt zur Auflösung hin? (Noch nicht designt.)
 - **Color-Change-Orientierung** – die palmierte Herzkönigin muss face-up erscheinen; exakte Palm-/Ablege-Orientierung **mit Karten testen**.
 - **Beet-Ausbaustufe** – Mehrfach-Verwandlung als spätere Stufe.
 - **Doppelte Belastung des Spreads** (Gärtner suchen + Cull/Palm + Kaninchen platzieren gleichzeitig) – anspruchsvoll, Übung nötig.
@@ -99,6 +105,7 @@ Alice auf den Tisch (Misdirection: „Alice betritt den Garten"). Deck face-up a
 - [Ambitious Card](/tricks/karten/ambitious-card) · [Controls](/techniken/controls/) · [Double Lift](/techniken/double-lift)
 - [Force](/techniken/controls/) (Classic / Riffle) · [Palmieren](/techniken/palmieren)
 - [Color Change](/techniken/praesentation/color-change) · „Two-Card Catch" (Reibungs-Produktion, Erdnase-Linie)
+- [Pop-out Move](/techniken/praesentation/popout-move) (Kaninchen-Produktion in Akt III)
 
 ## Inspiration & Quellen
 
