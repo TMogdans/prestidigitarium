@@ -94,6 +94,36 @@ Alice auf den Tisch (Misdirection: „Alice betritt den Garten"). Deck face-up a
 - **Steigerung:** unmöglichster Moment der Routine – der Täter war blind in der Hand des Zuschauers (die Force vom Anfang zahlt sich aus).
 - **Werktreue:** Im Buch ist das weiße Kaninchen tatsächlich der Gerichtsherold, der genau diesen Vers verliest (Kap. 11).
 
+## Zitate & Patter (Carroll im Original)
+
+Zitate als **Anker** an Schlüsselmomenten einsetzen – nicht als Lesung. Englische Bonmots fürs Original-Flair, deutsche Fassung (gemeinfreie Übersetzung von **Antonie Zimmermann, 1869**) fürs Verständnis. Je nach Publikum wählen: ikonische Sprüche wirken auf Englisch oft kräftiger, erzählende Passagen auf Deutsch verständlicher. Alle Wortlaute an den Primärquellen geprüft.
+
+### Einstieg / Atmosphäre
+- Grinsekatze (Kap. 6): „We're all mad here." / »Wir sind alle toll hier.«
+
+### Akt I – Rabbit Hole
+- Weißes Kaninchen (Kap. 1): „Oh dear! Oh dear! I shall be late!" / »O weh, o weh! Ich werde zu spät kommen!«
+  - *Achtung:* Original „**late**", nicht „too late" – das verbreitete „I'm late!" stammt aus dem Disney-Film, nicht aus dem Buch.
+- Alice (Kap. 2): „Curiouser and curiouser!" / »Verquerer und verquerer!«
+
+### Akt II – Garten
+- Die Gärtner (Kap. 8): „…this here ought to have been a *red* rose-tree, and we put a white one in by mistake; and if the Queen was to find it out, we should all have our heads cut off." / »…dies hätte hier ein *rother* Rosenstrauch sein sollen, und wir haben aus Versehen einen weißen gepflanzt, und wenn die Königin es gewahr würde, würden wir Alle geköpft werden."
+- Herzkönigin (Kap. 8): „Off with their heads!" / »Ihre Köpfe ab!«
+
+### Akt III – Gericht
+- Herzkönigin (Kap. 12): „Sentence first—verdict afterwards." / »Erst das Urtheil, der Ausspruch der Geschwornen nachher.«
+- Der Anklage-Vers (Kap. 11), vom Kaninchen verlesen:
+  > „The Queen of Hearts, she made some tarts, / All on a summer day: / The Knave of Hearts, he stole those tarts, / And took them quite away!"
+
+  Zimmermanns freie Nachdichtung: »Coeur-Königin, sie buk Kuchen, / Juchheisasah, juchhe! / Coeur-Bube kam, die Kuchen nahm. / Wo sind sie nun? O weh!«
+
+:::caution[Beliebt, aber nicht aus Wonderland – mit Bedacht]
+- „…six impossible things before breakfast." – klänge wie das perfekte Zauberer-Motto, stammt aber aus *Through the Looking-Glass* (Weiße Königin, Kap. 5), **nicht** aus Wonderland. Puristen-Entscheidung.
+- „If you don't know where you are going, any road will get you there." – **Fehlzuschreibung**, steht so nicht im Text. Echte Grundlage ist der Grinsekatzen-Dialog (Kap. 6): „That depends a good deal on where you want to get to."
+:::
+
+Quellen: *Alice's Adventures in Wonderland* (Project Gutenberg #11) · dt. Übersetzung Antonie Zimmermann, 1869 (Project Gutenberg #19778).
+
 ## Offene Punkte
 
 - **Color-Change-Orientierung** – die palmierte Herzkönigin muss face-up erscheinen; exakte Palm-/Ablege-Orientierung **mit Karten testen**.
