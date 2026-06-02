@@ -63,10 +63,11 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 
 ## Übergang I → II
 
-Alice auf den Tisch („Alice betritt den Garten"). Kaninchen an die **Pop-out-Position** (Deckmitte) kontrollieren – für Akt III. Dann das Deck **face-up auf dem Tisch aufspreaden** und die drei Gärtner (♠2/5/7) herausziehen, einzeln hinlegen.
+Deck face-down auf den Tisch legen. Beim Übergangs-Patter („Alice betritt den Garten") **das Kaninchen face-down oben aufs Deck legen** und Alice nach rechts schieben (bleibt sichtbar). Dann das Deck **face-up auf dem Tisch aufspreaden** und die drei Gärtner (♠2/5/7) herausziehen, einzeln hinlegen.
 
+- **Das Kaninchen-Pendel:** Oben aufgelegt (face-down) → beim Face-up-Drehen fürs Spreaden wandert es ans *untere* Ende → am Ende von Akt II (face-down zurückgekippt) liegt es **wieder oben**, bereit für den Pop-out. Kein Break, kein Tracking nötig.
 - Die Bodengruppe (Pik-Ass + Herzkönigin) **nicht stören** – beim Zusammenschieben bewusst „unsauber" lassen, ein paar Karten überlappend, damit die Herz-Dame **nicht aufblitzt**.
-- Deck face-up aufnehmen → das **Pik-Ass** ist die oberste sichtbare Karte (die Rose), die Herzkönigin liegt verdeckt direkt darunter. **Kein Palmieren nötig.**
+- Deck face-up aufnehmen → das **Pik-Ass** ist die oberste sichtbare Karte (die Rose), die Herzkönigin liegt verdeckt direkt darunter, das Kaninchen am unteren Ende. **Kein Palmieren nötig.**
 
 ## Akt II – Painting the Roses Red *(Verwandlung)*
 
@@ -82,7 +83,7 @@ Alice auf den Tisch („Alice betritt den Garten"). Kaninchen an die **Pop-out-P
 
 **Effekt:** Die Herzkönigin hält Gericht. Das weiße Kaninchen springt als Herold hervor und verliest die Anklage – dann wird das von Anfang an versiegelte Urteil enthüllt: der **Herz-Bube**, ihr eigener Soldat, die ganze Zeit verdeckt in der Hand des Zuschauers.
 
-1. **Der Herold:** Kaninchen per [Pop-out Move](/techniken/praesentation/popout-move) produzieren – hektisch wie in Akt I, dieselbe Karte, die dort hochsprang.
+1. **Der Herold:** Kaninchen per [Pop-out Move](/techniken/praesentation/popout-move) produzieren – hektisch wie in Akt I, dieselbe Karte, die dort hochsprang. Es liegt durchs „Pendeln" obenauf: Pop-out **von der Rückseite** (einfach, kein Cut) oder – als Ausbaustufe – per Cut in die Mitte und **Mitten-Pop-out** (dramatischer).
 2. **Die Anklage:** Das Kaninchen „verliest" Carrolls Vers, der den Dieb benennt: *„The Knave of Hearts, he stole those tarts."*
 3. **Das Urteil:** Herzkönigin auf die beiseite-Karte legen, beide umdrehen → **♥ Dame + ♥ Bube** – „die Königin und ihr Verräter, beide vom Herzen". Der Zuschauer enthüllt selbst.
 
@@ -105,7 +106,7 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 **③ Das Catch-Finale** · *Alice (vom Tisch) und Kaninchen ins Deck „versenken"; Doppel-Control: Kaninchen → Top, Alice → absoluter Boden. Dann der Wurf: Deck in die linke Hand, beide bleiben rechts.*
 > „Alice holt auf … beide fallen, immer tiefer …" *(Wurf)* „… und das ganze Wunderland rauscht vorbei. Nur die zwei bleiben – Alice hat ihr Kaninchen eingeholt."
 
-**④ In den Garten** · *Alice auf den Tisch. Kaninchen an die Pop-out-Position kontrollieren. Deck face-up auf dem Tisch aufspreaden.*
+**④ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
 > „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
 
 **⑤ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt, „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
@@ -117,10 +118,10 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 *(Erdnase Color Change: rechte Hand streicht über das Deck.)*
 > „… und aus Schwarz wird Rot. Nur – das ist keine Rose mehr. **Das ist die Königin selbst.** Oh nein."
 
-**⑦ Das Gericht** · *Die Königin liegt nun da und „präsidiert".*
+**⑦ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
 > „Die Herzkönigin höchstpersönlich. Und sie ist außer sich: Jemand hat ihre Törtchen gestohlen! Es kommt zum Prozess."
 
-**⑧ Der Herold** · *Kaninchen per Pop-out hervorschnellen lassen.*
+**⑧ Der Herold** · *Kaninchen per Pop-out von der Rückseite hervorschnellen lassen (es liegt obenauf) – oder per Cut in die Mitte und von dort.*
 > „Der Gerichtsherold! Das weiße Kaninchen – *zu spät, zu spät!* – verliest die Anklage:"
 >
 > „*The Queen of Hearts, she made some tarts … The Knave of Hearts, he stole those tarts!*"
