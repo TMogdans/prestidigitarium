@@ -72,7 +72,7 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 
 **Das Catch-Finale im Detail:**
 - Das **Kaninchen** liegt nach Phase 2 ohnehin oben – die Top-Karte ist gesetzt, kein Extra-Control.
-- **Alice** wird ins gefächerte Deck verloren und per [Convincing Control](/techniken/controls/convincing-control) (Spread Cull) an den **absoluten Boden** gebracht – *unter* die Bodengruppe, die als Block (Königin über Pik-Ass) intakt darüber bleibt. Optisch „im Fächer verschwunden" = Alices magischer Moment. (Backup: Kelly Bottom Placement.)
+- **Alice** wird face-up oben aufgelegt und per [Cardini Change](/techniken/praesentation/cardini-change) unter das Deck geklappt: Sie **verschwindet sichtbar** (Vanish) und landet durch die 180°-Drehung face-down an der **absoluten Bodenposition** – *unter* die Bodengruppe (Königin über Pik-Ass), die als Block intakt darüber bleibt. Der „Nachteil" des Cardini (die Karte dreht sich) wird hier zum Vorteil: face-up oben → face-down unten. (Alternativen: [Convincing Control](/techniken/controls/convincing-control) / Kelly Bottom Placement.)
 - **„Two-Card Catch":** Deck werfen → Top + Bottom (Kaninchen/Alice) bleiben durch Reibung. Nach dem Catch liegt die Bodengruppe (Pik-Ass unten, Königin darüber) automatisch richtig für Akt II. (Erdnase-Reibungsprinzip, 1902.)
 - **Boden-schonend:** Phasen 1+2 lassen die Bodengruppe völlig unberührt (Tilt/DL-Switch arbeiten nur oben); erst im Catch gleitet Alice sauber darunter.
 
@@ -125,8 +125,8 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 >
 > *(Phase 3 ist das Catch-Finale → ④)*
 
-**④ Das Catch-Finale (Phase 3)** · *Kaninchen liegt schon oben. Alice ins gefächerte Deck zurückgeben und per [Convincing Control](/techniken/controls/convincing-control) an den absoluten Boden cullen (unter die Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
-> „Endlich holt Alice auf … beide verschwinden im Gewühl des Wunderlands …" *(Wurf)* „… und doch finden nur diese zwei zueinander."
+**④ Das Catch-Finale (Phase 3)** · *Kaninchen liegt schon oben. Alice face-up oben auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Alice verschwindet und landet face-down ganz unten (unter der Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
+> „Alice folgt dem Kaninchen ins Wunderland …" *(Alice face-up auflegen, Cardini Change – sie verschwindet)* „… und im ganzen Gewühl –" *(Wurf)* „– finden nur diese zwei zueinander."
 
 **⑤ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
 > „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
