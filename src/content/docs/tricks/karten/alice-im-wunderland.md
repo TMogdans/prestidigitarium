@@ -120,10 +120,10 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 > *Phase 2 – [Tilt](/techniken/controls/tilt):* „Sie versucht, es festzuhalten, schiebt es tief zwischen die anderen …" *(Tilt)* „… aber im Wunderland gehorcht nichts den Regeln. *Curiouser and curiouser* – schon sitzt es wieder ganz oben …" *(Double Lift aufdecken, zurückdrehen)* „… und springt erneut davon." *(die obere Doppel-Karte ins Deck verlieren → das Kaninchen bleibt oben)*
 
 **③ Das Catch-Finale (Phase 3)** · *Kaninchen liegt oben. Alice face-up auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Vanish (face-down an die absolute Bodenposition, unter die Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
-> „Da fasst Alice sich ein Herz und springt dem Kaninchen nach – mitten hinein ins Wunderland." *(Alice auflegen, Cardini Change – sie verschwindet)* „Und während ringsum alles wirbelt und stürzt –" *(Wurf)* „– bleiben am Ende nur die beiden übrig. Alice hat ihr Kaninchen eingeholt."
+> „Da fasst Alice sich ein Herz und springt dem Kaninchen nach – mitten hinein ins Wunderland." *(Alice auflegen, Cardini Change – sie verschwindet)* „Und während ringsum alles wirbelt und stürzt –" *(Wurf)* „– bleiben am Ende nur die beiden übrig: Alice und ihr weißes Kaninchen. Endlich beisammen."
 
-**④ In den Garten** · *Deck face-down ablegen, Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann face-up auf dem Tisch aufspreaden.*
-> „Und wohin fällt Alice? Hinab, immer tiefer – bis in den Garten der Herzkönigin. Ein Labyrinth aus hohen Hecken und roten Rosen. Und mittendrin, zwischen den Beeten: drei Gärtner, die pinseln, was das Zeug hält."
+**④ In den Garten** · *Kaninchen face-down aufs Deck legen (Misdirection: es „hoppelt davon"), Alice auf den Tisch. Dann face-up aufspreaden.*
+> „Doch das Kaninchen wäre nicht das Kaninchen, bliebe es stehen: Schon hoppelt es weiter, immer in Eile –" *(Kaninchen aufs Deck)* „– und ist fort. Alice aber fällt allein weiter, tiefer und tiefer, bis in den Garten der Herzkönigin. Ein Labyrinth aus hohen Hecken und roten Rosen – und mittendrin, zwischen den Beeten: drei Gärtner, die pinseln, was das Zeug hält."
 
 **⑤ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt – „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
 > „Pik Zwei, Pik Fünf und Pik Sieben – Kartensoldaten mit Pinsel und Farbtopf. *‚Was um alles in der Welt tut ihr denn da?'*, fragt Alice. Pik Zwei, schweißgebadet, schaut sich ängstlich um:"
