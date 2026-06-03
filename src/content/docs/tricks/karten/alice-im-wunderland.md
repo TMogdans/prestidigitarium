@@ -66,7 +66,7 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 
 **Drei Phasen** (jede enthüllt *anders* – Variation täuscht; alle boden-schonend):
 1. **Auftritt + Etablieren** – [Double-Lift-Switch](/techniken/controls/double-lift-switch): Der Double Lift zeigt das Kaninchen („da ist es!"), die *Füllkarte* darüber wandert (vermeintlich es) in die Mitte – das Kaninchen liegt oben. Enthüllung: umdrehen, „schon wieder da".
-2. **Der Beweis** – [Tilt](/techniken/controls/tilt): Das Kaninchen selbst wird sichtbar tief versenkt (real 2. von oben). Enthüllung: [Double-Lift](/techniken/double-lift)-Beweis.
+2. **Der Beweis** – [Tilt](/techniken/controls/tilt): Das Kaninchen selbst wird sichtbar tief versenkt (real 2. von oben). Enthüllung: [Double-Lift](/techniken/double-lift)-Beweis; danach die obere (Doppel-)Karte verlieren, damit das Kaninchen wieder *ganz* oben liegt – es „springt erneut davon" (nötig für den Catch).
 3. **Das Catch-Finale** (= der Klimax): Alice *und* Kaninchen verschwinden – nur sie beide bleiben übrig.
 
 **Das Catch-Finale im Detail:**
@@ -108,19 +108,19 @@ Deck face-down auf den Tisch legen. Beim Übergangs-Patter („Alice betritt den
 
 Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninchen ♦Q, Königin ♥Q, Dieb ♥Bube, Gärtner ♠2/5/7, Rose ♠Ass). *Kursiv = Regie/Handlung, eingerückt = gesprochener Text.*
 
-**⓪ Einstieg & Force** · *Deck komplett in der Hand. Stimmung aufbauen, dann Slip Force des Herz-Buben.*
-> „Willkommen im Wunderland – wo alle ein bisschen verrückt sind. *‚We're all mad here.'* Hier fällt das Urteil sogar *vor* dem Prozess. Ziehen Sie eine Karte – das ist das Urteil der Königin." *(Slip Force; Zuschauer nimmt den Herz-Buben.)* „Nicht ansehen. Legen Sie es verdeckt beiseite – versiegelt. Niemand kennt es. *Sentence first, verdict afterwards.*"
+**⓪ Einstieg & Force** · *Deck in der Hand. Slip Force des Herz-Buben; Zuschauer legt ihn verdeckt beiseite.*
+> „Jeder kennt das Wunderland – diesen Ort, wo die Uhren anders ticken und alle ein wenig verrückt sind. *‚We're all mad here'*, flüstert die Grinsekatze aus den Zweigen. Und das Verrückteste: Hier fällt das Urteil noch *vor* dem Prozess – so will es die Herzkönigin. Würden Sie mir helfen?" *(Slip Force)* „Ziehen Sie eine Karte … das ist ihr Urteil. Schauen Sie nicht hin – legen Sie es verdeckt hierher. Versiegelt. Niemand weiß, was darauf steht. *Sentence first – verdict afterwards.*"
 
-**① Alice erscheint** · *Nach der Force liegt Alice oben. Rising – sie steigt langsam aus dem Deck.*
-> „Unsere Heldin: Alice. Ein Mädchen, dem im Wunderland gleich allerhand Seltsames widerfährt." *(Alice auf den Tisch legen.)*
+**① Alice** · *Nach der Force liegt Alice oben → Rising, auf den Tisch.*
+> „Unsere Geschichte aber beginnt an einem verschlafenen Sommernachmittag – mit *ihr*: Alice. Ein neugieriges Mädchen, dem gleich etwas höchst Seltsames über den Weg läuft."
 
-**② Die Jagd – Ambitious in zwei Phasen** · *Nach Alices Rising liegt die Füllkarte oben, das Kaninchen zweitoberst. Hier betritt das Kaninchen die Bühne.*
-> *Phase 1 – Auftritt + [Double-Lift-Switch](/techniken/controls/double-lift-switch):* Double Lift zeigt das Kaninchen: „Und da ist das weiße Kaninchen – *‚I shall be late!'*" *(zurückdrehen; die Füllkarte oben vermeintlich-als-Kaninchen in die Mitte verlieren)* „Alice jagt ihm nach – und schon ist es wieder vor ihr." *(Kaninchen liegt oben → umdrehen)*
+**② Die Jagd** · *Füllkarte oben, Kaninchen zweitoberst.*
+> *Phase 1 – [Double-Lift-Switch](/techniken/controls/double-lift-switch):* Double Lift zeigt das Kaninchen: „Denn plötzlich – ein weißes Kaninchen! Eine Uhr in der Pfote, ganz außer Atem: *‚Oh dear, oh dear – I shall be late!'*" *(zurückdrehen; Füllkarte „als Kaninchen" in die Mitte verlieren)* „Schwupp – im Bau verschwunden. Alice springt hinterher, tiefer und tiefer … doch das Kaninchen ist ihr immer einen Sprung voraus." *(Kaninchen liegt oben → umdrehen)*
 >
-> *Phase 2 – [Tilt](/techniken/controls/tilt), tief versenkt, dann Double-Lift-Beweis:* „Sie versteckt es ganz tief … *curiouser and curiouser* – es ist trotzdem schneller."
+> *Phase 2 – [Tilt](/techniken/controls/tilt):* „Sie versucht, es festzuhalten, schiebt es tief zwischen die anderen …" *(Tilt)* „… aber im Wunderland gehorcht nichts den Regeln. *Curiouser and curiouser* – schon sitzt es wieder ganz oben …" *(Double Lift aufdecken, zurückdrehen)* „… und springt erneut davon." *(die obere Doppel-Karte ins Deck verlieren → das Kaninchen bleibt oben)*
 
-**③ Das Catch-Finale (Phase 3)** · *Kaninchen liegt schon oben. Alice face-up oben auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Alice verschwindet und landet face-down ganz unten (unter der Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
-> „Alice folgt dem Kaninchen ins Wunderland …" *(Alice face-up auflegen, Cardini Change – sie verschwindet)* „… und im ganzen Gewühl –" *(Wurf)* „– finden nur diese zwei zueinander."
+**③ Das Catch-Finale (Phase 3)** · *Kaninchen liegt oben. Alice face-up auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Vanish (face-down an die absolute Bodenposition, unter die Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
+> „Da fasst Alice sich ein Herz und springt dem Kaninchen nach – mitten hinein ins Wunderland." *(Alice auflegen, Cardini Change – sie verschwindet)* „Und während ringsum alles wirbelt und stürzt –" *(Wurf)* „– bleiben am Ende nur die beiden übrig. Alice hat ihr Kaninchen eingeholt."
 
 **④ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
 > „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
