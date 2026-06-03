@@ -134,18 +134,16 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 *(Erdnase Color Change – die Hand streicht wie ein Pinsel über das Deck)*
 > „– ein Strich … und aus Schwarz wird Rot. Doch das ist keine Rose mehr. Das ist die Königin **selbst**. *‚Off with their heads!'*"
 
-**⑦ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
-> „Die Herzkönigin höchstpersönlich. Und sie ist außer sich: Jemand hat ihre Törtchen gestohlen! Es kommt zum Prozess."
+**⑦ Das Gericht** · *Königin per Ellbogen-Kipp abnehmen (Faces vom Zuschauer weg, Pik-Ass bleibt verborgen), auf den Tisch. Deck face-down ablegen – das Kaninchen liegt durchs „Pendeln" jetzt wieder oben.*
+> „Die Königin der Herzen – in voller Pracht, und in heller Wut. Denn jemand hat ihre Törtchen gestohlen! Mit einem Wink beruft sie ein Gericht ein, und der ganze Hof erstarrt."
 
-**⑧ Der Herold** · *Kaninchen per [Top Shot](/techniken/praesentation/top-shot) vom Deck schnellen lassen (liegt durchs „Pendeln" obenauf) – sein einziger schwungvoller Auftritt dieser Art, das Markenzeichen.*
-> „Der Gerichtsherold! Das weiße Kaninchen – *zu spät, zu spät!* – verliest die Anklage:"
+**⑧ Der Herold** · *Kaninchen per [Top Shot](/techniken/praesentation/top-shot) vom Deck schnellen lassen (liegt obenauf) – sein einziger schwungvoller Auftritt dieser Art, das Markenzeichen.*
+> „Und wer ruft die Verhandlung aus? Wer sonst – das weiße Kaninchen, Herold des Hofes, mit Trompete und Schriftrolle. Es verliest die Anklage:"
 >
-> „*The Queen of Hearts, she made some tarts … The Knave of Hearts, he stole those tarts!*"
+> „*The Queen of Hearts, she made some tarts … The Knave of Hearts – he stole those tarts!*"
 
-**⑨ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen.*
-> „Der Bube der Herzen. Aber er ist nicht hier unter den Verdächtigen – er hat sich gleich zu Anfang abgesetzt. Und Sie, Kollege, haben ihn die ganze Zeit bewacht. Die Königin hat ihr Urteil längst versiegelt. Drehen Sie um."
->
-> *(Zuschauer dreht beide Karten um: ♥ Dame + ♥ Bube.)* „Die Königin und ihr Verräter – beide vom Herzen. Gefasst."
+**⑨ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen; der Zuschauer dreht beide um.*
+> „Der Bube der Herzen also. Doch – wo *ist* er? Unter den Verdächtigen sucht man ihn vergebens. Die Königin aber lächelt nur. Denn ihr Urteil, erinnern Sie sich, stand längst fest – versiegelt, von allem Anfang an. *‚Sentence first'* … und nun der Spruch. Drehen Sie um." *(Zuschauer dreht beide Karten um: ♥ Dame + ♥ Bube)* „Die Königin – und ihr Verräter. Beide vom Herzen. Der Bube hatte sich gleich zu Beginn davongestohlen … und Sie haben sein Urteil die ganze Zeit bewacht, ohne es zu ahnen."
 
 ## Zitate & Patter (Carroll im Original)
 
