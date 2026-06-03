@@ -42,12 +42,13 @@ Eine **obere Auftritts-Sequenz** (wird gleich zu Beginn abgearbeitet) und eine *
 |---|---|---|
 | **1 (Top)** | Herz-Bube (♥ Bube) | **Slip Force** → „versiegeltes Urteil" |
 | **2** | Alice (♠ Dame) | nach der Force oben → **Rising** (Auftritt der Heldin) |
-| **3** | Kaninchen (♦ Dame) | danach oben → **Pop-out** (Auftritt, Tusch) |
+| **3** | indifferente Füllkarte | liegt über dem Kaninchen – für den Double-Lift in Phase 1 |
+| **4** | Kaninchen (♦ Dame) | wird in Phase 1 per Double Lift vorgestellt + macht den ersten Sprung |
 | Mitte | Gärtner ♠2/5/7, Füllung | Reihenfolge egal |
 | **zweitunterst** | Herzkönigin (♥ Dame) | verdeckt unter der „Rose" → Color-Change-Ergebnis |
 | **Bottom** | Pik-Ass (♠ Ass) | die „schwarze Rose" → nach face-up oben sichtbar |
 
-Die obere Sequenz wird sofort abgespielt – Force (Bube weg), Rising (Alice), Pop-out (Kaninchen); danach ist der Top frei für die Ambitious-Phasen. Die Bodengruppe (Königin/Ass) bleibt davon unberührt.
+Force (Bube weg) und Rising (Alice) räumen den Top frei – danach liegt die Füllkarte oben, das Kaninchen zweitoberst, bereit für den Double-Lift-Switch. Die Bodengruppe (Königin/Ass) bleibt unberührt. Das Kaninchen bekommt *keinen* separaten Auftritt; seine Vorstellung *ist* die erste Ambitious-Phase (spart einen Move – und der „Tusch"-Auftritt per Top Shot bleibt exklusiv dem Herold in Akt III).
 
 **Warum Slip Force:** Der Herz-Bube liegt oben – der [Slip Force](/techniken/controls/) forciert die oberste Karte (Riffle bräuchte sie unten, Classic in der Mitte – beide ungeeignet). Der Zuschauer legt ihn *verdeckt* beiseite, niemand sieht ihn.
 
@@ -59,14 +60,12 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 
 ## Akt I – Down the Rabbit Hole *(Geschick)*
 
-**Effekt:** Alice erscheint als Heldin, das weiße Kaninchen springt hektisch hervor. Dann jagt Alice das Kaninchen durch den Bau – es ist ihr in drei Phasen immer einen Sprung voraus (kommt stets nach oben). Finale: Beide werden versenkt, ein Wurf lässt das ganze Deck in die andere Hand fliegen – nur Alice und das Kaninchen bleiben kleben.
+**Effekt:** Alice erscheint als Heldin. Dann jagt sie das weiße Kaninchen durch den Bau – es ist ihr immer einen Sprung voraus (kommt stets nach oben). Finale: Beide werden versenkt, ein Wurf lässt das ganze Deck in die andere Hand fliegen – nur Alice und das Kaninchen bleiben kleben.
 
-**Auftritte (die Produktionsart charakterisiert die Figur):**
-- **Alice** – nach der Force oben → **Rising** (ruhig, würdevoll: die Protagonistin).
-- **Kaninchen** – danach oben → **Pop-out** (hektischer Tusch). Etabliert das Pop-out als sein Markenzeichen, das in Akt III als Herold wiederkehrt.
+**Auftritt:** Nur **Alice** bekommt einen eigenen Auftritt – nach der Force oben → **Rising** (ruhig, würdevoll: die Protagonistin). Das **Kaninchen** wird *nicht* separat produziert; es betritt die Bühne in Phase 1 (per Double Lift vorgestellt). So nutzt sich der „Hervorschnell"-Effekt nicht ab – der schwungvolle **Top Shot** bleibt exklusiv dem Herold-Auftritt in Akt III.
 
 **Drei Phasen** (jede enthüllt *anders* – Variation täuscht; alle boden-schonend):
-1. **Etablieren** – [Double-Lift-Switch](/techniken/controls/double-lift-switch): Eine *andere* Karte wandert in die Mitte, das Kaninchen war nie weg von oben. Enthüllung: umdrehen.
+1. **Auftritt + Etablieren** – [Double-Lift-Switch](/techniken/controls/double-lift-switch): Der Double Lift zeigt das Kaninchen („da ist es!"), die *Füllkarte* darüber wandert (vermeintlich es) in die Mitte – das Kaninchen liegt oben. Enthüllung: umdrehen, „schon wieder da".
 2. **Der Beweis** – [Tilt](/techniken/controls/tilt): Das Kaninchen selbst wird sichtbar tief versenkt (real 2. von oben). Enthüllung: [Double-Lift](/techniken/double-lift)-Beweis.
 3. **Das Catch-Finale** (= der Klimax): Alice *und* Kaninchen verschwinden – nur sie beide bleiben übrig.
 
@@ -80,7 +79,7 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 
 Deck face-down auf den Tisch legen. Beim Übergangs-Patter („Alice betritt den Garten") **das Kaninchen face-down oben aufs Deck legen** und Alice nach rechts schieben (bleibt sichtbar). Dann das Deck **face-up auf dem Tisch aufspreaden** und die drei Gärtner (♠2/5/7) herausziehen, einzeln hinlegen.
 
-- **Das Kaninchen-Pendel:** Oben aufgelegt (face-down) → beim Face-up-Drehen fürs Spreaden wandert es ans *untere* Ende → am Ende von Akt II (face-down zurückgekippt) liegt es **wieder oben**, bereit für den Pop-out. Kein Break, kein Tracking nötig.
+- **Das Kaninchen-Pendel:** Oben aufgelegt (face-down) → beim Face-up-Drehen fürs Spreaden wandert es ans *untere* Ende → am Ende von Akt II (face-down zurückgekippt) liegt es **wieder oben**, bereit für den Top Shot. Kein Break, kein Tracking nötig.
 - Die Bodengruppe (Pik-Ass + Herzkönigin) **nicht stören** – beim Zusammenschieben bewusst „unsauber" lassen, ein paar Karten überlappend, damit die Herz-Dame **nicht aufblitzt**.
 - Deck face-up aufnehmen → das **Pik-Ass** ist die oberste sichtbare Karte (die Rose), die Herzkönigin liegt verdeckt direkt darunter, das Kaninchen am unteren Ende. **Kein Palmieren nötig.**
 
@@ -98,7 +97,7 @@ Deck face-down auf den Tisch legen. Beim Übergangs-Patter („Alice betritt den
 
 **Effekt:** Die Herzkönigin hält Gericht. Das weiße Kaninchen springt als Herold hervor und verliest die Anklage – dann wird das von Anfang an versiegelte Urteil enthüllt: der **Herz-Bube**, ihr eigener Soldat, die ganze Zeit verdeckt in der Hand des Zuschauers.
 
-1. **Der Herold:** Kaninchen per [Pop-out Move](/techniken/praesentation/popout-move) produzieren – hektisch wie in Akt I, dieselbe Karte, die dort hochsprang. Es liegt durchs „Pendeln" obenauf: Pop-out **von der Rückseite** (einfach, kein Cut) oder – als Ausbaustufe – per Cut in die Mitte und **Mitten-Pop-out** (dramatischer).
+1. **Der Herold:** Kaninchen per [Top Shot](/techniken/praesentation/top-shot) vom Deck schnellen lassen – es liegt durchs „Pendeln" obenauf (Top Shot = oberste Karte, kein Cut). Hier schlägt der schwungvolle Move als **Markenzeichen** ein – sein einziger, dafür umso stärkerer Auftritt dieser Art. (Pop-out als Alternative.)
 2. **Die Anklage:** Das Kaninchen „verliest" Carrolls Vers, der den Dieb benennt: *„The Knave of Hearts, he stole those tarts."*
 3. **Das Urteil:** Herzkönigin auf die beiseite-Karte legen, beide umdrehen → **♥ Dame + ♥ Bube** – „die Königin und ihr Verräter, beide vom Herzen". Der Zuschauer enthüllt selbst.
 
@@ -115,40 +114,35 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 **① Alice erscheint** · *Nach der Force liegt Alice oben. Rising – sie steigt langsam aus dem Deck.*
 > „Unsere Heldin: Alice. Ein Mädchen, dem im Wunderland gleich allerhand Seltsames widerfährt." *(Alice auf den Tisch legen.)*
 
-**② Das weiße Kaninchen** · *Kaninchen liegt jetzt oben. Pop-out – es schnellt hervor (sein Markenzeichen).*
-> „Und da – schwupp! – das weiße Kaninchen. Immer in Eile: *‚Oh dear, oh dear, I shall be late!'* Alice rennt ihm nach, hinein in den Bau."
-
-**③ Die Jagd – Ambitious in zwei Phasen** · *Kaninchen verlieren und kontrollieren; jede Phase anders, Boden unberührt.*
-> *Phase 1 – [Double-Lift-Switch](/techniken/controls/double-lift-switch), kommt sofort oben:* „Sie schiebt es in einen Gang – schon ist es wieder vor ihr."
+**② Die Jagd – Ambitious in zwei Phasen** · *Nach Alices Rising liegt die Füllkarte oben, das Kaninchen zweitoberst. Hier betritt das Kaninchen die Bühne.*
+> *Phase 1 – Auftritt + [Double-Lift-Switch](/techniken/controls/double-lift-switch):* Double Lift zeigt das Kaninchen: „Und da ist das weiße Kaninchen – *‚I shall be late!'*" *(zurückdrehen; die Füllkarte oben vermeintlich-als-Kaninchen in die Mitte verlieren)* „Alice jagt ihm nach – und schon ist es wieder vor ihr." *(Kaninchen liegt oben → umdrehen)*
 >
 > *Phase 2 – [Tilt](/techniken/controls/tilt), tief versenkt, dann Double-Lift-Beweis:* „Sie versteckt es ganz tief … *curiouser and curiouser* – es ist trotzdem schneller."
->
-> *(Phase 3 ist das Catch-Finale → ④)*
 
-**④ Das Catch-Finale (Phase 3)** · *Kaninchen liegt schon oben. Alice face-up oben auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Alice verschwindet und landet face-down ganz unten (unter der Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
+**③ Das Catch-Finale (Phase 3)** · *Kaninchen liegt schon oben. Alice face-up oben auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Alice verschwindet und landet face-down ganz unten (unter der Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
 > „Alice folgt dem Kaninchen ins Wunderland …" *(Alice face-up auflegen, Cardini Change – sie verschwindet)* „… und im ganzen Gewühl –" *(Wurf)* „– finden nur diese zwei zueinander."
 
-**⑤ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
+**④ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
 > „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
 
-**⑥ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt, „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
+**⑤ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt, „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
 > „Zwei, Fünf und Sieben – die Kartensoldaten. Und die haben ein Problem."
 
-**⑦ Painting the Roses Red** · *Pik-Ass als „Rose" präsentieren.*
+**⑥ Painting the Roses Red** · *Pik-Ass als „Rose" präsentieren.*
 > „Sie haben eine *schwarze* Rose gepflanzt. Aber die Königin duldet nur Herzen – rote Rosen. *‚Off with their heads!'*, wenn sie das sieht. Also – schnell, streicht sie rot!"
 
 *(Erdnase Color Change: rechte Hand streicht über das Deck.)*
 > „… und aus Schwarz wird Rot. Nur – das ist keine Rose mehr. **Das ist die Königin selbst.** Oh nein."
 
-**⑧ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
+**⑦ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
 > „Die Herzkönigin höchstpersönlich. Und sie ist außer sich: Jemand hat ihre Törtchen gestohlen! Es kommt zum Prozess."
 
-**⑨ Der Herold** · *Kaninchen per Pop-out von der Rückseite hervorschnellen lassen (es liegt obenauf) – oder per Cut in die Mitte und von dort.*
+**⑧ Der Herold** · *Kaninchen per [Top Shot](/techniken/praesentation/top-shot) vom Deck schnellen lassen (liegt durchs „Pendeln" obenauf) – sein einziger schwungvoller Auftritt dieser Art, das Markenzeichen.*
 > „Der Gerichtsherold! Das weiße Kaninchen – *zu spät, zu spät!* – verliest die Anklage:"
 >
 > „*The Queen of Hearts, she made some tarts … The Knave of Hearts, he stole those tarts!*"
 
-**⑩ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen.*
+**⑨ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen.*
 > „Der Bube der Herzen. Aber er ist nicht hier unter den Verdächtigen – er hat sich gleich zu Anfang abgesetzt. Und Sie, Kollege, haben ihn die ganze Zeit bewacht. Die Königin hat ihr Urteil längst versiegelt. Drehen Sie um."
 >
 > *(Zuschauer dreht beide Karten um: ♥ Dame + ♥ Bube.)* „Die Königin und ihr Verräter – beide vom Herzen. Gefasst."
@@ -185,16 +179,17 @@ Quellen: *Alice's Adventures in Wonderland* (Project Gutenberg #11) · dt. Über
 
 ## Offene Punkte
 
-- **Sleights als Lernziele** (rein praktisch, kein konzeptioneller offener Punkt mehr): Slip Force, Ambitious-Controls, der Bottom-Control (Alice an den absoluten Boden), „Two-Card Catch", Erdnase Color Change, Pop-out Move. Alles mit Karten zu üben.
+- **Sleights als Lernziele** (rein praktisch, kein konzeptioneller offener Punkt mehr): Slip Force, Double-Lift-Switch, Tilt, „Two-Card Catch", Cardini Change (Alices Vanish), Erdnase Color Change, Top Shot (Herold). Alles mit Karten zu üben.
 - **Beet-Ausbaustufe** – Mehrfach-Verwandlung als spätere Stufe.
 - **Erdnase-Zitat gegenprüfen** – die *Two Hands, First Method* vor einer Veröffentlichung am Originaltext (eigenes Exemplar) verifizieren.
 
 ## Eingesetzte Techniken (Werkzeugkasten)
 
-- [Ambitious Card](/tricks/karten/ambitious-card) · [Controls](/techniken/controls/) (inkl. Bottom-Control) · [Double Lift](/techniken/double-lift)
-- [Slip Force](/techniken/controls/) · „Two-Card Catch" (Reibungs-Produktion, Erdnase-Linie)
-- [Erdnase Color Change](/techniken/praesentation/color-change) (*Transformations, Two Hands, First Method*)
-- [Pop-out Move](/techniken/praesentation/popout-move) (Kaninchen-Produktion in Akt III)
+- [Ambitious Card](/tricks/karten/ambitious-card) · [Double Lift](/techniken/double-lift) · [Slip Force](/techniken/controls/)
+- Phasen-Controls: [Double-Lift-Switch](/techniken/controls/double-lift-switch) · [Tilt](/techniken/controls/tilt)
+- „Two-Card Catch" (Reibungs-Produktion, Erdnase-Linie) · [Cardini Change](/techniken/praesentation/cardini-change) (Alices Vanish im Finale)
+- [Erdnase Color Change](/techniken/praesentation/color-change) (Akt II) · [Top Shot](/techniken/praesentation/top-shot) (Herold, Akt III)
+- Alternativen: [Convincing Control](/techniken/controls/convincing-control) · [Pop-out Move](/techniken/praesentation/popout-move)
 
 ## Inspiration & Quellen
 
