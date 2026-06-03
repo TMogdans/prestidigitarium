@@ -122,17 +122,17 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 **③ Das Catch-Finale (Phase 3)** · *Kaninchen liegt oben. Alice face-up auflegen, [Cardini Change](/techniken/praesentation/cardini-change) → Vanish (face-down an die absolute Bodenposition, unter die Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
 > „Da fasst Alice sich ein Herz und springt dem Kaninchen nach – mitten hinein ins Wunderland." *(Alice auflegen, Cardini Change – sie verschwindet)* „Und während ringsum alles wirbelt und stürzt –" *(Wurf)* „– bleiben am Ende nur die beiden übrig. Alice hat ihr Kaninchen eingeholt."
 
-**④ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
-> „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
+**④ In den Garten** · *Deck face-down ablegen, Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann face-up auf dem Tisch aufspreaden.*
+> „Und wohin fällt Alice? Hinab, immer tiefer – bis in den Garten der Herzkönigin. Ein Labyrinth aus hohen Hecken und roten Rosen. Und mittendrin, zwischen den Beeten: drei Gärtner, die pinseln, was das Zeug hält."
 
-**⑤ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt, „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
-> „Zwei, Fünf und Sieben – die Kartensoldaten. Und die haben ein Problem."
+**⑤ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt – „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
+> „Pik Zwei, Pik Fünf und Pik Sieben – Kartensoldaten mit Pinsel und Farbtopf. *‚Was um alles in der Welt tut ihr denn da?'*, fragt Alice. Pik Zwei, schweißgebadet, schaut sich ängstlich um:"
 
 **⑥ Painting the Roses Red** · *Pik-Ass als „Rose" präsentieren.*
-> „Sie haben eine *schwarze* Rose gepflanzt. Aber die Königin duldet nur Herzen – rote Rosen. *‚Off with their heads!'*, wenn sie das sieht. Also – schnell, streicht sie rot!"
+> *‚Ach, Miss – hier hätte ein* roter *Rosenstock blühen sollen, und wir Tröpfe haben aus Versehen einen weißen gepflanzt! Wenn die Königin das entdeckt – Kopf ab, für uns alle!'* „Denn die Königin duldet nur Herzen, nur rote Rosen. *‚Dann los'*, drängt Alice, *‚ehe sie kommt!'* Und sie pinseln, so schnell die Borsten laufen –"
 
-*(Erdnase Color Change: rechte Hand streicht über das Deck.)*
-> „… und aus Schwarz wird Rot. Nur – das ist keine Rose mehr. **Das ist die Königin selbst.** Oh nein."
+*(Erdnase Color Change – die Hand streicht wie ein Pinsel über das Deck)*
+> „– ein Strich … und aus Schwarz wird Rot. Doch das ist keine Rose mehr. Das ist die Königin **selbst**. *‚Off with their heads!'*"
 
 **⑦ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
 > „Die Herzkönigin höchstpersönlich. Und sie ist außer sich: Jemand hat ihre Törtchen gestohlen! Es kommt zum Prozess."
