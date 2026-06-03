@@ -134,8 +134,8 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 *(Erdnase Color Change – die Hand streicht wie ein Pinsel über das Deck)*
 > „– ein Strich … und aus Schwarz wird Rot. Doch das ist keine Rose mehr. Das ist die Königin **selbst**. *‚Off with their heads!'*"
 
-**⑦ Das Gericht** · *Königin per Ellbogen-Kipp abnehmen (Faces vom Zuschauer weg, Pik-Ass bleibt verborgen), auf den Tisch. Deck face-down ablegen – das Kaninchen liegt durchs „Pendeln" jetzt wieder oben.*
-> „Die Königin der Herzen – in voller Pracht, und in heller Wut. Denn jemand hat ihre Törtchen gestohlen! Mit einem Wink beruft sie ein Gericht ein, und der ganze Hof erstarrt."
+**⑦ Das Gericht** · *Königin per Ellbogen-Kipp abnehmen (Pik-Ass bleibt verborgen) und als **Richterin** „thronen" lassen (oben/prominent). Die drei Gärtner um 90° drehen und untereinander legen → Geschworenenbank. Alice heranrücken → Zeugin. Deck face-down – Kaninchen pendelt oben.*
+> „*‚Off with their heads!'* tobt die Königin – doch dann hält sie inne: Sie hat heute Größeres zu richten. Vergesst die Rosen – ein Dieb ist unter uns! Jemand hat ihre Törtchen gestohlen. Im Nu wird der Garten zum Gerichtssaal: die Gärtner" *(drehen)* „– nun die Geschworenen. Alice" *(heranrücken)* „– die Zeugin. Und die Königin höchstselbst – die Richterin. Das Urteil aber liegt längst versiegelt vor Ihnen."
 
 **⑧ Der Herold** · *Kaninchen per [Top Shot](/techniken/praesentation/top-shot) vom Deck schnellen lassen (liegt obenauf) – sein einziger schwungvoller Auftritt dieser Art, das Markenzeichen.*
 > „Und wer ruft die Verhandlung aus? Wer sonst – das weiße Kaninchen, Herold des Hofes, mit Trompete und Schriftrolle. Es verliest die Anklage:"
