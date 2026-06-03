@@ -56,7 +56,7 @@ Force (Bube weg) und Rising (Alice) räumen den Top frei – danach liegt die F�
 
 ## ⓪ Einstieg & Force
 
-Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt ihn verdeckt beiseite – „das versiegelte Urteil". Carroll-Aufhänger: *„Sentence first – verdict afterwards!"*
+Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; der Zuschauer legt ihn verdeckt ab und die **Hand darauf** – „das versiegelte Urteil", das er bis zum Finale selbst bewacht. Das zahlt sich im Urteil aus: Der Dieb lag die ganze Zeit unter seiner *eigenen Hand*. Carroll-Aufhänger: *„Sentence first – verdict afterwards!"*
 
 ## Akt I – Down the Rabbit Hole *(Geschick)*
 
@@ -108,8 +108,8 @@ Deck face-down auf den Tisch legen. Beim Übergangs-Patter („Alice betritt den
 
 Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninchen ♦Q, Königin ♥Q, Dieb ♥Bube, Gärtner ♠2/5/7, Rose ♠Ass). *Kursiv = Regie/Handlung, eingerückt = gesprochener Text.*
 
-**⓪ Einstieg & Force** · *Deck in der Hand. Slip Force des Herz-Buben; Zuschauer legt ihn verdeckt beiseite.*
-> „Jeder kennt das Wunderland – diesen Ort, wo die Uhren anders ticken und alle ein wenig verrückt sind. *‚We're all mad here'*, flüstert die Grinsekatze aus den Zweigen. Und das Verrückteste: Hier fällt das Urteil noch *vor* dem Prozess – so will es die Herzkönigin. Würden Sie mir helfen?" *(Slip Force)* „Ziehen Sie eine Karte … das ist ihr Urteil. Schauen Sie nicht hin – legen Sie es verdeckt hierher. Versiegelt. Niemand weiß, was darauf steht. *Sentence first – verdict afterwards.*"
+**⓪ Einstieg & Force** · *Deck in der Hand. Slip Force des Herz-Buben; Zuschauer legt ihn verdeckt ab und die Hand darauf (versiegelt) – sie bleibt bis zum Finale liegen.*
+> „Jeder kennt das Wunderland – diesen Ort, wo die Uhren anders ticken und alle ein wenig verrückt sind. *‚We're all mad here'*, flüstert die Grinsekatze aus den Zweigen. Und das Verrückteste: Hier fällt das Urteil noch *vor* dem Prozess – so will es die Herzkönigin. Würden Sie mir helfen?" *(Slip Force)* „Ziehen Sie eine Karte … das ist ihr Urteil. Schauen Sie nicht hin – legen Sie es verdeckt hierher, und Ihre Hand darauf. So ist es versiegelt: Niemand kommt daran, niemand weiß, was darauf steht. *Sentence first – verdict afterwards.*"
 
 **① Alice** · *Nach der Force liegt Alice oben → Rising, auf den Tisch.*
 > „Unsere Geschichte aber beginnt an einem verschlafenen Sommernachmittag – mit *ihr*: Alice. Ein neugieriges Mädchen, dem gleich etwas höchst Seltsames über den Weg läuft."
@@ -142,8 +142,8 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 >
 > „*The Queen of Hearts, she made some tarts … The Knave of Hearts – he stole those tarts!*"
 
-**⑨ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen; der Zuschauer dreht beide um.*
-> „Der Bube der Herzen also. Doch – wo *ist* er? Unter den Verdächtigen sucht man ihn vergebens. Die Königin aber lächelt nur. Denn ihr Urteil, erinnern Sie sich, stand längst fest – versiegelt, von allem Anfang an. *‚Sentence first'* … und nun der Spruch. Drehen Sie um." *(Zuschauer dreht beide Karten um: ♥ Dame + ♥ Bube)* „Die Königin – und ihr Verräter. Beide vom Herzen. Der Bube hatte sich gleich zu Beginn davongestohlen … und Sie haben sein Urteil die ganze Zeit bewacht, ohne es zu ahnen."
+**⑨ Das Urteil** · *Königin auf die verdeckte beiseite-Karte legen. Der Zuschauer nimmt jetzt die Hand weg und dreht beide um.*
+> „Der Bube der Herzen also. Doch – wo *ist* er? Unter den Verdächtigen sucht man ihn vergebens. Die Königin aber lächelt nur. Denn ihr Urteil, erinnern Sie sich, stand längst fest – versiegelt, von allem Anfang an. *‚Sentence first'* … und nun der Spruch. Nehmen Sie die Hand weg – und drehen Sie um." *(Zuschauer enthüllt: ♥ Dame + ♥ Bube)* „Die Königin – und ihr Verräter, beide vom Herzen. Der Bube hatte sich gleich zu Beginn davongestohlen … und Sie haben ihn die ganze Zeit unter Ihrer *eigenen Hand* bewacht, ohne es zu ahnen."
 
 ## Zitate & Patter (Carroll im Original)
 
