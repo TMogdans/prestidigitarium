@@ -36,14 +36,18 @@ Eine dreiaktige Erzähl-Routine mit einem **Disney-Alice-im-Wunderland-Deck** (B
 
 ## Aufbau (Setup)
 
-Nur **drei fixe Karten**, alle an den Enden (stabil über Akt I); der Rest beliebig:
+Eine **obere Auftritts-Sequenz** (wird gleich zu Beginn abgearbeitet) und eine **stabile Bodengruppe** (bleibt über Akt I unberührt); die Mitte beliebig:
 
 | Position | Karte | Zweck |
 |---|---|---|
-| **Top** | Herz-Bube (♥ Bube) | wird per **Slip Force** geforciert |
-| Mitte | Kaninchen ♦Q, Alice ♠Q, Gärtner ♠2/5/7, Füllung | Reihenfolge egal |
-| zweitunterst | Herzkönigin (♥ Dame) | verdeckt unter der „Rose" → Color-Change-Ergebnis |
+| **1 (Top)** | Herz-Bube (♥ Bube) | **Slip Force** → „versiegeltes Urteil" |
+| **2** | Alice (♠ Dame) | nach der Force oben → **Rising** (Auftritt der Heldin) |
+| **3** | Kaninchen (♦ Dame) | danach oben → **Pop-out** (Auftritt, Tusch) |
+| Mitte | Gärtner ♠2/5/7, Füllung | Reihenfolge egal |
+| **zweitunterst** | Herzkönigin (♥ Dame) | verdeckt unter der „Rose" → Color-Change-Ergebnis |
 | **Bottom** | Pik-Ass (♠ Ass) | die „schwarze Rose" → nach face-up oben sichtbar |
+
+Die obere Sequenz wird sofort abgespielt – Force (Bube weg), Rising (Alice), Pop-out (Kaninchen); danach ist der Top frei für die Ambitious-Phasen. Die Bodengruppe (Königin/Ass) bleibt davon unberührt.
 
 **Warum Slip Force:** Der Herz-Bube liegt oben – der [Slip Force](/techniken/controls/) forciert die oberste Karte (Riffle bräuchte sie unten, Classic in der Mitte – beide ungeeignet). Der Zuschauer legt ihn *verdeckt* beiseite, niemand sieht ihn.
 
@@ -55,10 +59,18 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 
 ## Akt I – Down the Rabbit Hole *(Geschick)*
 
-**Effekt:** Das weiße Kaninchen (♦Q) wird ins Deck verloren und springt immer wieder zuoberst – Alice (♠Q) liegt als sichtbare Verfolgerin auf dem Tisch. Finale: Beide werden versenkt, ein Wurf lässt das ganze Deck in die andere Hand fliegen – nur Alice und das Kaninchen bleiben kleben.
+**Effekt:** Alice erscheint als Heldin, das weiße Kaninchen springt hektisch hervor. Dann jagt Alice das Kaninchen durch den Bau – es ist ihr in drei Phasen immer einen Sprung voraus (kommt stets nach oben). Finale: Beide werden versenkt, ein Wurf lässt das ganze Deck in die andere Hand fliegen – nur Alice und das Kaninchen bleiben kleben.
 
-- **Mechanik:** [Ambitious Card](/tricks/karten/ambitious-card) mit dem Kaninchen. Fürs Finale: Doppel-Control – Kaninchen an **Top** (Standard), Alice an den **absoluten Boden** (unter Herzkönigin + Pik-Ass).
-- **Finale:** „Two-Card Catch" – Deck in die linke Hand werfen, Top + Bottom (Kaninchen/Alice) bleiben durch Reibung rechts. Erhält das Deck als geordnetes Paket. (Name nicht gesichert; Erdnase-Reibungsprinzip, 1902.)
+**Auftritte (die Produktionsart charakterisiert die Figur):**
+- **Alice** – nach der Force oben → **Rising** (ruhig, würdevoll: die Protagonistin).
+- **Kaninchen** – danach oben → **Pop-out** (hektischer Tusch). Etabliert das Pop-out als sein Markenzeichen, das in Akt III als Herold wiederkehrt.
+
+**Drei Ambitious-Phasen** (Variation = Täuschung; Steigerung bis zum Pop-out):
+1. **Etablieren:** Kaninchen in die Mitte, kommt sofort oben (direktes Umdrehen).
+2. **Der Beweis:** sichtbar tief versenkt; [Double Lift](/techniken/double-lift) zeigt, dass oben *nicht* das Kaninchen liegt – und doch ist es da.
+3. **Höhepunkt:** Kaninchen verloren – und es schnellt per [Pop-out](/techniken/praesentation/popout-move) hervor (Markenzeichen).
+
+- **Catch-Finale:** Doppel-Control – Kaninchen an **Top**, Alice an den **absoluten Boden** (unter Herzkönigin + Pik-Ass). „Two-Card Catch" – Deck in die linke Hand werfen, Top + Bottom (Kaninchen/Alice) bleiben durch Reibung rechts. (Erdnase-Reibungsprinzip, 1902.)
 - **Stabil:** Die Bodengruppe (Herzkönigin ▸ Pik-Ass) bleibt während Akt I unberührt.
 
 ## Übergang I → II
@@ -97,36 +109,43 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 **⓪ Einstieg & Force** · *Deck komplett in der Hand. Stimmung aufbauen, dann Slip Force des Herz-Buben.*
 > „Willkommen im Wunderland – wo alle ein bisschen verrückt sind. *‚We're all mad here.'* Hier fällt das Urteil sogar *vor* dem Prozess. Ziehen Sie eine Karte – das ist das Urteil der Königin." *(Slip Force; Zuschauer nimmt den Herz-Buben.)* „Nicht ansehen. Legen Sie es verdeckt beiseite – versiegelt. Niemand kennt es. *Sentence first, verdict afterwards.*"
 
-**① Die Reise beginnt** · *Kaninchen (♦Q) herausnehmen und zeigen; Alice (♠Q) herausnehmen, offen auf den Tisch.*
-> „Das ist Alice. Und das" *(Kaninchen zeigen)* „– das weiße Kaninchen. Immer in Eile: *‚Oh dear, oh dear, I shall be late!'* Alice rennt ihm nach … hinein in den Kaninchenbau."
+**① Alice erscheint** · *Nach der Force liegt Alice oben. Rising – sie steigt langsam aus dem Deck.*
+> „Unsere Heldin: Alice. Ein Mädchen, dem im Wunderland gleich allerhand Seltsames widerfährt." *(Alice auf den Tisch legen.)*
 
-**② Ambitious – das Kaninchen springt hoch** · *Kaninchen verlieren, per Control nach oben; 2–3-mal. Boden unberührt lassen.*
-> *(Kaninchen ins Deck stecken)* „Tief hinunter, immer tiefer …" *(es liegt wieder oben)* „… und schon ist es ihr wieder voraus! *Curiouser and curiouser.*" *(wiederholen, Tempo steigern)*
+**② Das weiße Kaninchen** · *Kaninchen liegt jetzt oben. Pop-out – es schnellt hervor (sein Markenzeichen).*
+> „Und da – schwupp! – das weiße Kaninchen. Immer in Eile: *‚Oh dear, oh dear, I shall be late!'* Alice rennt ihm nach, hinein in den Bau."
 
-**③ Das Catch-Finale** · *Alice (vom Tisch) und Kaninchen ins Deck „versenken"; Doppel-Control: Kaninchen → Top, Alice → absoluter Boden. Dann der Wurf: Deck in die linke Hand, beide bleiben rechts.*
-> „Alice holt auf … beide fallen, immer tiefer …" *(Wurf)* „… und das ganze Wunderland rauscht vorbei. Nur die zwei bleiben – Alice hat ihr Kaninchen eingeholt."
+**③ Die Jagd – Ambitious in drei Phasen** · *Kaninchen verlieren und kontrollieren; jede Phase anders enthüllen, Boden unberührt lassen.*
+> *Phase 1 – kommt sofort oben (umdrehen):* „Sie schiebt es in einen Gang – schon ist es wieder vor ihr."
+>
+> *Phase 2 – tief versenkt, Double-Lift-Beweis:* „Sie versteckt es ganz tief … *curiouser and curiouser* – es ist trotzdem schneller."
+>
+> *Phase 3 – Pop-out (Höhepunkt):* „Sie greift danach – zack, vorausgesprungen!"
 
-**④ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
+**④ Das Catch-Finale** · *Alice (vom Tisch) und Kaninchen ins Deck versenken; Doppel-Control: Kaninchen → Top, Alice → absoluter Boden. Dann der Wurf: Deck in die linke Hand, beide bleiben rechts.*
+> „Endlich holt Alice auf … beide fallen, immer tiefer …" *(Wurf)* „… und das ganze Wunderland rauscht vorbei. Nur die zwei bleiben – Alice hat ihr Kaninchen."
+
+**⑤ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
 > „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
 
-**⑤ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt, „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
+**⑥ Die Gärtner** · *Pik 2/5/7 aus dem Spread ziehen, einzeln hinlegen. Bodengruppe (Ass/Königin) unberührt, „unsauber" zusammenschieben, face-up aufnehmen → Pik-Ass oben sichtbar.*
 > „Zwei, Fünf und Sieben – die Kartensoldaten. Und die haben ein Problem."
 
-**⑥ Painting the Roses Red** · *Pik-Ass als „Rose" präsentieren.*
+**⑦ Painting the Roses Red** · *Pik-Ass als „Rose" präsentieren.*
 > „Sie haben eine *schwarze* Rose gepflanzt. Aber die Königin duldet nur Herzen – rote Rosen. *‚Off with their heads!'*, wenn sie das sieht. Also – schnell, streicht sie rot!"
 
 *(Erdnase Color Change: rechte Hand streicht über das Deck.)*
 > „… und aus Schwarz wird Rot. Nur – das ist keine Rose mehr. **Das ist die Königin selbst.** Oh nein."
 
-**⑦ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
+**⑧ Das Gericht** · *Deck am Ellbogen nach oben kippen (Faces vom Zuschauer weg), dabei die Königin abziehen und auf den Tisch legen – das Pik-Ass darunter bleibt verborgen, die Königin lenkt die Blicke. Deck face-down ablegen (Kaninchen ist jetzt wieder oben).*
 > „Die Herzkönigin höchstpersönlich. Und sie ist außer sich: Jemand hat ihre Törtchen gestohlen! Es kommt zum Prozess."
 
-**⑧ Der Herold** · *Kaninchen per Pop-out von der Rückseite hervorschnellen lassen (es liegt obenauf) – oder per Cut in die Mitte und von dort.*
+**⑨ Der Herold** · *Kaninchen per Pop-out von der Rückseite hervorschnellen lassen (es liegt obenauf) – oder per Cut in die Mitte und von dort.*
 > „Der Gerichtsherold! Das weiße Kaninchen – *zu spät, zu spät!* – verliest die Anklage:"
 >
 > „*The Queen of Hearts, she made some tarts … The Knave of Hearts, he stole those tarts!*"
 
-**⑨ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen.*
+**⑩ Das Urteil** · *Herzkönigin auf die verdeckte beiseite-Karte legen.*
 > „Der Bube der Herzen. Aber er ist nicht hier unter den Verdächtigen – er hat sich gleich zu Anfang abgesetzt. Und Sie, Kollege, haben ihn die ganze Zeit bewacht. Die Königin hat ihr Urteil längst versiegelt. Drehen Sie um."
 >
 > *(Zuschauer dreht beide Karten um: ♥ Dame + ♥ Bube.)* „Die Königin und ihr Verräter – beide vom Herzen. Gefasst."
