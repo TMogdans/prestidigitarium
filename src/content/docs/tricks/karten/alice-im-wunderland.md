@@ -65,13 +65,16 @@ Atmosphäre setzen, dann den Herz-Buben per Slip Force forcieren; Zuschauer legt
 - **Alice** – nach der Force oben → **Rising** (ruhig, würdevoll: die Protagonistin).
 - **Kaninchen** – danach oben → **Pop-out** (hektischer Tusch). Etabliert das Pop-out als sein Markenzeichen, das in Akt III als Herold wiederkehrt.
 
-**Drei Ambitious-Phasen** (Variation = Täuschung; Steigerung bis zum Pop-out):
-1. **Etablieren:** Kaninchen in die Mitte, kommt sofort oben (direktes Umdrehen).
-2. **Der Beweis:** sichtbar tief versenkt; [Double Lift](/techniken/double-lift) zeigt, dass oben *nicht* das Kaninchen liegt – und doch ist es da.
-3. **Höhepunkt:** Kaninchen verloren – und es schnellt per [Pop-out](/techniken/praesentation/popout-move) hervor (Markenzeichen).
+**Drei Phasen** (jede enthüllt *anders* – Variation täuscht; alle boden-schonend):
+1. **Etablieren** – [Double-Lift-Switch](/techniken/controls/double-lift-switch): Eine *andere* Karte wandert in die Mitte, das Kaninchen war nie weg von oben. Enthüllung: umdrehen.
+2. **Der Beweis** – [Tilt](/techniken/controls/tilt): Das Kaninchen selbst wird sichtbar tief versenkt (real 2. von oben). Enthüllung: [Double-Lift](/techniken/double-lift)-Beweis.
+3. **Das Catch-Finale** (= der Klimax): Alice *und* Kaninchen verschwinden – nur sie beide bleiben übrig.
 
-- **Catch-Finale:** Doppel-Control – Kaninchen an **Top**, Alice an den **absoluten Boden** (unter Herzkönigin + Pik-Ass). „Two-Card Catch" – Deck in die linke Hand werfen, Top + Bottom (Kaninchen/Alice) bleiben durch Reibung rechts. (Erdnase-Reibungsprinzip, 1902.)
-- **Stabil:** Die Bodengruppe (Herzkönigin ▸ Pik-Ass) bleibt während Akt I unberührt.
+**Das Catch-Finale im Detail:**
+- Das **Kaninchen** liegt nach Phase 2 ohnehin oben – die Top-Karte ist gesetzt, kein Extra-Control.
+- **Alice** wird ins gefächerte Deck verloren und per [Convincing Control](/techniken/controls/convincing-control) (Spread Cull) an den **absoluten Boden** gebracht – *unter* die Bodengruppe, die als Block (Königin über Pik-Ass) intakt darüber bleibt. Optisch „im Fächer verschwunden" = Alices magischer Moment. (Backup: Kelly Bottom Placement.)
+- **„Two-Card Catch":** Deck werfen → Top + Bottom (Kaninchen/Alice) bleiben durch Reibung. Nach dem Catch liegt die Bodengruppe (Pik-Ass unten, Königin darüber) automatisch richtig für Akt II. (Erdnase-Reibungsprinzip, 1902.)
+- **Boden-schonend:** Phasen 1+2 lassen die Bodengruppe völlig unberührt (Tilt/DL-Switch arbeiten nur oben); erst im Catch gleitet Alice sauber darunter.
 
 ## Übergang I → II
 
@@ -115,15 +118,15 @@ Durchgespielte Vorführung. Alle Schlüsselkarten sind fix (Alice ♠Q, Kaninche
 **② Das weiße Kaninchen** · *Kaninchen liegt jetzt oben. Pop-out – es schnellt hervor (sein Markenzeichen).*
 > „Und da – schwupp! – das weiße Kaninchen. Immer in Eile: *‚Oh dear, oh dear, I shall be late!'* Alice rennt ihm nach, hinein in den Bau."
 
-**③ Die Jagd – Ambitious in drei Phasen** · *Kaninchen verlieren und kontrollieren; jede Phase anders enthüllen, Boden unberührt lassen.*
-> *Phase 1 – kommt sofort oben (umdrehen):* „Sie schiebt es in einen Gang – schon ist es wieder vor ihr."
+**③ Die Jagd – Ambitious in zwei Phasen** · *Kaninchen verlieren und kontrollieren; jede Phase anders, Boden unberührt.*
+> *Phase 1 – [Double-Lift-Switch](/techniken/controls/double-lift-switch), kommt sofort oben:* „Sie schiebt es in einen Gang – schon ist es wieder vor ihr."
 >
-> *Phase 2 – tief versenkt, Double-Lift-Beweis:* „Sie versteckt es ganz tief … *curiouser and curiouser* – es ist trotzdem schneller."
+> *Phase 2 – [Tilt](/techniken/controls/tilt), tief versenkt, dann Double-Lift-Beweis:* „Sie versteckt es ganz tief … *curiouser and curiouser* – es ist trotzdem schneller."
 >
-> *Phase 3 – Pop-out (Höhepunkt):* „Sie greift danach – zack, vorausgesprungen!"
+> *(Phase 3 ist das Catch-Finale → ④)*
 
-**④ Das Catch-Finale** · *Alice (vom Tisch) und Kaninchen ins Deck versenken; Doppel-Control: Kaninchen → Top, Alice → absoluter Boden. Dann der Wurf: Deck in die linke Hand, beide bleiben rechts.*
-> „Endlich holt Alice auf … beide fallen, immer tiefer …" *(Wurf)* „… und das ganze Wunderland rauscht vorbei. Nur die zwei bleiben – Alice hat ihr Kaninchen."
+**④ Das Catch-Finale (Phase 3)** · *Kaninchen liegt schon oben. Alice ins gefächerte Deck zurückgeben und per [Convincing Control](/techniken/controls/convincing-control) an den absoluten Boden cullen (unter die Bodengruppe). Dann der Wurf: Deck in die linke Hand, Top + Bottom bleiben rechts.*
+> „Endlich holt Alice auf … beide verschwinden im Gewühl des Wunderlands …" *(Wurf)* „… und doch finden nur diese zwei zueinander."
 
 **⑤ In den Garten** · *Deck face-down ablegen. Beim Erzählen das Kaninchen face-down obenauf legen, Alice nach rechts schieben. Dann das Deck face-up auf dem Tisch aufspreaden.*
 > „Alice tritt in den Garten der Königin. Und hier schuften die Gärtner."
