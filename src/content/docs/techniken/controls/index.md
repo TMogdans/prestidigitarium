@@ -17,10 +17,22 @@ Controls nutzen die Tiefenwahrnehmung und die begrenzte Fähigkeit des Zuschauer
 
 ## Wichtige Controls
 
+Einsteigerfreundlich:
+
 - **[Break](break)** — Ein kleiner Spalt im Deck markiert die Position der Karte; Voraussetzung für viele andere Controls
+- **[Crimp](crimp)** — Eine leichte Biegung in der Karte dient als unsichtbare Markierung
+- **[Double Undercut](double-undercut)** — Zweimaliges Abheben bringt die markierte Karte sauber nach oben — der ehrliche Ersatz für den Pass
+- **[Overhand Control](overhand-control)** — Eine Karte wird während eines Overhand Shuffle kontrolliert an die gewünschte Position gebracht
+- **[Key Card](key-card)** — Eine bekannte Karte neben der Wahlkarte macht diese jederzeit auffindbar; impromptu und untersuchbar
+
+Fortgeschritten:
+
+- **[Tilt / Depth Illusion](tilt)** — Die Karte scheint in die Mitte zu gehen, liegt aber zweite von oben
+- **[Convincing Control](convincing-control)** — Der Zuschauer sieht seine Karte in die Mitte gehen — es ist eine geswitchte Fremdkarte
+- **[Bluff Pass](bluff-pass)** — Reine Timing-Illusion des Einsteckens; umringt vorführbar
 - **[Pass](pass)** — Die Deckhälften werden unsichtbar vertauscht, um eine Karte von unten nach oben zu bringen; sehr schwierig
-- **Crimp** — Eine leichte Biegung in der Karte dient als unsichtbare Markierung
-- **Overhand Control** — Eine Karte wird während eines Overhand Shuffle kontrolliert an die gewünschte Position gebracht
+- **[Side Steal](side-steal)** — Die Karte wird seitlich aus der Mitte gestohlen
+- **[Diagonal Palm Shift](diagonal-palm-shift)** — Die Karte wird beim Quadrieren diagonal in die Handfläche gestohlen (Erdnase); Expertentechnik
 
 ## Geschichte
 

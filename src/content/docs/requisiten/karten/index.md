@@ -26,6 +26,10 @@ Randloses Design — ideal für bestimmte Techniken, bei denen der Rand stören 
 - [Svengali Deck](/requisiten/karten/svengali-deck/) — Deck mit alternierend kurzen Karten
 - [Stripper Deck](/requisiten/karten/stripper-deck/) — Konisch geschnittene Karten
 
+## Trick-spezifische Gimmicks
+
+- [Ambitious-Card-Gimmicks](/requisiten/karten/ambitious-card-gimmicks/) — Gaffs & Requisiten für die Ambitious Card ohne schwere Fingerfertigkeit
+
 ## Zubehör & Hilfsmittel
 
 ### Fanning Powder
