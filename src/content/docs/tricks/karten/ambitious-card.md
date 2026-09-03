@@ -50,6 +50,10 @@ Vernons Ambitious Card Routine wurde später in *Stars of Magic* veröffentlicht
 
 Eine Ambitious Card ist im Kern eine Kette aus drei wiederkehrenden Bausteinen: **Opener** (Karte scheint in die Mitte zu gehen) → **Control** (Karte kommt unbemerkt nach oben) → **Reveal** (Vorzeigen der Deckkarte). Jede Phase kombiniert diese Bausteine neu — genau das ist das oben beschriebene Method-Switching. Das Minimalgerüst einer kompletten einfachen Routine ist bereits **Tilt + Double Lift**.
 
+:::tip[Baukasten in Aktion]
+Eine ausgearbeitete, themenfreie Vier-Phasen-Routine, die diesen Baukasten Schritt für Schritt vorführt — mit Schwierigkeitsgrad und Anfänger-Alternative je Phase — findest du unter [Die ehrgeizige Karte – Lehr-Routine](/tricks/karten/ambitious-card-lehrroutine).
+:::
+
 ### Opener — Karte „in die Mitte" stecken
 
 - **[Tilt / Depth Illusion](/techniken/controls/tilt)** (Marlo bzw. Vernon) — die Karte landet real zweite von oben; der klassische Standard-Opener
