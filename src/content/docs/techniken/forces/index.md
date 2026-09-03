@@ -20,7 +20,8 @@ Eine gelungene Force ist unsichtbar — der Zuschauer ist absolut überzeugt, fr
 - **[Classic Force](classic-force)** — der Magier fächert das Deck auf; durch Timing und Kontrolle greift der Zuschauer genau zur richtigen Karte. Schwierig, aber wirkungsvoll.
 - **[Riffle Force](riffle-force)** — der Zuschauer sagt „Stopp" während der Magier durch das Deck riffelt; der Magier kontrolliert, wo gestoppt wird.
 - **Hindu Shuffle Force** — während eines Hindu Shuffle sagt der Zuschauer „Stopp"; die forcierte Karte liegt bereit.
-- **Cross-Cut Force** — der Zuschauer schneidet das Deck; durch eine unauffällige Verwechslung sieht er die vorbereitete Karte.
+- **[Cross-Cut Force](cross-cut-force)** — der Zuschauer schneidet das Deck; eine Zeit-Misdirection lässt ihn die vorbereitete Karte für seine Schnittstelle halten. Eine der einfachsten Forces.
+- **[Ten-Twenty Force](ten-twenty-force)** — selbstwirkend/mathematisch: der Zuschauer nennt eine freie Zahl und zählt selbst ab, landet aber zwingend bei der Force-Karte. Kein Griff nötig.
 - **Dribble Force** — Karten werden aus einer Hand in die andere gedribbelt, der Zuschauer sagt „Stopp".
 
 ## Verwendung in Tricks
