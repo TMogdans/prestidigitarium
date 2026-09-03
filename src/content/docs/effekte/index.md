@@ -24,19 +24,11 @@ Dieselbe Trennung ist der Grund, warum jeder Trick in dieser Wissensbasis ein Fe
 | **Verwandlung** | Etwas ist zu etwas anderem geworden | [Verwandlung](/effekte/verwandlung) |
 | **Schweben** | Etwas widersetzt sich der Schwerkraft | [Schweben](/effekte/schweben) |
 | **Vorhersage** | Das Ergebnis stand vorher fest | [Vorhersage](/effekte/vorhersage) |
-| **Erscheinen** | Etwas ist plötzlich da | — |
-| **Wanderung** | Etwas hat den Platz gewechselt | — |
-| **Teleportation** | Etwas ist an einem anderen Ort aufgetaucht | — |
-| **Trennung** | Vermischtes hat sich selbst sortiert | — |
-| **Durchdringung** | Festes ist durch Festes hindurchgegangen | — |
-
-Die letzten fünf haben noch keine eigene Kategorie-Seite, werden aber von Tricks bereits verwendet:
-
-- **Erscheinen** — [Devil's Elevator](/tricks/karten/devils-elevator), [Hands of Midas](/tricks/muenzen/hands-of-midas), [Miser's Dream](/tricks/muenzen/misers-dream)
-- **Wanderung** — [Ace Assembly](/tricks/karten/ace-assembly), [Sandwich](/tricks/karten/sandwich), [Die vier Räuber](/tricks/karten/four-burglars), [Card to Pocket](/tricks/karten/card-to-pocket)
-- **Teleportation** — [Coins Across](/tricks/muenzen/coins-across), [Three Fly](/tricks/muenzen/three-fly), [Matrix](/tricks/muenzen/matrix)
-- **Trennung** — [Oil and Water](/tricks/karten/oil-and-water)
-- **Durchdringung** — [Coin Through Table](/tricks/muenzen/coin-through-table)
+| **Erscheinen** | Etwas ist plötzlich da | [Erscheinen](/effekte/erscheinen) |
+| **Wanderung** | Etwas hat den Platz gewechselt | [Wanderung](/effekte/wanderung) |
+| **Teleportation** | Etwas ist an einem anderen Ort aufgetaucht | [Teleportation](/effekte/teleportation) |
+| **Trennung** | Vermischtes hat sich selbst sortiert | [Trennung](/effekte/trennung) |
+| **Durchdringung** | Festes ist durch Festes hindurchgegangen | [Durchdringung](/effekte/durchdringung) |
 
 :::tip[Wanderung oder Teleportation?]
 Die Grenze ist Konvention, nicht Naturgesetz: In dieser Wissensbasis meint **Wanderung** den Ortswechsel innerhalb eines Ganzen (eine Karte wandert im Deck oder von Päckchen zu Päckchen), **Teleportation** den Sprung über eine sichtbare Lücke (eine Münze erscheint in der anderen Hand). Wer neu einordnet, sollte dieser Linie folgen.
