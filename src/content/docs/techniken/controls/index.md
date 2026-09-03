@@ -15,6 +15,8 @@ Nachdem ein Zuschauer eine Karte gewählt und ins Deck zurückgesteckt hat, nutz
 
 Controls nutzen die Tiefenwahrnehmung und die begrenzte Fähigkeit des Zuschauers, präzise Kartenpositionen zu registrieren.
 
+Soll die Karte nicht nach oben oder unten, sondern an eine **bestimmte Stelle** wie die siebte von oben, kommt ein zweiter Schritt dazu. Wie man von der Ankerposition aus weiterrückt, zählend oder rechnerisch, beschreibt die Konzeptseite [Position n](/konzepte/position-n).
+
 ## Wichtige Controls
 
 Einsteigerfreundlich:

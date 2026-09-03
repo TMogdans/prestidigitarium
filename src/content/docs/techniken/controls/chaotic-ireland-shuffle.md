@@ -81,6 +81,7 @@ Ein reines Positionsprinzip ohne Fingerfertigkeit — technisch **leicht**. Schw
 - [Break](/techniken/controls/break) — markiert Blockgrenzen beim Setup
 - [Falschmischen](/techniken/falschmischen) — die vorgetäuschte Alternative zur echten Zuschauer-Aktion
 - [Stay Stack](/konzepte/stay-stack) — andere Invariante, die Zuschauer-Aktionen übersteht
+- [Position n](/konzepte/position-n) — wie die Karte vor dem Shuffle an die n-te Stelle *von unten* kommt, und warum die Richtung dabei leicht verwechselt wird
 - [Misdirection](/techniken/misdirection) — trägt das „Chaos"-Framing
 - [Publikumsführung](/konzepte/publikumsfuehrung) — „Chaos als Kontrolle" als einer von sechs Führungs-Bausteinen
 
