@@ -1,14 +1,14 @@
 ---
-title: Convincing Control / Spread Cull
+title: Convincing Control
 sidebar:
-  label: Convincing Control (Spread Cull)
+  label: Convincing Control
   order: 9
 tags: [sleight-of-hand, karten, fortgeschritten]
 typ: technik
 schwierigkeit: schwer
 ---
 
-Die Convincing Control ist ein Control auf Basis des **Spread Cull**: Die Wahlkarte wird offen ins gefächerte Deck zurückgesteckt und beim Schließen der Fächer unbemerkt herausgekullt ("gecullt") und an eine bekannte Position kontrolliert. Sie gilt als moderner Abkömmling des **Hofzinser Spread Cull**.
+Die Convincing Control ist ein Control auf Basis des [Spread Cull](/techniken/controls/spread-cull): Die Wahlkarte wird offen ins gefächerte Deck zurückgesteckt und beim Schließen der Fächer unbemerkt herausgekullt ("gecullt") und an eine bekannte Position kontrolliert. Sie gilt als moderner Abkömmling des **Hofzinser Spread Cull**. Die Mechanik des Culls selbst ist auf der Spread-Cull-Seite beschrieben, hier geht es um die Anwendung im Moment der Rückgabe.
 
 ## Beschreibung
 
@@ -18,7 +18,7 @@ Da der Zuschauer die Karte tatsächlich mitten ins Deck schiebt und der Magier n
 
 ## Herkunft
 
-Die Technik leitet sich vom **Spread Cull** ab, dessen Wurzeln auf **Johann Nepomuk Hofzinser** (Hofzinser Cull / Hofzinser Spread Cull) zurückgehen. Moderne "Convincing Control"-Handhabungen verfeinern dieses Prinzip für den Einsatz als Single-Card-Control.
+Die Technik leitet sich vom [Spread Cull](/techniken/controls/spread-cull) ab, dessen Wurzeln auf **Johann Nepomuk Hofzinser** zurückgehen. Den Namen „Convincing Control" prägte Ed Marlo, der sie 1970 im *Hierophant* veröffentlichte. Das Conjuring Archive führt eine ältere Grundform bei Edward Victor um 1940. Marlo beschrieb zahlreiche Varianten, darunter Convincing Control to Bottom, Convincing Control Reverse und Less Out Convincing Control.
 
 ## Ausführung (Grundprinzip)
 
@@ -43,6 +43,7 @@ In der Routine [Alice im Wunderland](/tricks/karten/alice-im-wunderland) wird di
 
 ## Verwandte Techniken
 
+- [Spread Cull](/techniken/controls/spread-cull) — die zugrunde liegende Mechanik
 - [Tilt / Depth Illusion](/techniken/controls/tilt) — boden-schonende Alternative
 - [Double-Lift-Switch](/techniken/controls/double-lift-switch) — weitere boden-schonende Kontrolle
 - [Break](/techniken/controls/break) — nötig, um eine gecullte Karte sauber nach oben zu transferieren
@@ -50,6 +51,8 @@ In der Routine [Alice im Wunderland](/tricks/karten/alice-im-wunderland) wird di
 
 ## Quellen & Referenzen
 
-- Johann Nepomuk Hofzinser — Hofzinser Spread Cull
+- Ed Marlo: „Convincing Control", *The Hierophant* Nr. 3 (1970)
+- [Conjuring Archive: Convincing Control und Varianten](https://www.conjuringarchive.com/list/category/1358)
+- Johann Nepomuk Hofzinser — Hofzinser Spread Cull, siehe [Spread Cull](/techniken/controls/spread-cull)
 - *Das große Buch vom Zaubern* — Bruce Smith
 - [List of card manipulation techniques — Wikipedia](https://en.wikipedia.org/wiki/List_of_card_manipulation_techniques)

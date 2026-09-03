@@ -27,14 +27,18 @@ Einsteigerfreundlich:
 - **[Overhand Control](overhand-control)** — Eine Karte wird während eines Overhand Shuffle kontrolliert an die gewünschte Position gebracht
 - **[Key Card](key-card)** — Eine bekannte Karte neben der Wahlkarte macht diese jederzeit auffindbar; impromptu und untersuchbar
 - **[Chaotic Ireland Shuffle](chaotic-ireland-shuffle)** — Der Zuschauer zerlegt das Deck frei, eine bekannte Position spiegelt sich dabei exakt von unten nach oben; ohne jeden Griff
+- **[Hindu Shuffle Control](hindu-shuffle-control)** — Die zurückgegebene Karte wird im Hindu Shuffle mit einem Break nach oben gebracht; der Mischvorgang ist echt
+- **[Riffle Shuffle Control](riffle-shuffle-control)** — Top oder Bottom Stock im echten Riffle Shuffle erhalten, eine Karte per Jog kontrollieren
 
 Fortgeschritten:
 
 - **[Tilt / Depth Illusion](tilt)** — Die Karte scheint in die Mitte zu gehen, liegt aber zweite von oben
-- **[Convincing Control](convincing-control)** — Der Zuschauer sieht seine Karte in die Mitte gehen — es ist eine geswitchte Fremdkarte
+- **[Convincing Control](convincing-control)** — Der Zuschauer steckt seine Karte offen in die Spreizung, beim Schließen wird sie gecullt (Marlo)
 - **[Bluff Pass](bluff-pass)** — Reine Timing-Illusion des Einsteckens; umringt vorführbar
 - **[Pass](pass)** — Die Deckhälften werden unsichtbar vertauscht, um eine Karte von unten nach oben zu bringen; sehr schwierig
 - **[Side Steal](side-steal)** — Die Karte wird seitlich aus der Mitte gestohlen
+- **[Spread Cull](spread-cull)** — Eine oder mehrere Karten werden beim Ausbreiten unter die Spreizung gezogen und landen unten (Hofzinser)
+- **[Kelly Bottom Placement](kelly-bottom-placement)** — Die sichtbar in die Mitte gesteckte Karte gleitet beim Quadrieren nach unten
 - **[Diagonal Palm Shift](diagonal-palm-shift)** — Die Karte wird beim Quadrieren diagonal in die Handfläche gestohlen (Erdnase); Expertentechnik
 
 ## Geschichte
