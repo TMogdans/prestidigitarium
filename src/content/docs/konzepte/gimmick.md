@@ -21,7 +21,7 @@ Ein normales Kartenspiel ist ein **Prop**. Eine doppelseitig bedruckte Karte dar
 ## Arten von Gimmicks
 
 ### Versteckte Vorrichtungen
-- **Thumb Tip** — fleischfarbener Hohlkörper über dem Daumen, für Tücher und Papier → [Thumb Tip](/requisiten/thumb-tip)
+- **Thumb Tip** — fleischfarbener Hohlkörper über dem Daumen, für Tücher und Papier → [Thumb Tip](/requisiten/gimmicks/thumb-tip/)
 - **Reel** — einziehbarer Faden, zieht Objekte unsichtbar zurück
 - **Pull** — elastischer Zug, der Objekte in den Ärmel oder unter die Jacke schnellt
 - **Thread** (unsichtbarer Faden) — für Schwebeillusionen

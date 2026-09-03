@@ -147,7 +147,7 @@ Kurze Definitionen zentraler Begriffe der Zauberkunst. Für ausführlichere Erkl
 ## T
 
 **Thumb Tip** (dt.: *Daumenspitze*)
-: Ein fleischfarbener Hohlkörper, der über den Daumen gestülpt wird. Ermöglicht das Verschwinden kleiner Objekte (Tücher, Papier). Eines der vielseitigsten Gimmicks. → [Thumb Tip](/requisiten/thumb-tip)
+: Ein fleischfarbener Hohlkörper, der über den Daumen gestülpt wird. Ermöglicht das Verschwinden kleiner Objekte (Tücher, Papier). Eines der vielseitigsten Gimmicks. → [Thumb Tip](/requisiten/gimmicks/thumb-tip/)
 
 **Top Change**
 : Die oberste Karte des Decks wird unsichtbar gegen eine andere Karte ausgetauscht.
