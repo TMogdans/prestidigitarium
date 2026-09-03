@@ -36,6 +36,10 @@ export default defineConfig({
           autogenerate: { directory: 'konzepte' },
         },
         {
+          label: 'Magier',
+          autogenerate: { directory: 'magier' },
+        },
+        {
           label: 'Ressourcen',
           autogenerate: { directory: 'ressourcen' },
         },

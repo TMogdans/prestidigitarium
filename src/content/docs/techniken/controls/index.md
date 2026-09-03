@@ -24,6 +24,7 @@ Einsteigerfreundlich:
 - **[Double Undercut](double-undercut)** — Zweimaliges Abheben bringt die markierte Karte sauber nach oben — der ehrliche Ersatz für den Pass
 - **[Overhand Control](overhand-control)** — Eine Karte wird während eines Overhand Shuffle kontrolliert an die gewünschte Position gebracht
 - **[Key Card](key-card)** — Eine bekannte Karte neben der Wahlkarte macht diese jederzeit auffindbar; impromptu und untersuchbar
+- **[Chaotic Ireland Shuffle](chaotic-ireland-shuffle)** — Der Zuschauer zerlegt das Deck frei, eine bekannte Position spiegelt sich dabei exakt von unten nach oben; ohne jeden Griff
 
 Fortgeschritten:
 
