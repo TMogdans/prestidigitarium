@@ -105,7 +105,7 @@ Ein *wiederholter*, sauberer, mehrphasiger Effekt mit signierter Karte gelingt o
 ## Requisiten
 
 - Ein normales Kartenspiel — kein Gimmick nötig
-- Auch mit einem [Stripper Deck](/requisiten/gimmicks/) möglich (für Anfänger)
+- Auch mit einem [Stripper Deck](/requisiten/karten/stripper-deck) möglich (für Anfänger)
 
 ## Varianten & Erweiterungen
 
