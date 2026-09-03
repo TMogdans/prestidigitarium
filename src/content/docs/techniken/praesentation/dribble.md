@@ -36,7 +36,7 @@ Eine fortgeschrittene Variante, bei der die Karten eine S-förmige Kurve beschre
 ## Verwendung
 
 - **Überbrückung** — zwischen zwei Tricks oder Phasen
-- **Misdirection** — die Bewegung lenkt die Aufmerksamkeit
+- **[Misdirection](/konzepte/misdirection)** — die Bewegung lenkt die Aufmerksamkeit
 - **Shuffling-Eindruck** — sieht wie ein Mischen aus
 - **Force-Vorbereitung** — beim Dribble kann der Zuschauer „Stopp" sagen (→ [Dribble Force](/techniken/forces/))
 

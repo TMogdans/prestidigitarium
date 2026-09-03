@@ -125,9 +125,9 @@ Das Finale entscheidet, wie eine Routine in Erinnerung bleibt. Eine sinnvolle Le
 
 ### Berühmte publizierte Routinen
 
-- **Dai Vernon** — *The Trick That Fooled Houdini* (siehe Geschichte); der Double-Backer-Twist
+- **[Dai Vernon](/magier/dai-vernon)** — *The Trick That Fooled Houdini* (siehe Geschichte); der Double-Backer-Twist
 - **Daryl** — die einflussreichste Lehr-Routine (FISM-Gold 1982)
-- **Michael Ammar** — *Easy to Master Card Miracles Vol. 2*: die populärste Einsteiger-Lehrfassung
+- **[Michael Ammar](/magier/michael-ammar)** — *Easy to Master Card Miracles Vol. 2*: die populärste Einsteiger-Lehrfassung
 - **Larry Jennings** — *Ambitious Classic*, technisch anspruchsvoll
 - **Martin Lewis** — *Cardiographic*: die *gezeichnete* Karte steigt aus einem gezeichneten Deck (die visuelle Steigerungsform; von Copperfield genutzt)
 

@@ -38,7 +38,7 @@ Das Schwierige: Die Finger müssen die Karte sicher halten, während sie natürl
 ## Verwendung
 
 - **Kartenproduktion** — Karten erscheinen einzeln aus dem Nichts (klassische Bühnenroutine)
-- **Bühnenmagie** — Standardrepertoire von Manipulationskünstlern seit über 100 Jahren
+- **[Bühnenmagie](/sparten/buehnenmagie)** — Standardrepertoire von Manipulationskünstlern seit über 100 Jahren
 - Als **Abschluss** einer Routine mit dramatischer Wirkung
 - In Kombination mit [Palmieren](/techniken/palmieren)
 

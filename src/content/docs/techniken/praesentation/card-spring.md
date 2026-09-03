@@ -37,7 +37,7 @@ Der Schlüssel: **gleichmäßiger Druck** beim Loslassen. Zu viel Druck schießt
 
 ## Verwendung
 
-- **Misdirection** — das Geräusch und die Bewegung lenken die Aufmerksamkeit
+- **[Misdirection](/konzepte/misdirection)** — das Geräusch und die Bewegung lenken die Aufmerksamkeit
 - **Überbrückung** — zwischen zwei Trickelementen als visuelles Intermezzo
 - **Demonstration von Geschicklichkeit** — zeigt dem Zuschauer, dass man das Deck beherrscht
 - **Shuffling-Illusion** — sieht wie ein Mischen aus, ohne es zu sein

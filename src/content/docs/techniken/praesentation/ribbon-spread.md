@@ -45,7 +45,7 @@ Eine Karte wird im Spread verborgen — sie liegt unter einer anderen, sodass de
 - **Ribbon Spread Force** — Zuschauer wählt scheinbar frei, greift aber zur Force-Karte
 - **Präsentation** — das Deck als visuell einladendes Element vor dem Trick
 - **Ribbon Spread Turnover** — als spektakulärer Abschluss oder Enthüllung
-- **Oil and Water** — der Effekt kann mit einem Spread eindrucksvoll enthüllt werden
+- **[Oil and Water](/tricks/karten/oil-and-water)** — der Effekt kann mit einem Spread eindrucksvoll enthüllt werden
 
 ## Geschichte
 

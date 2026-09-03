@@ -85,7 +85,7 @@ Der Bertram Change eignet sich für folgende Situationen:
 - **[Color Change](/techniken/praesentation/color-change)** — Überblick über alle Color-Change-Techniken
 - **[Tenkai Palm](/techniken/palmieren)** — Grundlage des Bertram Change
 - **[Double Lift](/techniken/double-lift)** — für die Vorbereitung mit zwei Karten
-- **Snap Change** — einfacher und winkelfreundlicher, gut als Einstieg in Color Changes
+- **[Snap Change](/techniken/praesentation/snap-change)** — einfacher und winkelfreundlicher, gut als Einstieg in Color Changes
 - **Erdnase Color Change** — klassische Alternative aus *The Expert at the Card Table* (1902)
 - **Paintbrush Change** — fließende Alternative mit anderem Mechanismus
 - **Clipshift** (Chad Nelson) — moderner, technisch anspruchsvoller Verwandter

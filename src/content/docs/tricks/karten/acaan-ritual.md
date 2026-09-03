@@ -4,7 +4,7 @@ sidebar:
   label: ACAAN Ritual
 tags: [karten, acaan, duplikate, selbstarbeitend, chaos, thought-of-card, publikumsfuehrung, analyse, daortiz]
 effekt: vorhersage
-sparte: parlor
+sparte: salonmagie
 schwierigkeit: schwer
 requisiten: [kartenspiel, duplikate]
 ---

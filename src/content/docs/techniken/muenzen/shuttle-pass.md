@@ -32,7 +32,7 @@ Der Shuttle Pass wirkt besonders natürlich, weil die Bewegung einer echten Übe
 ## Einsatz
 
 - **Münzwanderung** — Münze „springt" von einer Hand in die andere
-- **Copper/Silver** — zwei verschiedene Münzen tauschen scheinbar die Plätze
+- **[Copper/Silver](/tricks/muenzen/copper-silver)** — zwei verschiedene Münzen tauschen scheinbar die Plätze
 - **Wiederholung** — nach einem French Drop oder Retention Vanish als Variation, damit der Zuschauer kein Muster erkennt
 
 ## Verwandte Techniken

@@ -4,7 +4,7 @@ sidebar:
   label: Miser's Dream
 tags: [münzen, bühne, klassiker, produktion]
 effekt: erscheinen
-sparte: bühne
+sparte: buehnenmagie
 schwierigkeit: mittel
 requisiten: [münzen, eimer]
 ---

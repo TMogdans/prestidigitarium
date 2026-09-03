@@ -31,7 +31,7 @@ Die gezählten Karten liegen nun leicht versetzt unter dem Rest — ein natürli
 
 - **Packet Tricks** — z.B. wenn ein Päckchen scheinbar 4 Karten enthält, aber 5 sind es wirklich (oder umgekehrt)
 - **Vorbereitung für einen [Pass](/techniken/controls/pass)** — gezähltes Päckchen gezielt an eine andere Position bringen
-- **Oil and Water** — Kontrolle über die Trennung von roten und schwarzen Karten
+- **[Oil and Water](/tricks/karten/oil-and-water)** — Kontrolle über die Trennung von roten und schwarzen Karten
 - **[Ace Assembly](/tricks/karten/ace-assembly)** — Asse zählen ohne zu verraten, wie viele da sind
 
 ## Verwandte Techniken

@@ -32,7 +32,7 @@ Ein normales Kartenspiel ist ein **Prop**. Eine doppelseitig bedruckte Karte dar
 - **Bite Coin** — Münze mit herausnehmbarem Segment → [Coin Bite](/tricks/muenzen/coin-bite)
 - **Shell Coin** — hohle Münzhülle, die über eine andere Münze passt
 - **Invisible Deck** — Kartenspiel, bei dem jede Karte scheinbar vorhergesagt werden kann
-- **Svengali Deck** — Kartenspiel, das automatisch eine Force ermöglicht
+- **[Svengali Deck](/requisiten/karten/svengali-deck)** — Kartenspiel, das automatisch eine Force ermöglicht
 
 ### Mechanische Hilfsmittel
 - **Dropper** — gibt Münzen einzeln aus, z.B. am Eimer bei [Miser's Dream](/tricks/muenzen/misers-dream)

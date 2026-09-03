@@ -38,7 +38,7 @@ Um einen Double Lift auszuführen, braucht man zunächst einen [Break](/technike
 
 ## Verwendung in Tricks
 
-- **Ambitious Card** — die „gewählte" Karte scheint immer nach oben zu kommen
+- **[Ambitious Card](/tricks/karten/ambitious-card)** — die „gewählte" Karte scheint immer nach oben zu kommen
 - **Ace Productions** — Asse erscheinen scheinbar aus dem Nichts
 - **Color Changes** — eine Karte verwandelt sich scheinbar vor den Augen des Zuschauers
 - Beinahe jede Kartentrick-Routine, die eine Verwandlung oder Kontrolle erfordert

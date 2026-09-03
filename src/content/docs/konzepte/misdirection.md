@@ -66,10 +66,10 @@ Die beste Misdirection ist keine „Ablenkung" — es ist eine Handlung, die so 
 
 Das Studium von Misdirection unterscheidet den Techniker vom Künstler. Empfohlene Quellen:
 
-- **Arturo de Ascanio** — spanischer Magier, Begründer der systematischen Misdirection-Theorie
+- **[Arturo de Ascanio](/magier/arturo-de-ascanio)** — spanischer Magier, Begründer der systematischen Misdirection-Theorie
 - **Tommy Wonder** — *The Books of Wonder* — praktische Misdirection in jeder Routine
 - **Darwin Ortiz** — *Strong Magic* — Psychologie der Täuschung
-- **Juan Tamariz** — *The Five Points in Magic* — fünf Prinzipien der Aufmerksamkeitssteuerung
+- **[Juan Tamariz](/magier/juan-tamariz)** — *The Five Points in Magic* — fünf Prinzipien der Aufmerksamkeitssteuerung
 
 ## Quellen & Referenzen
 

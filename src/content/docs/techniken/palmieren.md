@@ -91,7 +91,7 @@ Bei Münzen gibt es weniger Varianten, aber jede muss perfekt sitzen — eine M�
 ## Verwendung in Tricks
 
 - **Münztricks** — Verschwinden, Wanderung zwischen den Händen, [Retention Vanish](/techniken/muenzen/retention-vanish)
-- **Bälle** — Becherspiel, Multiplying Balls
+- **[Bälle](/requisiten/baelle)** — Becherspiel, Multiplying Balls
 - **Karten** — Produktion aus der Luft, kontrolliertes Entfernen aus dem Deck, [Card to Pocket](/tricks/karten/card-to-pocket)
 - Überall, wo Objekte scheinbar aus dem Nichts erscheinen oder spurlos verschwinden
 

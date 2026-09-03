@@ -14,7 +14,7 @@ Der Zuschauer sieht, wie sich z.B. eine Karte in eine andere verwandelt, eine M�
 
 ## Varianten
 
-- **Color Change** — Farbwechsel (Karten, Tücher)
+- **[Color Change](/techniken/praesentation/color-change)** — Farbwechsel (Karten, Tücher)
 - **Transposition** — Zwei Objekte tauschen den Platz
 - **Transformation** — Ein Objekt wird zu etwas völlig anderem
 

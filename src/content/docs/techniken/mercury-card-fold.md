@@ -40,8 +40,8 @@ Die entstandene Faltung ist an der Ecke leicht sichtbar — das Deck verbirgt si
 
 ## Verwendung in Tricks
 
-- **Ambitious Card** — die Karte kann nach dem Stecken ins Deck zuverlässig geortet werden
-- **Card to Pocket** — bevor die Karte verschwindet, wird sie durch den Fold markiert
+- **[Ambitious Card](/tricks/karten/ambitious-card)** — die Karte kann nach dem Stecken ins Deck zuverlässig geortet werden
+- **[Card to Pocket](/tricks/karten/card-to-pocket)** — bevor die Karte verschwindet, wird sie durch den Fold markiert
 - **Any Card at Any Number (ACAAN)** — als Teil einer mehrschrittigen Methode
 - Überall dort, wo eine Karte nach dem Zurückstecken ins Deck wieder gefunden werden muss
 

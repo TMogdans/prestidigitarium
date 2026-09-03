@@ -24,7 +24,7 @@ Das Deck wird von oben gegriffen: Der Daumen liegt an einer kurzen Kante unten, 
 ## Verwendung
 
 - **Swing Cut** — klassischer Flourish-Schnitt aus dem Biddle Grip
-- **Dribble** — Karten fallen aus dem Biddle Grip nach unten
+- **[Dribble](/techniken/praesentation/dribble)** — Karten fallen aus dem Biddle Grip nach unten
 - **Übergabe** — Deck von einer Hand in die andere mit stilvollem Griff
 - **Cardistry** — viele moderne Flourishes starten im Biddle Grip
 - Als Ausgangspunkt für den [Charlier Cut](/techniken/praesentation/charlier-cut)

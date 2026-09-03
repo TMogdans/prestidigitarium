@@ -14,7 +14,7 @@ Präsentationstechniken sind alle Handgriffe und Methoden, die nicht direkt dem 
 - **Flourishes** — ästhetische Kartenhandgriffe wie der Ribbon Spread Turnover oder das Fanning
 - **Color Changes** — visuelle Verwandlungen einer Karte direkt vor den Augen
 - **Reveals** — wie eine gewählte Karte eindrucksvoll enthüllt wird
-- **Patter** — der begleitende Text und die Geschichte, die einen Trick rahmen
+- **[Patter](/techniken/praesentation/patter)** — der begleitende Text und die Geschichte, die einen Trick rahmen
 - **Körpersprache & Timing** — wann man spricht, wann man schweigt, wohin man schaut
 
 ## Einträge
