@@ -11,7 +11,7 @@ export const collections = {
         effekt: z.string().optional(),
         schwierigkeit: z.enum(['leicht', 'mittel', 'schwer', 'experte']).optional(),
         requisiten: z.array(z.string()).optional(),
-        typ: z.enum(['gimmick', 'normal', 'technik', 'prinzip']).optional(),
+        typ: z.enum(['gimmick', 'normal', 'technik', 'prinzip', 'person']).optional(),
       }),
     }),
   }),
