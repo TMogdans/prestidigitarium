@@ -16,9 +16,9 @@ Für den Lernenden ist das eine ungewohnte Umkehrung: Seine Routinen haben eine 
 
 ## Die zwei Begriffe, mit denen er arbeitet
 
-**Semi-automatisch** — Routinen, die überwiegend selbstarbeitend sind, aber nicht mechanisch ablaufen: Der Magier greift an einer oder zwei Stellen ein und trifft dort echte Entscheidungen. Titel seiner Werkreihe *Cartomagia semiautomática*.
+**Semi-automatisch** — Routinen, die überwiegend selbstarbeitend sind, aber nicht mechanisch ablaufen: Der Magier greift an einer oder zwei Stellen ein und trifft dort echte Entscheidungen. Titel seiner Werkreihe *Cartomagia semiautomática* (Konfidenz mittel).
 
-**Chaos** — Zuschauerhandlungen werden nicht eingeschränkt, sondern zugelassen und ausgerechnet. Das Chaos ist echt; determiniert ist nur, was der Effekt braucht. Titel seines Lehrwerks *Chaos*.
+**Chaos** — Zuschauerhandlungen werden nicht eingeschränkt, sondern zugelassen und ausgerechnet. Das Chaos ist echt; determiniert ist nur, was der Effekt braucht. Titel seines Lehrwerks *Chaos* (Konfidenz mittel).
 
 :::note[Begriffs-Einordnung]
 „Chaos magic" ist als Stil-Kategorie **nicht etabliert** — der Begriff findet sich vor allem als Titel seiner eigenen Veröffentlichungen, nicht als von Dritten verwendete Fachkategorie. Als Beschreibung seines Ansatzes taugt er, als Genre-Bezeichnung nicht.
@@ -26,7 +26,7 @@ Für den Lernenden ist das eine ungewohnte Umkehrung: Seine Routinen haben eine 
 
 ## Herkunft und Einflüsse
 
-Ausgebildet im Umfeld von [Juan Tamariz](juan-tamariz); als weitere Einflüsse werden Juan Escolano, „Mago Migue" und **Lennart Green** genannt. Zuletzt unterrichtete er gemeinsam mit Tamariz am *Máster de Magia Profesional* der Escuela de Magia Ana Tamariz.
+Ausgebildet im Umfeld von [Juan Tamariz](juan-tamariz); als weitere Einflüsse werden Juan Escolano, „Mago Migue" und **Lennart Green** genannt. Zuletzt unterrichtete er am *Máster de Magia Profesional* der Escuela de Magia Ana Tamariz; ob dort gemeinsam mit Tamariz, ist nicht belegt.
 
 Die Nennung Greens ist erhellend: Auch Green arbeitet mit scheinbar unkontrolliertem Handling. Bei DaOrtiz kommt die theoretische Grundierung der spanischen Schule hinzu — [Ascanios](arturo-de-ascanio) Arbeit am Gedächtnis des Zuschauers und [Tamariz'](juan-tamariz) Theorie der falschen Lösungen.
 
@@ -42,7 +42,6 @@ Er wird häufig als „Erbe der Escuela Mágica de Madrid" bezeichnet. Das ist e
 | *Chaos* | Lehrwerk (Vanishing Inc.) |
 | *Utopia* | 4-DVD-Lehrset, gedreht mit Luis de Matos |
 | *Libertad de expresión* | Monografie zu psychologischen Forces |
-| *La vida secreta de la mente* (2015) · *El cerebro ilusionista* (2020) | Bücher |
 
 ## In dieser Wissensbasis
 
@@ -60,7 +59,7 @@ Sein Material ist verlockend, weil es keine Griffe verlangt — und genau deshal
 - [Wikidata Q110963543](https://www.wikidata.org/wiki/Q110963543) — Geburtsdatum
 - [Lybrary: Dani DaOrtiz](https://www.lybrary.com/dani-daortiz-m-134586.html) — Einflüsse
 - [Chaos](https://www.vanishingincmagic.com/card-magic/chaos/) · [Utopia](https://www.vanishingincmagic.com/card-magic/utopia-dani-daortiz/) — Vanishing Inc.
-- [Escuela de Magia Ana Tamariz](https://www.magiatamariz.com/master-de-magia-profesional-2025-escuela-magia-ana-tamariz-idv962.html) — gemeinsame Lehrtätigkeit
+- [Escuela de Magia Ana Tamariz](https://www.magiatamariz.com/master-de-magia-profesional-2025-escuela-magia-ana-tamariz-idv962.html) — Lehrtätigkeit am Máster de Magia Profesional
 
 :::note[Belegqualität Geburtsdatum]
 Als Geburtsdatum wird der **22. Februar 1980** genannt (Estepona, Málaga). Die Wikidata-Angabe trägt jedoch **keine Einzelnachweise**, und eine unabhängige Primärquelle ließ sich nicht finden. Das Jahr 1980 ist gut gestützt, das exakte Datum nicht.
