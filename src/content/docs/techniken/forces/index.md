@@ -23,6 +23,7 @@ Eine gelungene Force ist unsichtbar — der Zuschauer ist absolut überzeugt, fr
 - **[Cross-Cut Force](cross-cut-force)** — der Zuschauer schneidet das Deck; eine Zeit-Misdirection lässt ihn die vorbereitete Karte für seine Schnittstelle halten. Eine der einfachsten Forces.
 - **[Ten-Twenty Force](ten-twenty-force)** — selbstwirkend/mathematisch: der Zuschauer nennt eine freie Zahl und zählt selbst ab, landet aber zwingend bei der Force-Karte. Kein Griff nötig.
 - **Dribble Force** — Karten werden aus einer Hand in die andere gedribbelt, der Zuschauer sagt „Stopp".
+- **[Dreierpäckchen-Force](dreier-paeckchen-force)** — bei genau drei Karten gibt es nur eine Mitte: eine gezogene und zurückgesteckte Karte landet zwingend auf Position 2 von 3 — eine Positions-Force statt einer Karten-Force.
 
 ## Verwendung in Tricks
 
