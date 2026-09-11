@@ -2,17 +2,17 @@
 title: ACAAN Ritual (Dani DaOrtiz)
 sidebar:
   label: ACAAN Ritual
-tags: [karten, acaan, duplikate, selbstarbeitend, chaos, thought-of-card, publikumsfuehrung, analyse, daortiz]
+tags: [karten, acaan, duplikate, selbstarbeitend, chaos, thought-of-card, publikumsfuehrung, analyse, daortiz, fool-us, rekonstruktion]
 effekt: vorhersage
 sparte: salonmagie
 schwierigkeit: schwer
-requisiten: [kartenspiel, duplikate]
+requisiten: [kartenspiel, "duplikate (optional — nur die Manuskript-Fassung braucht sie)"]
 ---
 
 Ein Zuschauer denkt an eine Karte. Ein anderer nennt eine Zahl. Nach einem „Ritual", bei dem das Publikum das Deck selbst zerlegt und mischt, liegt die gedachte Karte genau an der genannten Position — und der Magier hat das Deck dabei scheinbar nie in der Hand gehabt.
 
 :::note[Analyse-Notiz, keine Vorführ-Anleitung]
-Diese Seite rekonstruiert die **Mechanik** der Routine und dokumentiert vier Stellen, an denen die Originalbeschreibung fehlerhaft oder unvollständig ist. Für Wortlaut, Timing und Handling: Originalmanuskript von Dani DaOrtiz (siehe [Quellen](#quellen--referenzen)).
+Diese Seite rekonstruiert die **Mechanik** der Routine, dokumentiert eine zweite, duplikatfreie Fassung und prüft vier Stellen der Originalbeschreibung nach. Für Wortlaut, Timing und Handling: Originalmanuskript von Dani DaOrtiz (siehe [Quellen](#quellen--referenzen)).
 :::
 
 ## Die tragende Idee
@@ -52,6 +52,14 @@ Das Mischen der Zuschauer ist echt und schadet nichts: Es findet nur **innerhalb
 
 Währenddessen — als vorgemachtes Beispiel — schiebt der Magier am Tischstapel Karten um, bis der Block auf Position *N* von unten beginnt.
 
+:::note[Im Auftritt belegt — Wortlaut nach Mitschrift, nicht amtlich]
+Dass die Zahl **zweimal** fällt, ist bei *Fool Us* zu beobachten. Früh, mitten im Ablauf: *„you have a number? tell me"* → „21" → *„it doesn't matter."* Und spät, unmittelbar vor der Enthüllung, feierlich: *„what was your number?"*
+
+Entwertet wird die Zahl dort also nicht durch Weiterverwendung wie im Manuskript, sondern durch ein ausdrückliches „spielt keine Rolle" — dieselbe Mechanik, andere Verpackung. Donny Osmond hatte die frühe Nennung am Ende selbst vergessen; genau daraus entsteht die Illusion, die Position werde erst nach dem Ritual genannt.
+
+**Vorbehalt:** Die Zitate stammen aus einer Mitschrift beim Ansehen des Videos. Eine parallel durchgeführte Auswertung der automatisch erzeugten YouTube-Untertitel las an dieser Stelle abweichend („don't tell me"); Auto-Untertitel sind bei DaOrtiz' Akzent unzuverlässig. Der Wortlaut ist als Mitschrift zu lesen, nicht als geprüftes Zitat.
+:::
+
 **⑤ Ritual und Auflösung.** Alle stehen auf, ein Zuschauer zerlegt das Deck per [Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle). Erst *danach* wird zum ersten Mal offen nach Karte und Zahl gefragt. Der Zuschauer zählt selbst aus.
 
 ## Das Adjustment nachgerechnet
@@ -63,13 +71,88 @@ Der Block startet bei 18 von unten; Ziel ist Position *N* von unten.
 
 Beide Beispiele der Quelle stimmen. Dass **von unten** gerechnet wird, ist der eigentliche Kunstgriff: Das abgehobene Zuschauer-Paket kommt später oben wieder auf — und lässt die Rechnung damit unberührt.
 
-## Vier Fehler in der Originalbeschreibung
+## Variante ohne Duplikate (Fool Us 2022)
+
+:::caution[Rekonstruktion aus der Videobeobachtung, kein Zitat]
+Der folgende Ablauf ist aus dem Ansehen eines Fernsehauftritts abgeleitet, **nicht** aus einer Veröffentlichung von DaOrtiz. Er erklärt, was zu sehen ist, und die Arithmetik geht auf — mehr wird nicht behauptet. Wo DaOrtiz tatsächlich anders arbeitet, wäre das von außen nicht zu erkennen.
+:::
+
+Bei *Penn & Teller: Fool Us* (Staffel 9, Episode 4 „Alyson's Smart Ass", Erstausstrahlung 4. November 2022; Zuschauer u. a. Donny Osmond) führt DaOrtiz eine Fassung vor, die **ohne jedes Duplikat** auskommt. Die tragende Idee bleibt dieselbe — Zahl zuerst, Position danach, Spiegelung im Finale. Anders ist nur, woher die bekannte Position kommt.
+
+**Der Aufbau:**
+
+1. **18 Karten** werden abgezählt und einem Zuschauer zum Mischen gegeben. Das Mischen ist echt und folgenlos: Was später zählt, ist ausschließlich die **Anzahl**, nie eine Ordnung — dieselbe Invariante, die schon die Manuskript-Fassung trägt.
+2. Die Zielperson bekommt **genau drei** Karten. Das ist als Zufall inszeniert und ist keiner (siehe [Dreier-Päckchen-Force](/techniken/forces/dreier-paeckchen-force)).
+3. Sie mischt die drei, zieht eine, sieht sie an und steckt sie „in die Mitte" des Päckchens zurück. **Bei drei Karten gibt es genau eine Mitte:** Die Karte liegt zwingend auf **Position 2 von 3** — unabhängig davon, welche der drei sie gezogen hat.
+4. Entscheidend: DaOrtiz kennt die Karte damit **nicht**. Er kennt nur ihre **Position**. Für ACAAN reicht das, weil die Identität am Ende der Zuschauer selbst liefert.
+5. Eingesammelt wird in der Reihenfolge **erst die 18, dann die 3, dann der Rest obenauf**.
+6. Danach wird die Zahl erfragt, das Adjustment gelegt, und der [Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle) spiegelt.
+
+### Positions-Fahrplan der Fool-Us-Fassung
+
+Am Beispiel der im Auftritt genannten Zahl 21:
+
+| Phase | Wo die Zielkarte liegt |
+|---|---|
+| Im Dreierpäckchen | **2 von 3** — die einzige Mitte |
+| Eingesammelt (18 → 3 → Rest) | die 18 belegen **1–18 von unten**, das Dreierpäckchen **19–21** ⇒ Zielkarte **20 von unten** |
+| Adjustment auf *N* = 21: **eine** Karte von oben nach unten | 20 Karten unter ihr ⇒ **21 von unten** |
+| Nach dem Ireland Shuffle | **21 von oben** |
+| Finale | Auszählen bis 21 |
+
+Die Rechnung ist dieselbe wie oben, nur mit anderem Startwert: Die Ausgangsposition ist **20 statt 18**, umzulegen sind **N − 20** Karten (bei *N* < 20 entsprechend von unten nach oben).
+
+### Was der Verzicht auf Duplikate kostet
+
+Die sechs Duplikate der Manuskript-Fassung sind kein Positionsraster, sondern ein **Sichtfenster** — sie beantworten dem Magier beim Ireland Shuffle die Frage „bin ich schon durch?". Die [Fehlertoleranz bleibt einseitig](/techniken/controls/chaotic-ireland-shuffle#die-einzige-bedingung): beliebig weit zu weit ist kostenlos, eine Karte zu früh ist Totalausfall.
+
+Genau dieses Fenster fehlt der duplikatfreien Fassung. Mit einer einzelnen Zielkarte, deren Identität DaOrtiz nicht einmal kennt, kann er sie beim Auszählen nicht *erkennen* — er kann nur **mitzählen**.
+
+> Die Manuskript-Fassung verlagert die Last ins **Setup**: Duplikate beschaffen, Deck präparieren.
+> Die Fool-Us-Fassung verlagert sie in die **Ausführung**: unter Beobachtung sicher über Position 21 hinaus mitzählen, ohne Netz.
+
+|  | Manuskript-Fassung | Fool-Us-Fassung |
+|---|---|---|
+| Vorbereitung | sechs Duplikate, präpariertes Deck | keine |
+| Untersuchung übersteht sie | nein | ja |
+| Dem Magier bekannt | Karte **und** Position | nur die Position |
+| Sicherheit beim Auszählen | Sichtfenster von sechs Karten | keines — reines Mitzählen |
+| Wahl des Zuschauers | eine Karte, die keine Wahl ist | echte Wahl aus drei Karten |
+
+Die duplikatfreie Fassung ist damit **nicht die einfachere, sondern die schwerere** — sie ist nur sauberer. Für einen Fernsehauftritt, bei dem ein präpariertes Deck die naheliegendste Verdachtsrichtung wäre, lohnt sich dieser Tausch.
+
+### Die ungesicherte Stelle
+
+Ob DaOrtiz beim Zurückstecken in die Dreiergruppe nachgreift oder ob er dem Zuschauer die Mitte wirklich freistellt, ist aus dem Video **nicht geklärt**. Das ist der einzige Punkt der Konstruktion ohne Absicherung: Steckt der Zuschauer statt in die Mitte nach oben oder unten, liegt die Zielkarte auf 19 oder 21 von unten und die ganze Rechnung um eine Karte daneben. Entweder gibt es dort einen Griff, den man nicht sieht, oder eine Formulierung, die die Mitte alternativlos macht — beides ist aus der Beobachtung allein nicht zu entscheiden.
+
+## Vier Stellen, an denen die Originalbeschreibung trägt oder bricht
+
+Zwei echte Fehler, eine Auslassung — und ein vermeintlicher Widerspruch, der sich bei näherem Hinsehen als die Methode selbst herausstellt.
 
 **1. Links/rechts beim Einsammeln ist kaputt.** Im Setup sitzen Zuschauer 1 und 2 rechts, beim Einsammeln werden sie als „erster/zweiter von links" bezeichnet. Verlassen kann man sich nur auf die Ordnungszahlen — Paket 3 ist eindeutig als das mit den Duplikaten benannt. Die Einsammelreihenfolge **muss** 1→2→3→4 sein, sonst ergibt sich die angegebene Endordnung nicht.
 
 **2. Off-by-one im Finale.** Die Anweisung lautet, bis zur gewählten Position auszuteilen und *dann die nächste* Karte zu drehen — bei N=20 wäre das Karte 21. Das geht nur gut, weil der Block die Positionen 20–25 belegt. Die behauptete Punktgenauigkeit trägt hier der Puffer, nicht die Beschreibung.
 
-**3. Widersprüchliche Zahlenbereiche.** Angegeben werden „ungefähr 1 bis 26", dann „ungefähr 1 bis 20", dazu die Aufforderung, eine möglichst hohe Zahl zu wählen — und das Rechenbeispiel arbeitet mit 7. Die Obergrenze ist real: Bei Zahlen über ~26 rutscht der Block so weit nach oben, dass die Vor-Cuts im Ritual keinen Platz mehr haben und das Adjustment zu viele Karten umlegen müsste.
+**3. Die Zahlenbereiche sind kein Widerspruch, sondern die Methode — nur das Rechenbeispiel taugt nicht.** Angegeben werden „ungefähr 1 bis 26", dann „ungefähr 1 bis 20", dazu die Aufforderung, möglichst hoch zu wählen, während das Rechenbeispiel mit 7 arbeitet. Das liest sich wie ein Widerspruch. Der Fool-Us-Auftritt zeigt, dass es keiner ist.
+
+DaOrtiz' Wortlaut dort: *„Think any number (around 20 or 25), but high — it's more difficult."* Der genannte Bereich liegt **genau um die Ausgangsposition der Zielkarte herum**, damit das Adjustment klein bleibt. Was eine Zahl kostet, ist allein ihr Abstand zu dieser Startposition:
+
+| Genannte Zahl | Umzulegende Karten |
+|---|---|
+| 21 | 1 |
+| 25 | 5 |
+| 15 | 5 |
+| 7 | **13** |
+
+Nach oben begrenzt „around 20 or 25", nach unten „but high". Das ist eine **Force auf einen Korridor**, nicht auf eine Zahl: Die Restdifferenz frisst das Adjustment, und nur deshalb darf die Wahl echt frei sein. Besonders elegant ist die Verpackung — „but high — it's more difficult" verkauft die Einschränkung als Erschwernis für den *Magier*, während sie den Zuschauer in den einzigen bequemen Bereich steuert.
+
+Die Obergrenze ist zusätzlich real: Bei Zahlen deutlich über ~26 rutscht der Block so weit nach oben, dass die Vor-Cuts im Ritual keinen Platz mehr haben.
+
+Was tatsächlich **nicht** taugt, ist allein das **Rechenbeispiel mit 7**: Dreizehn Karten umzulegen bekommt niemand beiläufig unter — das Beispiel führt genau von dem Korridor weg, den der Wortlaut aufbaut.
+
+:::note[Anker der Tabelle]
+Die Werte gelten für die Fool-Us-Fassung, in der die Zielkarte nach dem Einsammeln auf **20 von unten** liegt. In der Manuskript-Fassung startet der Duplikat-Block auf **18 von unten**; dieselbe Rechnung ergibt dort 3 · 7 · 3 · 11 Karten. Der Korridor verschiebt sich um zwei, das Argument ändert sich nicht — und in beiden Fassungen ist 7 die teuerste der vier Zahlen.
+:::
 
 **4. Die einseitige Fehlertoleranz wird nicht erklärt.** Die Anweisung „warten, bis er die Duplikat-Region passiert hat" ist korrekt, aber die Begründung fehlt — und sie ist die wichtigste Information der ganzen Routine: beliebig weit zu weit ist **kostenlos**, eine Karte zu früh ist der **Totalausfall**. Hergeleitet auf der [Technik-Seite](/techniken/controls/chaotic-ireland-shuffle#die-einzige-bedingung).
 
@@ -97,6 +180,7 @@ Die Schwierigkeit liegt damit vollständig in der [Publikumsführung](/konzepte/
 
 - **[Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle)** — die Positions-Spiegelung im Finale
 - **[Break](/techniken/controls/break)** — trennt die 17 Indifferenten vom Duplikat-Block
+- **[Dreier-Päckchen-Force](/techniken/forces/dreier-paeckchen-force)** — ersetzt in der Fool-Us-Fassung die Duplikate: erzwungen wird nicht die Karte, sondern ihre Position
 - **[Publikumsführung](/konzepte/publikumsfuehrung)** — die Bausteine dieser Routine einzeln zerlegt; Denkschule: [Ascanio](/magier/arturo-de-ascanio) → [Tamariz](/magier/juan-tamariz) → [DaOrtiz](/magier/dani-daortiz)
 - **[Misdirection](/techniken/misdirection)** — trägt Peek, Zahlenerhebung und Adjustment
 - **[Patter](/techniken/praesentation/patter)** — die „Spiel mit dem Publikum"-Rahmung ist die eigentliche Methode
@@ -110,10 +194,15 @@ Die Schwierigkeit liegt damit vollständig in der [Publikumsführung](/konzepte/
 
 ## Requisiten
 
-- Ein Kartenspiel mit **sechs identischen Karten**
-- Vier bis fünf mitspielende Zuschauer, ein Tisch
+- **Manuskript-Fassung:** ein Kartenspiel mit **sechs identischen Karten**
+- **Fool-Us-Fassung:** ein gewöhnliches, untersuchbares Kartenspiel — nichts weiter
+- Beide: vier bis fünf mitspielende Zuschauer, ein Tisch
+
+→ Siehe auch: [Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle) · [Dreier-Päckchen-Force](/techniken/forces/dreier-paeckchen-force) · [Publikumsführung](/konzepte/publikumsfuehrung) · [Dani DaOrtiz](/magier/dani-daortiz)
 
 ## Quellen & Referenzen
 
 - Dani DaOrtiz: *ACAAN Ritual* — Originalmanuskript (Methode, Wortlaut und Handling dort)
+- *Penn & Teller: Fool Us*, Staffel 9, Episode 4 „Alyson's Smart Ass", Erstausstrahlung 4. November 2022 — <https://youtu.be/5_KcQt0z-eE>. Grundlage des Abschnitts „Variante ohne Duplikate"; die dort beschriebene Mechanik ist **Rekonstruktion aus der Videobeobachtung**, keine Angabe von DaOrtiz. Die zitierten Sätze stammen aus einer Mitschrift.
+- DaOrtiz lehrt verwandtes Material in seinem kommerziellen *ACAAN Project* — laut Angabe im Magic Café Kapitel 8 mit einem auf mehrere Personen verteilten Deck, Kapitel 6 als selbstwirkende Variante mit normalem Deck. **Konfidenz mittel:** Forenangabe, am Werk selbst nicht geprüft.
 - Rekonstruktion der Mechanik, die Adjustment-Prüfung und der Invarianz-Beweis auf dieser Seite sind eigene Arbeit
