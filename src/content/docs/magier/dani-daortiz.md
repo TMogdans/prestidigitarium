@@ -16,9 +16,9 @@ Für den Lernenden ist das eine ungewohnte Umkehrung: Seine Routinen haben eine 
 
 ## Die zwei Begriffe, mit denen er arbeitet
 
-**Semi-automatisch** — Routinen, die überwiegend selbstarbeitend sind, aber nicht mechanisch ablaufen: Der Magier greift an einer oder zwei Stellen ein und trifft dort echte Entscheidungen. Titel seiner Werkreihe *Cartomagia semiautomática*.
+**Semi-automatisch** — Routinen, die überwiegend selbstarbeitend sind, aber nicht mechanisch ablaufen: Der Magier greift an einer oder zwei Stellen ein und trifft dort echte Entscheidungen. Titel seiner Werkreihe *Cartomagia semiautomática* (Konfidenz mittel).
 
-**Chaos** — Zuschauerhandlungen werden nicht eingeschränkt, sondern zugelassen und ausgerechnet. Das Chaos ist echt; determiniert ist nur, was der Effekt braucht. Titel seines Lehrwerks *Chaos*.
+**Chaos** — Zuschauerhandlungen werden nicht eingeschränkt, sondern zugelassen und ausgerechnet. Das Chaos ist echt; determiniert ist nur, was der Effekt braucht. Titel seines Lehrwerks *Chaos* (Konfidenz mittel).
 
 :::note[Begriffs-Einordnung]
 „Chaos magic" ist als Stil-Kategorie **nicht etabliert** — der Begriff findet sich vor allem als Titel seiner eigenen Veröffentlichungen, nicht als von Dritten verwendete Fachkategorie. Als Beschreibung seines Ansatzes taugt er, als Genre-Bezeichnung nicht.
@@ -52,7 +52,7 @@ Penn Jillette äußerte sich später in einem Podcast sehr weitgehend über DaOr
 
 ## Herkunft und Einflüsse
 
-Ausgebildet im Umfeld von [Juan Tamariz](juan-tamariz); als weitere Einflüsse werden Juan Escolano, „Mago Migue" und **Lennart Green** genannt. Zuletzt unterrichtete er gemeinsam mit Tamariz am *Máster de Magia Profesional* der Escuela de Magia Ana Tamariz.
+Ausgebildet im Umfeld von [Juan Tamariz](juan-tamariz); als weitere Einflüsse werden Juan Escolano, „Mago Migue" und **Lennart Green** genannt. Zuletzt unterrichtete er am *Máster de Magia Profesional* der Escuela de Magia Ana Tamariz; ob dort gemeinsam mit Tamariz, ist nicht belegt.
 
 Die Nennung Greens ist erhellend: Auch Green arbeitet mit scheinbar unkontrolliertem Handling. Bei DaOrtiz kommt die theoretische Grundierung der spanischen Schule hinzu — [Ascanios](arturo-de-ascanio) Arbeit am Gedächtnis des Zuschauers und [Tamariz'](juan-tamariz) Theorie der falschen Lösungen.
 
@@ -73,7 +73,6 @@ Er wird häufig als „Erbe der Escuela Mágica de Madrid" bezeichnet. Das ist e
 | *Libertad de Expresión* (2009, span. Original) / *Freedom of Expression* (engl., Vanishing Inc., Copyright 2021, gedruckt 2022, 153 S.) | Buch, u.a. Kapitel zur Psychologie der siebten Karte |
 | *SIX* | limitiert, mit John Lovick, 800 nummerierte Exemplare |
 | *ACAAN Project* | kommerzielle Serie; Kapitel 8 lehrt laut Forenangabe (Magic Café, Konfidenz mittel) die auf mehrere Personen verteilte Deck-Variante, Kapitel 6 eine selbstwirkende Fassung mit normalem Deck |
-| *La vida secreta de la mente* (2015) · *El cerebro ilusionista* (2020) | Bücher |
 
 Dazu Vorträge: **Penguin Live Lectures** — mindestens „Dani DaOrtiz LIVE" (27. Januar 2013), „LIVE 2", „LIVE 3", „LIVE ACT" (Einzeljahre Konfidenz mittel) — sowie eine davon getrennte **At-The-Table**-Reihe (u.a. Dezember 2016).
 
@@ -97,7 +96,7 @@ Sein Material ist verlockend, weil es keine Griffe verlangt — und genau deshal
 - [Wikidata Q110963543](https://www.wikidata.org/wiki/Q110963543) — Geburtsdatum
 - [Lybrary: Dani DaOrtiz](https://www.lybrary.com/dani-daortiz-m-134586.html) — Einflüsse
 - [Chaos](https://www.vanishingincmagic.com/card-magic/chaos/) · [Utopia](https://www.vanishingincmagic.com/card-magic/utopia-dani-daortiz/) — Vanishing Inc.
-- [Escuela de Magia Ana Tamariz](https://www.magiatamariz.com/master-de-magia-profesional-2025-escuela-magia-ana-tamariz-idv962.html) — gemeinsame Lehrtätigkeit
+- [Escuela de Magia Ana Tamariz](https://www.magiatamariz.com/master-de-magia-profesional-2025-escuela-magia-ana-tamariz-idv962.html) — Lehrtätigkeit am Máster de Magia Profesional
 - Penn & Teller: Fool Us, Staffel 9, Episode 4 („Alyson's Smart Ass"), Erstausstrahlung 4. November 2022, The CW — Auftritt, Donny Osmond, Verzicht auf Verdikt-Rede
 - [Aufzeichnung des Fool-Us-Auftritts (YouTube)](https://youtu.be/5_KcQt0z-eE)
 - Interview-Transkript (automatisch erzeugte YouTube-Untertitel) — Quelle der Zitate zu Chaos/Kontrolle, „Stopp"-Demonstrationen und Positionswahl; Wortlaut unter Vorbehalt
