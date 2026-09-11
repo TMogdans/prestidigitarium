@@ -33,7 +33,7 @@ Die einzige Tabelle, die man wirklich braucht. Der Duplikat-Block ist durchweg d
 |---|---|
 | Setup | Positionen **18–23 von oben** (17 Indifferente darüber) |
 | Verteilt auf vier Zuschauer | als eigenes Paket in einer Hand |
-| Wieder eingesammelt (Reihenfolge 1→2→3→4) | Stapelordnung kehrt um: **18–23 von unten** |
+| Wieder eingesammelt (Reihenfolge {1,2} → 3 → 4) | Stapelordnung kehrt um: **18–23 von unten** |
 | Nach dem Adjustment auf Zahl *N* | **N von unten** (unterste Blockkarte) |
 | Nach dem Ireland Shuffle | **N von oben** |
 | Finale | Auszählen bis *N* ⇒ Duplikat |
@@ -48,7 +48,7 @@ Das Mischen der Zuschauer ist echt und schadet nichts: Es findet nur **innerhalb
 
 **③ Einsammeln als Chaos.** Die Pakete werden in der Ausgabereihenfolge eingesammelt und in kleinen Häufchen auf einen unquadrierten Tischstapel geworfen — sieht wie Weitermischen aus, kehrt in Wahrheit nur die Paketfolge um. Danach liegt der Block 18–23 **von unten**.
 
-**④ Die Zahl, die keine Zahl ist.** Ein Zuschauer hebt ~20 Karten von oben ab (sicher: über dem Block liegen 29 Karten Puffer) und bekommt eine Serie improvisierter Karten-Umsortier-Aufgaben. Ein *anderer* Zuschauer denkt an eine Position in diesem Paket. Der Magier bricht mitten in einer Anweisung ab, fragt nach der Zahl und verwendet sie sofort als nächste Anweisung an den Paket-Halter („dann eben die siebte Karte nach unten"). Die Zahl ist damit laut gefallen, ohne zur Vorhersage-Zahl markiert zu werden.
+**④ Die Zahl, die keine Zahl ist.** Ein Zuschauer hebt ~20 Karten von oben ab (sicher: über dem Block liegen **bei einem 52er-Deck** 29 Karten Puffer — bei 57 Karten wären es 34; welche Deckgröße die Quelle meint, ist ungeklärt, siehe „Offen geblieben") und bekommt eine Serie improvisierter Karten-Umsortier-Aufgaben. Ein *anderer* Zuschauer denkt an eine Position in diesem Paket. Der Magier bricht mitten in einer Anweisung ab, fragt nach der Zahl und verwendet sie sofort als nächste Anweisung an den Paket-Halter („dann eben die siebte Karte nach unten"). Die Zahl ist damit laut gefallen, ohne zur Vorhersage-Zahl markiert zu werden.
 
 Währenddessen — als vorgemachtes Beispiel — schiebt der Magier am Tischstapel Karten um, bis der Block auf Position *N* von unten beginnt.
 
@@ -82,7 +82,16 @@ Bei *Penn & Teller: Fool Us* (Staffel 9, Episode 4 „Alyson's Smart Ass", Ersta
 **Der Aufbau:**
 
 1. **18 Karten** werden abgezählt und einem Zuschauer zum Mischen gegeben. Das Mischen ist echt und folgenlos: Was später zählt, ist ausschließlich die **Anzahl**, nie eine Ordnung — dieselbe Invariante, die schon die Manuskript-Fassung trägt.
-2. Die Zielperson bekommt **genau drei** Karten. Das ist als Zufall inszeniert und ist keiner — die Dreizahl ist die Bedingung, unter der Schritt 3 überhaupt funktioniert.
+2. Die Zielperson bekommt **genau drei** Karten — und zwar als **separates Paket, das nicht aus den 18 stammt**, sondern zusätzlich vom Deck abgezählt wird. Das ist als Zufall inszeniert und ist keiner — die Dreizahl ist die Bedingung, unter der Schritt 3 überhaupt funktioniert.
+
+   Diese Prämisse ist nicht kosmetisch, sie trägt die ganze Rechnung. Simulation dieser Wissensbasis, je 10.000 Läufe:
+
+   | Woher die drei Karten kommen | Zielkarte nach dem Einsammeln | Treffer |
+   |---|---|---|
+   | zusätzlich vom Deck | **20 von unten** | 100,00 % |
+   | aus den 18 | 17 von unten | 0,00 % |
+
+   Werden die drei aus den 18 genommen, schrumpft der Unterbau auf 15 und die Routine scheitert vollständig. Die Aufteilung ist also 18 + 3 + Rest, nicht 15 + 3 + Rest.
 3. Sie mischt die drei, zieht eine, sieht sie an und steckt sie „in die Mitte" des Päckchens zurück. **Bei drei Karten gibt es genau eine Mitte:** Die Karte liegt zwingend auf **Position 2 von 3** — unabhängig davon, welche der drei sie gezogen hat. Allgemein bleiben nach dem Ziehen *n* − 2 innere Einstecklücken; nur bei *n* = 3 ist das genau eine. Ab vier Karten wird „in die Mitte" zur Schätzung, und die Position streut — hergeleitet unter [Dreierpäckchen-Force](/techniken/forces/dreier-paeckchen-force) (Arbeitstitel dieses Wikis, kein überlieferter Fachbegriff).
 4. Entscheidend: DaOrtiz kennt die Karte damit **nicht**. Er kennt nur ihre **Position**. Für ACAAN reicht das, weil die Identität am Ende der Zuschauer selbst liefert.
 5. Eingesammelt wird in der Reihenfolge **erst die 18, dann die 3, dann der Rest obenauf**.
@@ -109,15 +118,29 @@ Die sechs Duplikate der Manuskript-Fassung sind kein Positionsraster, sondern ei
 Genau dieses Fenster fehlt der duplikatfreien Fassung. Mit einer einzelnen Zielkarte, deren Identität DaOrtiz nicht einmal kennt, kann er sie beim Auszählen nicht *erkennen* — er kann nur **mitzählen**.
 
 > Die Manuskript-Fassung verlagert die Last ins **Setup**: Duplikate beschaffen, Deck präparieren.
-> Die Fool-Us-Fassung verlagert sie in die **Ausführung**: unter Beobachtung sicher über Position 21 hinaus mitzählen, ohne Netz.
+> Die Fool-Us-Fassung verlagert sie in die **Ausführung**: unter Beobachtung mitzählen, ohne Netz.
+
+**Wie groß ist diese Last?** Nicht *N* Karten — das ist der naheliegende Rechenfehler. Der Ireland Shuffle arbeitet **von oben**, die Zielkarte liegt aber auf *N* **von unten**; die Hand muss sie also erst nach *N*-von-oben-aus-gerechnet vielen Karten abgegeben haben. Simulation dieser Wissensbasis:
+
+| Deck | *N* | Karten, die die Hand verlassen müssen (ohne Vor-Cuts) |
+|---|---|---|
+| 52 | 21 | **32** |
+| 52 | 25 | 28 |
+| 57 | 21 | 37 |
+
+Diese 32 Karten muss der Magier aber nicht einzeln zählen: Die **Vor-Cuts** der ersten Shuffle-Phase tragen den Löwenanteil, denn abgehobene Pakete wandern als Ganzes weg. Über zufällige Cut-Folgen gemessen bleibt ein **Median von 4 einzeln zu zählenden Karten**, Spanne 1–32. Die Last ist real, aber die Ansage „bis 21 zählen" beziffert sie in beide Richtungen falsch — zu niedrig im schlimmsten Fall, deutlich zu hoch im typischen.
 
 |  | Manuskript-Fassung | Fool-Us-Fassung |
 |---|---|---|
 | Vorbereitung | sechs Duplikate, präpariertes Deck | keine |
 | Untersuchung übersteht sie | nein | ja |
 | Dem Magier bekannt | Karte **und** Position | nur die Position |
-| Sicherheit beim Auszählen | Sichtfenster von sechs Karten | keines — reines Mitzählen |
+| Sicherheit beim Auszählen | Sichtfenster von sechs Karten — nur für die *Wahrnehmung*, keine echte Toleranz | keines — reines Mitzählen |
 | Wahl des Zuschauers | eine Karte, die keine Wahl ist | echte Wahl aus drei Karten |
+
+:::note[Das Sichtfenster kauft fast nichts]
+Simulation dieser Wissensbasis, je 10.000 Läufe: Zählt der Magier **eine Karte zu früh** auf, trifft die Manuskript-Fassung noch in **7,68 %**, die duplikatfreie Fassung in **6,20 %** der Fälle. Die sechs Duplikate sind also **1,5 Prozentpunkte** wert — praktisch nichts. Sie helfen dem Magier beim *Erkennen*, dass er weit genug ist; die Fehlertoleranz verbreitern sie nicht. „Eine Karte zu früh" bleibt in beiden Fassungen der Totalausfall.
+:::
 
 Die duplikatfreie Fassung ist damit **nicht die einfachere, sondern die schwerere** — sie ist nur sauberer. Für einen Fernsehauftritt, bei dem ein präpariertes Deck die naheliegendste Verdachtsrichtung wäre, lohnt sich dieser Tausch.
 
@@ -129,13 +152,36 @@ Ob DaOrtiz beim Zurückstecken in die Dreiergruppe nachgreift oder ob er dem Zus
 
 Zwei echte Fehler, eine Auslassung — und ein vermeintlicher Widerspruch, der sich bei näherem Hinsehen als die Methode selbst herausstellt.
 
-**1. Links/rechts beim Einsammeln ist kaputt.** Im Setup sitzen Zuschauer 1 und 2 rechts, beim Einsammeln werden sie als „erster/zweiter von links" bezeichnet. Verlassen kann man sich nur auf die Ordnungszahlen — Paket 3 ist eindeutig als das mit den Duplikaten benannt. Die Einsammelreihenfolge **muss** 1→2→3→4 sein, sonst ergibt sich die angegebene Endordnung nicht.
+:::caution[Vier Wortlaut-Angaben ohne nachprüfbare Fundstelle]
+Die Punkte 1–4 berufen sich auf den Wortlaut des Originalmanuskripts: die Ortsangabe „erster/zweiter von links", die Austeil-Anweisung im Finale, die Zahlenbereiche „ungefähr 1 bis 26" / „ungefähr 1 bis 20" und die Anweisung „warten, bis er die Duplikat-Region passiert hat". Die Quellenzeile nennt nur *Originalmanuskript*, ohne Seite oder Kapitel — diese vier Stellen sind hier also **nicht nachprüfbar zitiert**. Die Rechnungen, die daran hängen, stehen unabhängig davon; die Zuschreibung an den Wortlaut steht unter Vorbehalt.
+:::
+
+**1. Links/rechts beim Einsammeln ist kaputt.** Im Setup sitzen Zuschauer 1 und 2 rechts, beim Einsammeln werden sie als „erster/zweiter von links" bezeichnet. Verlassen kann man sich nur auf die Ordnungszahlen — Paket 3 ist eindeutig als das mit den Duplikaten benannt.
+
+Tragfähig ist dabei nicht „genau 1→2→3→4", sondern: **die Pakete 1 und 2 in beliebiger Reihenfolge, danach 3, danach 4.** Simulation dieser Wissensbasis, je 10.000 Läufe:
+
+| Einsammelreihenfolge | unterste Blockkarte von unten | Treffer |
+|---|---|---|
+| 1→2→3→4 | 18 | **100,00 %** |
+| 2→1→3→4 | 18 | **100,00 %** |
+| 1→3→2→4 | streut 2–17 | 0,00 % |
+| 1→2→4→3 | 47 | 0,00 % |
+| 3→1→2→4 | 1 | 0,00 % |
+| 4→3→2→1 | 30 | 0,00 % |
+
+Das deckt sich mit Absatz ①: Pakete 1 und 2 enthalten zusammen die 17 Indifferenten, und ihre Reihenfolge untereinander ändert nur die Ordnung *innerhalb* dieser 17 — die Summe unter dem Block bleibt gleich. Ab Paket 3 ist die Reihenfolge dagegen zwingend.
 
 **2. Off-by-one im Finale.** Die Anweisung lautet, bis zur gewählten Position auszuteilen und *dann die nächste* Karte zu drehen — bei N=20 wäre das Karte 21. Das geht nur gut, weil der Block die Positionen 20–25 belegt. Die behauptete Punktgenauigkeit trägt hier der Puffer, nicht die Beschreibung.
 
 **3. Die Zahlenbereiche sind kein Widerspruch, sondern die Methode — nur das Rechenbeispiel taugt nicht.** Angegeben werden „ungefähr 1 bis 26", dann „ungefähr 1 bis 20", dazu die Aufforderung, möglichst hoch zu wählen, während das Rechenbeispiel mit 7 arbeitet. Das liest sich wie ein Widerspruch. Der Fool-Us-Auftritt zeigt, dass es keiner ist.
 
-DaOrtiz' Wortlaut dort: *„Think any number (around 20 or 25), but high — it's more difficult."* Der genannte Bereich liegt **genau um die Ausgangsposition der Zielkarte herum**, damit das Adjustment klein bleibt. Was eine Zahl kostet, ist allein ihr Abstand zu dieser Startposition:
+DaOrtiz' Wortlaut dort: *„Think any number (around 20 or 25), but high — it's more difficult."*
+
+:::caution[Vorbehalt an der Beweisstelle]
+Dieser Satz ist eine **Mitschrift beim Ansehen des Videos**, kein geprüftes Zitat. Die automatisch erzeugten YouTube-Untertitel lasen an anderer Stelle desselben Auftritts abweichend (siehe Phase ④), und DaOrtiz' Akzent macht sie unzuverlässig. Auf genau diesem Wortlaut ruht die gesamte Korridor-Argumentation der folgenden Absätze — hält er nicht, hält sie nicht.
+:::
+
+Der genannte Bereich liegt **genau um die Ausgangsposition der Zielkarte herum**, damit das Adjustment klein bleibt. Was eine Zahl kostet, ist allein ihr Abstand zu dieser Startposition:
 
 | Genannte Zahl | Umzulegende Karten |
 |---|---|
@@ -146,19 +192,37 @@ DaOrtiz' Wortlaut dort: *„Think any number (around 20 or 25), but high — it'
 
 Nach oben begrenzt „around 20 or 25", nach unten „but high". Das ist eine **Force auf einen Korridor**, nicht auf eine Zahl: Die Restdifferenz frisst das Adjustment, und nur deshalb darf die Wahl echt frei sein. Besonders elegant ist die Verpackung — „but high — it's more difficult" verkauft die Einschränkung als Erschwernis für den *Magier*, während sie den Zuschauer in den einzigen bequemen Bereich steuert.
 
-Die Obergrenze ist zusätzlich real: Bei Zahlen deutlich über ~26 rutscht der Block so weit nach oben, dass die Vor-Cuts im Ritual keinen Platz mehr haben.
-
 Was tatsächlich **nicht** taugt, ist allein das **Rechenbeispiel mit 7**: Dreizehn Karten umzulegen bekommt niemand beiläufig unter — das Beispiel führt genau von dem Korridor weg, den der Wortlaut aufbaut.
 
 :::note[Anker der Tabelle]
 Die Werte gelten für die Fool-Us-Fassung, in der die Zielkarte nach dem Einsammeln auf **20 von unten** liegt. In der Manuskript-Fassung startet der Duplikat-Block auf **18 von unten**; dieselbe Rechnung ergibt dort 3 · 7 · 3 · 11 Karten. Der Korridor verschiebt sich um zwei, das Argument ändert sich nicht — und in beiden Fassungen ist 7 die teuerste der vier Zahlen.
 :::
 
+#### Die Obergrenze ~26: richtig, aber anders begründet
+
+Die naheliegende Begründung — bei hohen Zahlen rutsche der Block so weit nach oben, dass die **Vor-Cuts** keinen Platz mehr hätten — **trägt nicht.** Abhebbar ist alles, was über der Zielkarte liegt, also 52 − *N* Karten. Simulation dieser Wissensbasis, 52er-Deck:
+
+| *N* | 21 | 25 | 26 | 30 | 40 | 50 |
+|---|---|---|---|---|---|---|
+| abhebbar | 31 | 27 | 26 | 22 | 12 | 2 |
+
+Bei *N* = 26 ist noch das halbe Deck abhebbar. Eng wird es erst bei *N* ≈ 45–50.
+
+Die echte Grenze steckt im **Adjustment der Manuskript-Fassung** — also in derjenigen Fassung, um die es in diesem Abschnitt gerade *nicht* geht. Dort hebt ein Zuschauer in Phase ④ rund 20 Karten ab; auf dem Tisch bleiben 32, und davon liegen nur **9 über dem Block**. Ein Adjustment nach oben legt aber *N* − 18 Karten von oben nach unten:
+
+| *N* | 27 | 28 | 30 |
+|---|---|---|---|
+| umzulegen | 9 — geht gerade noch | 10 — physisch unmöglich | 12 — physisch unmöglich |
+
+Ab ***N* = 28** ist schlicht nicht genug Material über dem Block, um es darunter zu legen. Das ist eine **Materialgrenze des Adjustments**, keine Cut-Grenze — und sie erklärt die Angabe „ungefähr 1 bis 26" besser als alles andere.
+
+Für die **Fool-Us-Fassung** gilt sie nicht: Dort wird gar nichts abgehoben, über der Zielkarte auf 20 von unten liegen 32 Karten, und *N* wäre rechnerisch bis 52 einstellbar. Was dort begrenzt, ist allein der Wortlaut („around 20 or 25") und die mit dem Abstand wachsende Umlegearbeit.
+
 **4. Die einseitige Fehlertoleranz wird nicht erklärt.** Die Anweisung „warten, bis er die Duplikat-Region passiert hat" ist korrekt, aber die Begründung fehlt — und sie ist die wichtigste Information der ganzen Routine: beliebig weit zu weit ist **kostenlos**, eine Karte zu früh ist der **Totalausfall**. Hergeleitet auf der [Technik-Seite](/techniken/controls/chaotic-ireland-shuffle#die-einzige-bedingung).
 
 ### Offen geblieben
 
-- **Deckgröße:** 17 + 6 + Rest — ob 52 Karten (fünf entfernt, durch Kopien ersetzt) oder 57, sagt die Quelle nicht. Für die Rechnung unterhalb von 26 gleichgültig, für die Behauptung „Zahl bis 52" nicht.
+- **Deckgröße:** 17 + 6 + Rest — ob 52 Karten (fünf entfernt, durch Kopien ersetzt) oder 57, sagt die Quelle nicht. Simulation dieser Wissensbasis: Die **Positionsaussagen selbst sind deckgrößenunabhängig** — bei 52 wie bei 57 Karten trifft die Konstruktion zu 100,00 %. Abhängig von der Deckgröße sind nur die *abgeleiteten* Zahlen: der Puffer über dem Block in Phase ④ (29 bei 52, 34 bei 57), die Auszähl-Last beim Ireland Shuffle (32 bei 52, 37 bei 57) und die Behauptung „Zahl bis 52". Wo diese Seite solche Zahlen nennt, steht die angenommene Deckgröße dabei.
 - **Verwundbarste Stelle:** Der Zuschauer denkt an eine Position *in einem ~20er-Paket*; ausgezählt wird sie am Ende *im ganzen Deck*. Das ist gewollte Amnesie-Arbeit — aber der Punkt, an dem ein aufmerksamer Zuschauer die Konstruktion rekonstruieren kann.
 - Die Behauptung „ohne das Deck zu berühren" hält dem Ablauf nicht stand: Das Adjustment *ist* der Magier, der am Tischstapel Karten umlegt.
 
@@ -190,7 +254,11 @@ Die Schwierigkeit liegt damit vollständig in der [Publikumsführung](/konzepte/
 ## Verwandte Plots
 
 - **ACAAN** („Any Card at Any Number") — der Plot-Klassiker, meist Berglas zugeschrieben
-- DaOrtiz' eigene Verwandte: *ACAAN 18*, *ACAAN without touching the deck*, *Triple Intuition* (2.0)
+- DaOrtiz' eigene Verwandte: *ACAAN without touching the deck*; *Triple Intuition* (eine Fassung *Triple Intuition Plus* ist belegt)
+
+:::caution[Zwei Titel unbestätigt]
+Früher standen hier zusätzlich *ACAAN 18* und eine Version *Triple Intuition 2.0*, beide ohne Konfidenzvermerk. Bei der Nachrecherche ließ sich **keiner der beiden nachweisen**: Ein Werk *ACAAN 18* war nicht auffindbar, und das *ACAAN Project* hat zwölf Kapitel, von denen keines so heißt. *Triple Intuition* und *Triple Intuition Plus* existieren, eine „2.0" ließ sich nicht bestätigen. Bis ein Beleg vorliegt, sind beide Angaben als **unbelegt** zu behandeln.
+:::
 
 ## Requisiten
 
@@ -202,7 +270,7 @@ Die Schwierigkeit liegt damit vollständig in der [Publikumsführung](/konzepte/
 
 ## Quellen & Referenzen
 
-- Dani DaOrtiz: *ACAAN Ritual* — Originalmanuskript (Methode, Wortlaut und Handling dort)
+- Dani DaOrtiz: *ACAAN Ritual* — Originalmanuskript (Methode, Wortlaut und Handling dort). **Ohne Seiten- oder Kapitelangabe:** Die vier im Abschnitt „Vier Stellen…" angeführten Wortlaut-Stellen sind daher nicht nachprüfbar zitiert.
 - *Penn & Teller: Fool Us*, Staffel 9, Episode 4 „Alyson's Smart Ass", Erstausstrahlung 4. November 2022 — <https://youtu.be/5_KcQt0z-eE>. Grundlage des Abschnitts „Variante ohne Duplikate"; die dort beschriebene Mechanik ist **Rekonstruktion aus der Videobeobachtung**, keine Angabe von DaOrtiz. Die zitierten Sätze stammen aus einer Mitschrift.
 - DaOrtiz lehrt verwandtes Material in seinem kommerziellen *ACAAN Project* — laut Angabe im Magic Café Kapitel 8 mit einem auf mehrere Personen verteilten Deck, Kapitel 6 als selbstwirkende Variante mit normalem Deck. **Konfidenz mittel:** Forenangabe, am Werk selbst nicht geprüft.
 - Rekonstruktion der Mechanik, die Adjustment-Prüfung und der Invarianz-Beweis auf dieser Seite sind eigene Arbeit
