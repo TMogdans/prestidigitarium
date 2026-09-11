@@ -82,8 +82,8 @@ Bei *Penn & Teller: Fool Us* (Staffel 9, Episode 4 „Alyson's Smart Ass", Ersta
 **Der Aufbau:**
 
 1. **18 Karten** werden abgezählt und einem Zuschauer zum Mischen gegeben. Das Mischen ist echt und folgenlos: Was später zählt, ist ausschließlich die **Anzahl**, nie eine Ordnung — dieselbe Invariante, die schon die Manuskript-Fassung trägt.
-2. Die Zielperson bekommt **genau drei** Karten. Das ist als Zufall inszeniert und ist keiner (siehe [Dreier-Päckchen-Force](/techniken/forces/dreier-paeckchen-force)).
-3. Sie mischt die drei, zieht eine, sieht sie an und steckt sie „in die Mitte" des Päckchens zurück. **Bei drei Karten gibt es genau eine Mitte:** Die Karte liegt zwingend auf **Position 2 von 3** — unabhängig davon, welche der drei sie gezogen hat.
+2. Die Zielperson bekommt **genau drei** Karten. Das ist als Zufall inszeniert und ist keiner — die Dreizahl ist die Bedingung, unter der Schritt 3 überhaupt funktioniert.
+3. Sie mischt die drei, zieht eine, sieht sie an und steckt sie „in die Mitte" des Päckchens zurück. **Bei drei Karten gibt es genau eine Mitte:** Die Karte liegt zwingend auf **Position 2 von 3** — unabhängig davon, welche der drei sie gezogen hat. Allgemein bleiben nach dem Ziehen *n* − 2 innere Einstecklücken; nur bei *n* = 3 ist das genau eine. Ab vier Karten wird „in die Mitte" zur Schätzung, und die Position streut — hergeleitet unter [Dreierpäckchen-Force](/techniken/forces/dreier-paeckchen-force) (Arbeitstitel dieses Wikis, kein überlieferter Fachbegriff).
 4. Entscheidend: DaOrtiz kennt die Karte damit **nicht**. Er kennt nur ihre **Position**. Für ACAAN reicht das, weil die Identität am Ende der Zuschauer selbst liefert.
 5. Eingesammelt wird in der Reihenfolge **erst die 18, dann die 3, dann der Rest obenauf**.
 6. Danach wird die Zahl erfragt, das Adjustment gelegt, und der [Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle) spiegelt.
@@ -180,7 +180,7 @@ Die Schwierigkeit liegt damit vollständig in der [Publikumsführung](/konzepte/
 
 - **[Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle)** — die Positions-Spiegelung im Finale
 - **[Break](/techniken/controls/break)** — trennt die 17 Indifferenten vom Duplikat-Block
-- **[Dreier-Päckchen-Force](/techniken/forces/dreier-paeckchen-force)** — ersetzt in der Fool-Us-Fassung die Duplikate: erzwungen wird nicht die Karte, sondern ihre Position
+- **[Dreierpäckchen-Force](/techniken/forces/dreier-paeckchen-force)** — ersetzt in der Fool-Us-Fassung die Duplikate: erzwungen wird nicht die Karte, sondern ihre Position. Der Name ist ein Arbeitstitel dieses Wikis, keine überlieferte Fachbezeichnung
 - **[Publikumsführung](/konzepte/publikumsfuehrung)** — die Bausteine dieser Routine einzeln zerlegt; Denkschule: [Ascanio](/magier/arturo-de-ascanio) → [Tamariz](/magier/juan-tamariz) → [DaOrtiz](/magier/dani-daortiz)
 - **[Misdirection](/techniken/misdirection)** — trägt Peek, Zahlenerhebung und Adjustment
 - **[Patter](/techniken/praesentation/patter)** — die „Spiel mit dem Publikum"-Rahmung ist die eigentliche Methode
@@ -198,7 +198,7 @@ Die Schwierigkeit liegt damit vollständig in der [Publikumsführung](/konzepte/
 - **Fool-Us-Fassung:** ein gewöhnliches, untersuchbares Kartenspiel — nichts weiter
 - Beide: vier bis fünf mitspielende Zuschauer, ein Tisch
 
-→ Siehe auch: [Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle) · [Dreier-Päckchen-Force](/techniken/forces/dreier-paeckchen-force) · [Publikumsführung](/konzepte/publikumsfuehrung) · [Dani DaOrtiz](/magier/dani-daortiz)
+→ Siehe auch: [Chaotic Ireland Shuffle](/techniken/controls/chaotic-ireland-shuffle) · [Dreierpäckchen-Force](/techniken/forces/dreier-paeckchen-force) · [Publikumsführung](/konzepte/publikumsfuehrung) · [Dani DaOrtiz](/magier/dani-daortiz)
 
 ## Quellen & Referenzen
 
