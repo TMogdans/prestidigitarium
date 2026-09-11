@@ -8,7 +8,7 @@ typ: prinzip
 schwierigkeit: leicht
 ---
 
-Ein selbstarbeitendes Positionsprinzip: Ein Zuschauer zerlegt das Deck scheinbar chaotisch — hebt beliebig große Pakete ab, zählt beliebig viele Karten einzeln aus, mischt den Rest — und **eine bekannte Karte landet dabei exakt auf ihrer gespiegelten Position**. Was vorher die 20. Karte **von unten** war, ist danach die 20. Karte **von oben**.
+Ein selbstarbeitendes Positionsprinzip: Ein Zuschauer zerlegt das Deck scheinbar chaotisch — hebt mehrere Pakete ab, zählt beliebig viele Karten einzeln aus, mischt den Rest — und **eine bekannte Karte landet dabei exakt auf ihrer gespiegelten Position**, solange die Vor-Cuts in Summe eine Grenze nicht überschreiten (dazu unten mehr). Was vorher die 20. Karte **von unten** war, ist danach die 20. Karte **von oben**.
 
 Kein Griff, keine Fingerfertigkeit. Die Genauigkeit steckt in der Struktur des Ablaufs, nicht in der Hand.
 
@@ -16,7 +16,7 @@ Kein Griff, keine Fingerfertigkeit. Die Genauigkeit steckt in der Struktur des A
 
 Der Zuschauer hält das Deck. Drei Phasen:
 
-1. **Pakete abheben.** Ein kleines Paket von oben abheben und auf den Tisch legen. Dann ein etwas größeres darauf. Beliebig oft, beliebig groß.
+1. **Pakete abheben.** Ein kleines Paket von oben abheben und auf den Tisch legen. Dann ein etwas größeres darauf. Beliebig oft — aber die **Summe** aller abgehobenen Karten muss unter einer Grenze bleiben, sonst gerät die Zielkarte selbst ins Paket (siehe „Die Bedingungen" unten).
 2. **Einzeln auszählen.** Ab einem Punkt Karten *einzeln* auf den Tischstapel zählen. Der Zuschauer darf aufhören, wann er will — der Magier lässt so lange weiterzählen, bis die Zielkarte sicher passiert ist.
 3. **Rest oben auf.** Die restlichen Karten in der Hand mischen und als Block auf den Stapel legen.
 
@@ -32,31 +32,38 @@ Das ist der interessante Teil — und der Grund, warum das Prinzip so robust ist
 
 Über der Zielkarte liegen damit genau p−1 Karten. Sie ist die **p-te von oben**. ∎
 
-Bemerkenswert: Paketgrößen, Anzahl der Abhebungen und der Stopppunkt des Auszählens kommen in dieser Rechnung **nicht vor**. Der Zuschauer kann tatsächlich frei agieren.
+Bemerkenswert: Einzelne Paketgrößen, Anzahl der Abhebungen und der Stopppunkt des Auszählens kommen in dieser Rechnung **nicht vor** — solange die Zielkarte tatsächlich noch einzeln gezählt wird. Innerhalb dieser Grenze kann der Zuschauer frei agieren; die Grenze selbst ist eng genug, dass sie in der Praxis mitgeführt werden muss (siehe „Die Bedingungen" unten).
 
-### Die einzige Bedingung
+<a id="die-einzige-bedingung"></a>
 
-**Die Zielkarte muss einzeln gezählt werden** — sie darf nicht im Restblock landen.
+### Die Bedingungen
 
-Daraus folgt eine Fehlertoleranz, die man kennen muss, weil sie **einseitig** ist:
+Zwei Bedingungen, nicht eine — beide stehen bereits im Beweis, sind aber sprachlich leicht zu übersehen.
 
-| Stopppunkt | Ergebnis |
+**1. Die Zielkarte darf nicht mit abgehoben werden.** Liegt sie an Position p von unten (Deckgröße 52 Karten), muss die **Summe aller Vor-Cuts** unter **52 − p + 1** bleiben — allgemein: unter Deckgröße − p + 1. Bei p = 21 also unter 32. Reißt ein Vor-Cut die Zielkarte mit ins abgelegte Paket, verlässt sie die Rechnung des Beweises: Ihre Endposition ist dann nicht mehr kontrolliert, sondern hängt vom weiteren Mischen ab.
+
+**2. Die Zielkarte muss einzeln gezählt werden** — sie darf nicht im Restblock landen.
+
+Aus Bedingung 2 folgt eine Fehlertoleranz, die man kennen muss, weil sie **einseitig** ist. Bedingung 1 kennt diese Kulanz nicht — dort gibt es keine Gegenverschiebung, die eine mitgerissene Zielkarte rettet:
+
+| Fall | Ergebnis |
 |---|---|
-| genau auf der Zielkarte | exakt richtig |
-| beliebig weit **darüber hinaus** | ebenfalls exakt richtig — kostenlos |
-| **eine Karte zu früh** | Totalausfall |
+| Stopppunkt genau auf der Zielkarte | exakt richtig |
+| Stopppunkt beliebig weit **darüber hinaus** | ebenfalls exakt richtig — kostenlos |
+| Stopppunkt **eine Karte zu früh** | Totalausfall |
+| Summe der Vor-Cuts ≥ Deckgröße − p + 1 (**Zielkarte gerät mit ins Paket**) | Totalausfall |
 
 Zählt man zu früh auf, liegt die Zielkarte im gemischten Restblock: Ihre Position ist Zufall. Zählt man dagegen zehn Karten zu weit, verschwinden diese zehn oben aus dem Restblock und tauchen unten in der Umkehrgruppe wieder auf — die Verschiebungen heben sich exakt auf.
 
 :::tip[Merksatz]
-Lieber zehn Karten zu weit als eine zu wenig.
+Lieber zehn Karten zu weit als eine zu wenig — aber auch: lieber einen Vor-Cut zu klein als einen zu groß.
 :::
 
 ## Warum ein Karten-*Block* die Praxis rettet
 
 In der Vorführung sieht man nicht, welche Karte gerade gezählt wird — man muss schätzen. Genau deshalb arbeitet man in der Praxis nicht mit einer einzelnen Zielkarte, sondern mit einem **Block gleichwertiger Karten** (etwa sechs Duplikate).
 
-Der Block gibt ein Sicherheitsfenster für die Frage „bin ich schon durch?". Gespiegelt wird die **unterste** Karte des Blocks — sie definiert die Position, die anderen füllen die Positionen darüber auf. Ein Auszähl-Fehler nach oben kostet nichts, ein Auszähl-Fehler nach unten wird durch die restlichen Blockkarten nicht gerettet: Die Asymmetrie bleibt, das Fenster betrifft nur die *Wahrnehmung* des Magiers.
+Der Block gibt ein Sicherheitsfenster für die Frage „bin ich schon durch?". Gespiegelt wird die **unterste** Karte des Blocks — die dem Deckboden am nächsten liegende, *vor* dem Shuffle — sie definiert die Zielposition p von oben. Nach dem Shuffle liegen die übrigen Blockkarten an den Positionen p+1 bis p+5 von oben, physisch also **darunter**, nicht darüber. Ein Auszähl-Fehler nach oben (zu weit gezählt) kostet nichts, ein Auszähl-Fehler nach unten (zu früh gestoppt) wird durch die restlichen Blockkarten nicht gerettet: Die Asymmetrie bleibt, das Fenster betrifft nur die *Wahrnehmung* des Magiers.
 
 ## Wozu die Spiegelung gut ist
 
@@ -74,7 +81,7 @@ Genau das ermöglicht die Konstruktion, bei der die **Zahl zuerst genannt** und 
 
 ## Einordnung
 
-Ein reines Positionsprinzip ohne Fingerfertigkeit — technisch **leicht**. Schwierig ist allein das Führen: den Zuschauer beim Auszählen so lange weitermachen zu lassen, bis der Block passiert ist, und das als Laune statt als Bedingung wirken zu lassen.
+Ein reines Positionsprinzip ohne Fingerfertigkeit — technisch **leicht**. Schwierig ist allein das Führen, und zwar in **beide Richtungen**: Bei den Vor-Cuts muss der Magier bremsen, bevor deren Summe die Zielkarte erreicht — etwa durch beiläufiges Dazwischenreden oder einen eigenen kleinen Vor-Cut, der die verbleibende Reserve unauffällig festlegt. Beim Auszählen ist es umgekehrt: den Zuschauer so lange weitermachen zu lassen, bis der Block passiert ist, und das als Laune statt als Bedingung wirken zu lassen.
 
 ## Verwandte Techniken
 
@@ -91,13 +98,13 @@ Ein reines Positionsprinzip ohne Fingerfertigkeit — technisch **leicht**. Schw
 
 ## Quellen & Referenzen
 
-- [Dani DaOrtiz](/magier/dani-daortiz): *ACAAN Ritual* — bezeichnet das Verfahren als „chaotic Ireland control"; ebenso in seiner Routine *ACAAN 18*
+- [Dani DaOrtiz](/magier/dani-daortiz): *ACAAN Ritual* — bezeichnet das Verfahren als „chaotic Ireland control"
 - Der hier geführte Beweis der Spiegelungs-Invariante ist eigene Herleitung, nicht aus der Quelle übernommen.
 
 :::caution[Der Name ist historisch zweifelhaft — in zwei Punkten]
 Die Bezeichnung ist von DaOrtiz übernommen. Bei der Recherche zur Herkunft ergab sich, dass sie doppelt fragwürdig ist:
 
-**1. Falsche Person.** Der klassische „Ireland shuffle" wird üblicherweise **Laurie L. Ireland** (Chicagoer Zauberhändler, † 1954; sein Laden wurde später zu *Magic, Inc.*) zugeschrieben. Laut [Conjuring Credits](https://www.conjuringcredits.com/doku.php?id=cards:red-black_shuffle) ist das eine **Fehlzuschreibung**: Der Mechanismus steht bereits 1919 bei **Charles Jordan** in *Thirty Card Mysteries* (S. 27). Auch der oft genannte Beleg, Ireland habe ihn 1935 in *New Card and Coin Manipulation* publiziert, wird dort als unrichtig bezeichnet.
+**1. Falsche Person.** Der klassische „Ireland shuffle" wird üblicherweise **Laurie L. Ireland** (Chicagoer Zauberhändler, † 1954; sein Laden firmierte danach unter Frances Ireland und Jay Marshall zunächst als „Ireland Magic Company" weiter und wurde erst [1963 in *Magic, Inc.* umbenannt](https://en.wikipedia.org/wiki/Magic,_Inc._(magic_goods_company))) zugeschrieben. Laut [Conjuring Credits](https://www.conjuringcredits.com/doku.php?id=cards:red-black_shuffle) ist das eine **Fehlzuschreibung**: Der Mechanismus steht bereits 1919 bei **Charles Jordan** in *Thirty Card Mysteries* (S. 27). Auch der oft genannte Beleg, Ireland habe ihn 1935 in *New Card and Coin Manipulation* publiziert, wird dort als unrichtig bezeichnet.
 
 **2. Anderer Mechanismus.** Der so benannte Shuffle ist ein **Overhand-Mischen zum Blockerhalt** (etwa Rot/Schwarz-Trennung, von Annemann so angewandt) — nicht die hier beschriebene Positionsspiegelung durch Ablegen und Einzelauszählen. Für die Spiegelungs-Invariante ließ sich **keine** Ireland-Quelle finden.
 
