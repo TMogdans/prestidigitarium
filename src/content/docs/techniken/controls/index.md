@@ -32,6 +32,7 @@ Einsteigerfreundlich:
 
 Fortgeschritten:
 
+- **[Zarrow Shuffle](zarrow-shuffle)** — Falschmischen für das ganze Deck: sieht aus wie ein echter Riffle, die Ordnung bleibt vollständig erhalten; Tischgriff
 - **[Tilt / Depth Illusion](tilt)** — Die Karte scheint in die Mitte zu gehen, liegt aber zweite von oben
 - **[Convincing Control](convincing-control)** — Der Zuschauer steckt seine Karte offen in die Spreizung, beim Schließen wird sie gecullt (Marlo)
 - **[Bluff Pass](bluff-pass)** — Reine Timing-Illusion des Einsteckens; umringt vorführbar

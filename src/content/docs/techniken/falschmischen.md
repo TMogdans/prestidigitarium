@@ -21,8 +21,10 @@ Der Overhand Shuffle ist optisch simpel, kann aber so ausgeführt werden, dass e
 ### False Riffle Shuffle
 Beim Riffle Shuffle werden zwei Hälften ineinandergeflochten. In der falschen Variante wird das Zusammenführen so gesteuert, dass bestimmte Karten oder die gesamte Reihenfolge erhalten bleibt.
 
-### Zarrow Shuffle
-Ein besonders täuschender False Riffle Shuffle, benannt nach Herb Zarrow. Das gesamte Deck bleibt in seiner Originalreihenfolge — obwohl der Shuffle überzeugend echt wirkt. Gilt als eine der besten False Shuffles überhaupt.
+### [Zarrow Shuffle](/techniken/controls/zarrow-shuffle)
+Ein Falschmischen für das **gesamte Deck** (Herb Zarrow, erstmals publiziert 1957 als „Full Deck Control"). Der Kniff: Die Hälften werden gar nicht verzahnt. Nur an der vorderen Kante entsteht ein kurzes echtes Weave-Stück, das Bild und Geräusch liefert — der Rest wandert als geschlossener Block in eine gedeckte Lücke. Anders als beim Push-Through bleibt danach nichts zu bereinigen, kein Cut. Gilt als einer der stärksten False Shuffles überhaupt.
+
+→ [Eigene Seite](/techniken/controls/zarrow-shuffle) mit Ausführung, Abgrenzung zu Push-Through und Strip-Out, Fehlerquellen — und dem verbreiteten Irrtum, Dai Vernons *Triumph* benutze ihn.
 
 ### Overhand Run
 Eine schnelle Variante des Overhand Shuffle, bei der einzelne Karten kontrolliert werden können. Gut geeignet, um eine Karte gezielt von unten nach oben oder in eine bestimmte Position zu bringen.
