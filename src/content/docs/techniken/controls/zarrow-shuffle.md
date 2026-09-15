@@ -50,6 +50,8 @@ Drei Griffe lösen dieselbe Aufgabe und werden regelmäßig verwechselt:
 
 Das „nichts" in der letzten Zeile ist der Grund, warum der Zarrow den Push-Through in vielen modernen Handlings verdrängt hat.
 
+Einen vierten Weg geht der [Slop Shuffle](/techniken/controls/slop-shuffle): Er täuscht gar nichts vor, sondern mischt echt — nur so grob, dass die Struktur erhalten bleibt. Für [Triumph](/tricks/karten/triumph) ist er die anfängertaugliche Alternative zu allen dreien.
+
 ## Der Triumph-Irrtum
 
 :::caution[Dai Vernons Triumph benutzt **nicht** den Zarrow Shuffle]
