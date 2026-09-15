@@ -27,6 +27,7 @@ Einsteigerfreundlich:
 - **[Overhand Control](overhand-control)** — Eine Karte wird während eines Overhand Shuffle kontrolliert an die gewünschte Position gebracht
 - **[Key Card](key-card)** — Eine bekannte Karte neben der Wahlkarte macht diese jederzeit auffindbar; impromptu und untersuchbar
 - **[Chaotic Ireland Shuffle](chaotic-ireland-shuffle)** — Der Zuschauer zerlegt das Deck frei, eine bekannte Position spiegelt sich dabei exakt von unten nach oben; ohne jeden Griff
+- **[Slop Shuffle](slop-shuffle)** — echtes Durcheinandermischen, das zwangsläufig zwei Blöcke erzeugt; der anfängertaugliche Unterbau für Triumph
 - **[Hindu Shuffle Control](hindu-shuffle-control)** — Die zurückgegebene Karte wird im Hindu Shuffle mit einem Break nach oben gebracht; der Mischvorgang ist echt
 - **[Riffle Shuffle Control](riffle-shuffle-control)** — Top oder Bottom Stock im echten Riffle Shuffle erhalten, eine Karte per Jog kontrollieren
 

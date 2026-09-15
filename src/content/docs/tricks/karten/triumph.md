@@ -39,6 +39,12 @@ Vernons Original von 1946 benutzt den **[Zarrow Shuffle](/techniken/controls/zar
 Die früheste belegte Verbindung beider stammt von **Derek Dingle**: *Royal Triumph Variation*, in *Innovations* Nr. 2 (1973), S. 4, dort ausdrücklich „with Zarrow shuffle". Seither hat der Zarrow den Push-Through in vielen Handlings verdrängt, weil er ohne Nachfolge-Cut auskommt — wer Triumph heute lernt, lernt ihn meist so. Die Zuschreibung an Vernon ist ein verbreiteter Irrtum.
 :::
 
+### Die anfängertaugliche Alternative: Slop Shuffle
+
+Der [Slop Shuffle](/techniken/controls/slop-shuffle) (Sid Lorraine, 1937) kommt ohne Falschmischen aus. Kleine Päckchen wandern in die Hand, bei jeder Zugabe wird die ganze Ansammlung umgedreht. Das erzeugt **echtes** sichtbares Chaos — und zwangsläufig genau zwei Blöcke, die man am Ende nur noch an einer Stelle teilen und zusammenführen muss.
+
+Er ist älter als Vernons Triumph und verlangt keinen der schwierigen Mischgriffe. Wer Triumph als Anfänger angehen will, geht diesen Weg.
+
 **Die Auflösung:** Das Deck wird aufgedeckt — alle Karten zeigen nach unten, nur die gewählte zeigt nach oben. Oder: alle zeigen nach oben, die gewählte zeigt nach unten — je nach Präsentation.
 
 ## Geschichte
@@ -61,6 +67,7 @@ Gesichert ist dagegen die **Negativaussage**: Weder die gedruckte noch die über
 
 - **[Falschmischen](/techniken/falschmischen)** — das scheinbar chaotische Mischen ist kontrolliert
 - **[Zarrow Shuffle](/techniken/controls/zarrow-shuffle)** — der Full-Deck-False-Shuffle moderner Handlings (nicht Vernons Original)
+- **[Slop Shuffle](/techniken/controls/slop-shuffle)** — echtes Mischen statt Falschmischen; die anfängertaugliche Methode
 - **[Controls](/techniken/controls/)** — die gewählte Karte bleibt oder kommt an eine bekannte Position
 - **[Misdirection](/konzepte/misdirection)** — der dramatische visuelle Effekt des gemischten Decks lenkt ab
 

@@ -29,6 +29,10 @@ Ein Falschmischen für das **gesamte Deck** (Herb Zarrow, erstmals publiziert 19
 ### Overhand Run
 Eine schnelle Variante des Overhand Shuffle, bei der einzelne Karten kontrolliert werden können. Gut geeignet, um eine Karte gezielt von unten nach oben oder in eine bestimmte Position zu bringen.
 
+## Abgrenzung: echtes Chaos statt vorgetäuschtem
+
+Nicht jeder Effekt, der nach unmöglichem Mischen aussieht, braucht ein Falschmischen. Der [Slop Shuffle](/techniken/controls/slop-shuffle) mischt **wirklich** — nur so grob, dass am Ende zwangsläufig zwei Blöcke stehen, die sich mit einem Handgriff auflösen lassen. Für [Triumph](/tricks/karten/triumph) ist das die anfängertaugliche Alternative zum [Zarrow Shuffle](/techniken/controls/zarrow-shuffle).
+
 ## Verwendung in Tricks
 
 - Jeder Trick, bei dem eine „gewählte Karte" nach dem Mischen kontrolliert werden muss
